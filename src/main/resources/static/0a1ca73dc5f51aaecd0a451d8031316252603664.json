@@ -1,0 +1,4912 @@
+{
+    "paper_id": "0a1ca73dc5f51aaecd0a451d8031316252603664",
+    "metadata": {
+        "title": "RESPIRATORY VIRAL INFECTION AND ASTHMA",
+        "authors": [
+            {
+                "first": "Kecia",
+                "middle": [
+                    "N"
+                ],
+                "last": "Carroll",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Vanderbilt University Medical Center",
+                    "location": {
+                        "postCode": "0220, 37232-2504",
+                        "settlement": "Nashville",
+                        "region": "AA, TN",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Tina",
+                "middle": [
+                    "V"
+                ],
+                "last": "Hartert",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Vanderbilt University School of Medicine",
+                    "location": {
+                        "settlement": "Pulmonary"
+                    }
+                },
+                "email": "tina.hartert@vanderbilt.edut.v.hartert."
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "The etiology and morbidity associated with asthma are thought to stem from both genetic factors and potentially modifiable environmental factors, such as viral infections [1] [2] [3] [4] [5] [6] [7] . Although it is unclear whether respiratory viral infections cause asthma, observational studies have demonstrated a high rate of asthma in children with a history of severe viral lower respiratory tract infections (LRTIs) during infancy, and viruses are associated with the majority of asthma exacerbations among both children and adults. This article discusses the pathogens associated with virus-induced wheezing illnesses during infancy and early childhood, the association of bronchiolitis during infancy with an increased risk of childhood asthma, and the association of respiratory viruses with asthma exacerbations in older children and adults.",
+            "cite_spans": [
+                {
+                    "start": 171,
+                    "end": 174,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 175,
+                    "end": 178,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 179,
+                    "end": 182,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 183,
+                    "end": 186,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 187,
+                    "end": 190,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 191,
+                    "end": 194,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 195,
+                    "end": 198,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Overview Viral bronchiolitis is a LRTI typically associated with cough, tachypnea, retractions, and diffuse wheezing and rales [8, 9] . Bronchiolitis is a leading cause of hospitalizations in the first year of life, accounting for an estimated 120,000 infant hospitalizations annually [10] . In infants, the etiologic agents of bronchiolitis and other viral respiratory infections associated with wheezing include respiratory syncytial virus (RSV), rhinovirus, influenza, parainfluenza (PIV), adenovirus, and more recently identified viruses, such as human metapneumovirus (hMPV) and human boca virus (hBoV) [11] [12] [13] [14] . RSV causes epidemics of bronchiolitis and typically circulates in temperate climates during November to April with peaks in the winter months [11, 15, 16] . In tropical climates, peaks are related to temperature and level of rainfall [17] . RSV infects the majority of children during their first year of life and essentially all children show evidence of RSV infection by age 3 years [18] . The initial RSV infection is typically the most severe, causing lower respiratory tract disease, such as bronchiolitis, in 20% to 30% of infants [11, 18, 19] . Other viruses such as rhinovirus, PIV, and adenovirus circulate nearly year-round with seasonal peaks of illness [10, 11, 19, 20] .",
+            "cite_spans": [
+                {
+                    "start": 127,
+                    "end": 130,
+                    "text": "[8,",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 131,
+                    "end": 133,
+                    "text": "9]",
+                    "ref_id": null
+                },
+                {
+                    "start": 285,
+                    "end": 289,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 608,
+                    "end": 612,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 613,
+                    "end": 617,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 618,
+                    "end": 622,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 623,
+                    "end": 627,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 772,
+                    "end": 776,
+                    "text": "[11,",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 777,
+                    "end": 780,
+                    "text": "15,",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 781,
+                    "end": 784,
+                    "text": "16]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 864,
+                    "end": 868,
+                    "text": "[17]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 1015,
+                    "end": 1019,
+                    "text": "[18]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1167,
+                    "end": 1171,
+                    "text": "[11,",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1172,
+                    "end": 1175,
+                    "text": "18,",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1176,
+                    "end": 1179,
+                    "text": "19]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1295,
+                    "end": 1299,
+                    "text": "[10,",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 1300,
+                    "end": 1303,
+                    "text": "11,",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1304,
+                    "end": 1307,
+                    "text": "19,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1308,
+                    "end": 1311,
+                    "text": "20]",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Respiratory viral-induced wheezing illnesses in young children"
+        },
+        {
+            "text": "Although RSV has long been identified as the major cause of infant bronchiolitis, the use of molecular techniques, such as polymerase chain reaction (PCR) assays, has allowed for more sensitive detection of rhinovirus and other viruses in respiratory infections [21, 22] . Rhinovirus, which circulates year-round with major peaks during the autumn and spring, is a leading cause of upper respiratory tract infections, and most children show evidence of having had a rhinovirus infection by age 2 years [23] [24] [25] [26] [27] . Although, rhinovirus historically was thought to be limited to the upper respiratory tract, investigations have demonstrated that rhinovirus can infect the lower airways, is associated with infant bronchiolitis, and becomes a more dominant pathogen in wheezing illness as children get older [13, [28] [29] [30] .",
+            "cite_spans": [
+                {
+                    "start": 262,
+                    "end": 266,
+                    "text": "[21,",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 267,
+                    "end": 270,
+                    "text": "22]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 502,
+                    "end": 506,
+                    "text": "[23]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 507,
+                    "end": 511,
+                    "text": "[24]",
+                    "ref_id": null
+                },
+                {
+                    "start": 512,
+                    "end": 516,
+                    "text": "[25]",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 517,
+                    "end": 521,
+                    "text": "[26]",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 522,
+                    "end": 526,
+                    "text": "[27]",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 820,
+                    "end": 824,
+                    "text": "[13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 825,
+                    "end": 829,
+                    "text": "[28]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 830,
+                    "end": 834,
+                    "text": "[29]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 835,
+                    "end": 839,
+                    "text": "[30]",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Respiratory viral-induced wheezing illnesses in young children"
+        },
+        {
+            "text": "Observational studies have described the viral etiology of bronchiolitis and wheezing illnesses in infants and very young children (Table 1 ) [11] [12] [13] [14] 19, 20, [31] [32] [33] [34] [35] [36] [37] [38] [39] . The first descriptive studies of the viral etiology of bronchiolitis in the 1960s through the 1980s primarily used such detection methods as cell culture, antigen detection, and serologic testing. Kim and colleagues [11] studied the epidemiology of RSV infection in infants and young children admitted to a children's hospital in Washington, D.C., from 1960 to the mid-70s and found that 40% of children with bronchiolitis had evidence of infection with RSV. In a Norwegian study from 1972 to 1979, the investigators used immunofluorescence and cell culture to 540 investigate the epidemiology of respiratory viruses in young children admitted to the hospital with respiratory illness [31] . Of the 979 infants diagnosed with a respiratory virus infection, RSV accounted for 58% of all diagnosed infections, and 87% of RSV infections were associated with lower respiratory tract illness. The study also described the typical distribution of known viruses at the time, including the winter epidemics of RSV, influenza in the late winter and spring, and the seasonal distribution of rhinovirus with peaks in the autumn and spring [31] . Using multiple virus detection methods, including PCR, Jartti and colleagues [34] investigated the etiology of wheezing illness in 293 hospitalized children in Finland from September 2000 through May 31, 2002 . Of the 76 infants studied, RSV (54%) was the most common virus detected, followed by picornavirus (42%) and hMPV (11%). Calvo and colleagues [36] studied consecutive respiratory admissions of 382 children less than 2 years of age to a single hospital in Spain from September 2003 to July 2005. Nasopharyngeal samples were obtained from 340 children and virus was isolated in 244 (71.7%) of the subjects. Of these, RSV accounted for 41.5%, rhinovirus 34.8%, adenovirus 8.3%, influenza 6.5%, and hMPV 5.9%. In children in whom rhinovirus was detected, recurrent wheezing and bronchiolitis were the leading diagnoses.",
+            "cite_spans": [
+                {
+                    "start": 142,
+                    "end": 146,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 147,
+                    "end": 151,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 152,
+                    "end": 156,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 157,
+                    "end": 161,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 162,
+                    "end": 165,
+                    "text": "19,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 166,
+                    "end": 169,
+                    "text": "20,",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 170,
+                    "end": 174,
+                    "text": "[31]",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 175,
+                    "end": 179,
+                    "text": "[32]",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 180,
+                    "end": 184,
+                    "text": "[33]",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 185,
+                    "end": 189,
+                    "text": "[34]",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 190,
+                    "end": 194,
+                    "text": "[35]",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 195,
+                    "end": 199,
+                    "text": "[36]",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 200,
+                    "end": 204,
+                    "text": "[37]",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 205,
+                    "end": 209,
+                    "text": "[38]",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 210,
+                    "end": 214,
+                    "text": "[39]",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 433,
+                    "end": 437,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 778,
+                    "end": 781,
+                    "text": "540",
+                    "ref_id": null
+                },
+                {
+                    "start": 902,
+                    "end": 906,
+                    "text": "[31]",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 1345,
+                    "end": 1349,
+                    "text": "[31]",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 1429,
+                    "end": 1433,
+                    "text": "[34]",
+                    "ref_id": "BIBREF34"
+                },
+                {
+                    "start": 1548,
+                    "end": 1560,
+                    "text": "May 31, 2002",
+                    "ref_id": null
+                },
+                {
+                    "start": 1704,
+                    "end": 1708,
+                    "text": "[36]",
+                    "ref_id": "BIBREF36"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 131,
+                    "end": 139,
+                    "text": "(Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Viral pathogens associated with bronchiolitis and wheezing illnesses in young children"
+        },
+        {
+            "text": "Cohorts of children recruited at birth have allowed longitudinal followup of children, including those with less severe disease who did not require hospitalization. In the Tucson Children's Respiratory Study, a birth cohort of 1179 infants enrolled May 1980 to January 1985, Wright and colleagues [37] described the epidemiology of LRTIs during infancy. Overall, 80% of infants were followed through the first year of life. In total, 348 children contributed 460 LRTIs evaluated by physicians, with 292 respiratory cultures obtained at the initial illness. The cumulative incidence rate of lower respiratory tract illnesses in the first year of life was 32.9 per 100 children. One percent of infants were hospitalized for their illness. Immunofluorescence and viral culture were employed to detect infection by RSV; PIV types 1, 2 and 3; influenza A and B; adenovirus; enterovirus; cytomegalovirus; and rhinovirus. An infectious agent was identified by viral culture in 193 of 292 (66%) available samples obtained from infants with lower respiratory tract illness. RSV accounted for 65% of the 183 first bronchiolitis diagnoses [37] . Other viruses detected in infants with bronchiolitis diagnoses included PIV types 1, 2, and 3 (14%); influenza A and B (4%); and adenovirus (2%). An Australian cohort of 263 infants with at least one parent with doctordiagnosed atopy, recruited infants from July 1996 to July 1999 and followed them through the first year of life [38] . Nasopharyngeal aspirates and detailed information were collected prospectively during acute respiratory illnesses and PCR was used to identify viral respiratory pathogens. Acute respiratory illnesses associated with wheeze or ''rattly chest'' were classified ",
+            "cite_spans": [
+                {
+                    "start": 297,
+                    "end": 301,
+                    "text": "[37]",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 1128,
+                    "end": 1132,
+                    "text": "[37]",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 1465,
+                    "end": 1469,
+                    "text": "[38]",
+                    "ref_id": "BIBREF38"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Birth cohorts"
+        },
+        {
+            "text": "The role of newly identified viruses, such as hMPV and hBoV, in infant wheezing illnesses is still being defined [12, 14, [40] [41] [42] . Williams and colleagues [12, 43] investigated the role of hMPV in LRTIs in children enrolled at birth and followed to age 5 years in a vaccine clinic. HMPV, first identified in 2001, was detected in 20% of 248 available samples obtained from children with lower respiratory tract illness in which no respiratory pathogen was previously detected. HMPV therefore accounted for 12% of lower respiratory tract illnesses in this cohort of otherwise healthy young children [12, 43] . Kesebir and colleagues [14, 44] used available respiratory specimens submitted to a hospital-based clinical virology laboratory (January to December 2004) to investigate the prevalence of hBoV, first identified in 2005. HBoV was detected in 5% of the study samples obtained from children less than 2 years of age and negative for other viruses, although testing for rhinovirus was not performed. Wheezing illness was associated with approximately 50% of the hBoV-associated cases [14] . Allander and colleagues [42] found hBoV as the sole virus isolated in approximately 5% (12 of 259) of respiratory samples from children under 3 years of age who were hospitalized with acute wheezing. In general, the use of sensitive molecular techniques has confirmed the major role of RSV in infant bronchiolitis, broadened the role of viruses that were previously difficult to detect by culture, and allowed for the identification of new respiratory viruses. Furthermore, studies using PCR have demonstrated that while RSV appears to be the virus most commonly associated with wheezing in infants, rhinovirus plays a more prominent role after the age of 2 to 3 years [30, 45] .",
+            "cite_spans": [
+                {
+                    "start": 113,
+                    "end": 117,
+                    "text": "[12,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 118,
+                    "end": 121,
+                    "text": "14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 122,
+                    "end": 126,
+                    "text": "[40]",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 127,
+                    "end": 131,
+                    "text": "[41]",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 132,
+                    "end": 136,
+                    "text": "[42]",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 163,
+                    "end": 167,
+                    "text": "[12,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 168,
+                    "end": 171,
+                    "text": "43]",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 606,
+                    "end": 610,
+                    "text": "[12,",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 611,
+                    "end": 614,
+                    "text": "43]",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 640,
+                    "end": 644,
+                    "text": "[14,",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 645,
+                    "end": 648,
+                    "text": "44]",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 1097,
+                    "end": 1101,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1128,
+                    "end": 1132,
+                    "text": "[42]",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 1773,
+                    "end": 1777,
+                    "text": "[30,",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 1778,
+                    "end": 1781,
+                    "text": "45]",
+                    "ref_id": "BIBREF45"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Newly identified respiratory viruses"
+        },
+        {
+            "text": "Epidemiologic studies in infants and children have highlighted the importance of RSV-associated wheezing in infants and rhinovirus-associated wheezing in older children [30, 45, 46] . Rakes and colleagues [30] conducted a cross-sectional study of 70 children who presented to the emergency department with wheezing between January 1993 and April 1994, and compared them with 59 controls who presented to the emergency department with nonrespiratory complaints over the same period. Respiratory viruses were isolated in over 82% of the wheezing children less than 2 years of age. RSV was the most common virus detected in children less than 2 years of age (68%) and was not detected in any control subjects. However, in the children less than 2 years of age, similar proportions of nasal aspirates from those with wheezing and controls were positive for rhinovirus (41%). In the children older than 2 years, viruses were detected in 83% of wheezing 545 RESPIRATORY VIRAL INFECTION AND ASTHMA children. Rhinovirus was detected by PCR in 71% of the wheezing older children compared with 36% of the nonwheezing controls. RSV was detected in 6% of the wheezing children who were 2 years or older. In addition, the investigators found that 48% of the wheezing children who were 2 years or older had a positive test for rhinovirus and a measured marker of atopy compared with only 5% of the respective control group. In a similar 1-year study (2000) (2001) , 133 children (2 months to 18 years) admitted to the hospital for wheezing were compared with 133 age-matched controls admitted without wheezing [45] . In the younger children, virus was detected in 84% of the wheezing children compared with 54% of the respective controls. Consistent with other studies, RSV was the predominant virus in the younger children during the winter. However, rhinovirus was detected more frequently in young children hospitalized for wheezing from April through November. Among children older than 3 years, a respiratory virus was significantly more likely to be detected in children admitted for wheezing, than children without wheezing. Rhinovirus detection was significantly associated with wheezing. In addition, wheezing was strongly associated with atopy, as measured by total IgE and skin testing, in the children older than 3 years. These studies highlight the different pathogens associated with wheezing illnesses by age and the association of rhinovirus and atopy with wheezing in children beyond infancy.",
+            "cite_spans": [
+                {
+                    "start": 169,
+                    "end": 173,
+                    "text": "[30,",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 174,
+                    "end": 177,
+                    "text": "45,",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 178,
+                    "end": 181,
+                    "text": "46]",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 205,
+                    "end": 209,
+                    "text": "[30]",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 1436,
+                    "end": 1442,
+                    "text": "(2000)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1443,
+                    "end": 1449,
+                    "text": "(2001)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1596,
+                    "end": 1600,
+                    "text": "[45]",
+                    "ref_id": "BIBREF45"
+                }
+            ],
+            "ref_spans": [],
+            "section": "The increasing importance of rhinovirus in wheezing illnesses in older children"
+        },
+        {
+            "text": "The association of viral-associated wheezing illnesses during infancy and subsequent childhood asthma",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "The increasing importance of rhinovirus in wheezing illnesses in older children"
+        },
+        {
+            "text": "The association between bronchiolitis during infancy and the development of asthma has been an area of interest for decades [4, . Most, but not all, previous studies have primarily included case infants who were hospitalized with bronchiolitis during infancy. Therefore, studies examining wheezing only after hospitalization for bronchiolitis during infancy may not reflect the outcomes of the large majority of infants with bronchiolitis who have only outpatient visits, emergency department visits, or no health care visit at all [75] . Although several early studies focused solely on RSV bronchiolitis or were conducted before routine testing for rhinovirus was available, more recent studies have used PCR to investigate the association of non-RSV bronchiolitis and subsequent wheezing [62, 66, 69, 70, 74, 76, 77] . Therefore, the diverse group of research investigations in this area includes case infants in whom the specific viral agents of bronchiolitis were not determined, case infants with only RSV bronchiolitis, and case infants with either RSV or non-RSV bronchiolitis. Overall, there is convincing evidence from several cohorts that RSV and rhinovirus bronchiolitis during infancy are risk factors or markers for subsequent wheezing within the first decade of life [ Hospitalization for bronchiolitis during infancy and the association with recurrent wheezing and asthma during childhood",
+            "cite_spans": [
+                {
+                    "start": 124,
+                    "end": 127,
+                    "text": "[4,",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 532,
+                    "end": 536,
+                    "text": "[75]",
+                    "ref_id": "BIBREF75"
+                },
+                {
+                    "start": 791,
+                    "end": 795,
+                    "text": "[62,",
+                    "ref_id": "BIBREF62"
+                },
+                {
+                    "start": 796,
+                    "end": 799,
+                    "text": "66,",
+                    "ref_id": "BIBREF66"
+                },
+                {
+                    "start": 800,
+                    "end": 803,
+                    "text": "69,",
+                    "ref_id": "BIBREF69"
+                },
+                {
+                    "start": 804,
+                    "end": 807,
+                    "text": "70,",
+                    "ref_id": "BIBREF70"
+                },
+                {
+                    "start": 808,
+                    "end": 811,
+                    "text": "74,",
+                    "ref_id": "BIBREF74"
+                },
+                {
+                    "start": 812,
+                    "end": 815,
+                    "text": "76,",
+                    "ref_id": "BIBREF76"
+                },
+                {
+                    "start": 816,
+                    "end": 819,
+                    "text": "77]",
+                    "ref_id": "BIBREF77"
+                },
+                {
+                    "start": 1282,
+                    "end": 1283,
+                    "text": "[",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Overview"
+        },
+        {
+            "text": "Because RSV is known to be a major cause of bronchiolitis during infancy, several early cohorts included case infants who were hospitalized with RSV bronchiolitis during infancy [65, 70, 71, 78] . Sigurs and colleagues [70, 71] studied the relationship between RSV hospitalization during infancy and asthma in a small cohort of Swedish children. This prospective study included 47 children hospitalized with RSV bronchiolitis during infancy and 93 matched controls. The investigators defined the study outcomes as ''asthma'' (three or more episodes of bronchial obstruction verified by a physician), ''recurrent wheezing'' (three or more episodes of bronchial obstruction not physician verified), and ''any wheezing'' (asthma, recurrent wheezing, or one or two episodes of wheezing). At age 7.5 years, approximately one third of children with a history of severe RSV bronchiolitis were diagnosed with asthma and these children were significantly more likely to have a diagnosis of asthma than their nonhospitalized controls [70] . Though the cohort was small, the evidence from this study points to the likelihood of increased risk of asthma through age 13 among children who have a history of severe RSV bronchiolitis during infancy [71] .",
+            "cite_spans": [
+                {
+                    "start": 178,
+                    "end": 182,
+                    "text": "[65,",
+                    "ref_id": "BIBREF65"
+                },
+                {
+                    "start": 183,
+                    "end": 186,
+                    "text": "70,",
+                    "ref_id": "BIBREF70"
+                },
+                {
+                    "start": 187,
+                    "end": 190,
+                    "text": "71,",
+                    "ref_id": "BIBREF71"
+                },
+                {
+                    "start": 191,
+                    "end": 194,
+                    "text": "78]",
+                    "ref_id": "BIBREF78"
+                },
+                {
+                    "start": 219,
+                    "end": 223,
+                    "text": "[70,",
+                    "ref_id": "BIBREF70"
+                },
+                {
+                    "start": 224,
+                    "end": 227,
+                    "text": "71]",
+                    "ref_id": "BIBREF71"
+                },
+                {
+                    "start": 1024,
+                    "end": 1028,
+                    "text": "[70]",
+                    "ref_id": "BIBREF70"
+                },
+                {
+                    "start": 1234,
+                    "end": 1238,
+                    "text": "[71]",
+                    "ref_id": "BIBREF71"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Respiratory syncytial virus bronchiolitis"
+        },
+        {
+            "text": "Historical data also demonstrate the increased risk of wheezing or asthma after non-RSV bronchiolitis and emerging data suggest that children with a history of LRTI with viruses other than RSV may have an even greater risk of subsequent wheezing. As early as the 1960s, in a study of hospitalized children less than 5 years of age, Simon and Jordan [79] speculated that children with non-RSV bronchiolitis had a predisposition to develop asthma. Murray and colleagues [68] conducted an investigation of 73 children with either RSV or non-RSV bronchiolitis hospitalization during infancy and a retrospectively recruited nonhospitalized control group. The investigators found that the children hospitalized for bronchiolitis during infancy were more likely than controls to have wheezing (42.5% versus 15.0%) at 5.5 years [68] . In addition, wheezing by parent report (34% versus 13%) and use of bronchodilators (33% versus 3%) at 9 to 10 years after the initial bronchiolitis episode were more common in children with a history of a bronchiolitis hospitalization [47] . Fjaerli and colleagues [67] found that a group of 57 children hospitalized with bronchiolitis during infancy, whether RSV-positive or RSV-negative, were more likely to be under a doctor's care for asthma at age 7, compared with a retrospectively recruited, nonhospitalized control group of 64 children. Piippo-Savolainen and colleagues [80] also found that children hospitalized for bronchiolitis in the first 2 years of life were more likely to have asthma in young adulthood. In a subset of participants, 547 Piippo-Savolainen and colleagues [63] found that adults with a history of non-RSV bronchiolitis during the first 2 years of life were at greater risk of developing asthma than were comparable adults with a history of RSV bronchiolitis. In a cohort of 81 children, Kotaniemi-Syrja\u00a8nen and colleagues [66] investigated the relationship of non-RSV bronchiolitis during the first 2 years of life and the subsequent risk of asthma around age 7 years. They found that a rhinovirus-positive hospitalization for wheezing during the first 2 years of life was associated with a fourfold increased risk of asthma around age 7 years, compared with nonrhinovirus hospitalizations. Finally, Garcia-Garcia and colleagues [62] found an increased risk of early childhood asthma in children previously hospitalized with hMPV (23 children) or RSV (32 children) bronchiolitis compared with a control group hospitalized with gastroenteritis (38 children). Overall, this data suggests that viral LRTI with viruses other than RSV are associated with as high or even higher risk of childhood asthma then RSV-associated LRTI.",
+            "cite_spans": [
+                {
+                    "start": 349,
+                    "end": 353,
+                    "text": "[79]",
+                    "ref_id": "BIBREF79"
+                },
+                {
+                    "start": 468,
+                    "end": 472,
+                    "text": "[68]",
+                    "ref_id": "BIBREF68"
+                },
+                {
+                    "start": 820,
+                    "end": 824,
+                    "text": "[68]",
+                    "ref_id": "BIBREF68"
+                },
+                {
+                    "start": 1062,
+                    "end": 1066,
+                    "text": "[47]",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 1092,
+                    "end": 1096,
+                    "text": "[67]",
+                    "ref_id": "BIBREF67"
+                },
+                {
+                    "start": 1405,
+                    "end": 1409,
+                    "text": "[80]",
+                    "ref_id": "BIBREF80"
+                },
+                {
+                    "start": 1576,
+                    "end": 1579,
+                    "text": "547",
+                    "ref_id": null
+                },
+                {
+                    "start": 1613,
+                    "end": 1617,
+                    "text": "[63]",
+                    "ref_id": "BIBREF63"
+                },
+                {
+                    "start": 1879,
+                    "end": 1883,
+                    "text": "[66]",
+                    "ref_id": "BIBREF66"
+                },
+                {
+                    "start": 2286,
+                    "end": 2290,
+                    "text": "[62]",
+                    "ref_id": "BIBREF62"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Respiratory syncytial virus bronchiolitis and non-respiratory syncytial virus bronchiolitis"
+        },
+        {
+            "text": "A limited number of longitudinal investigations of viral infections during infancy and subsequent wheezing have followed infants from birth, with the goal of prospectively identifying and investigating the spectrum of acute respiratory illnesses during infancy and early childhood on the risk of developing asthma [69, 74, 81] . These studies have allowed for the investigation of the association of viral LRTI that did not require hospitalization with subsequent wheezing. In the cohort of children enrolled at birth in the Tucson Children's Respiratory Study, Stein and colleagues [4, 69] found that children with a history of RSV LRTI in the first 3 years of life were 3.2 times more likely to have parental report of infrequent wheeze (one to three episodes of wheezing in past year) and 4.3 times more likely to have frequent wheeze (more than three episodes of wheezing in the past year) at 6 years, compared with infants with no LRTIs in the first 3 years of life. However, the association of RSV LRTI during infancy and infrequent and frequent wheeze decreased with age and neither was significant at age 13 years. At age 13 years, 517 of the 888 children (58%) followed for the first 3 years of life were included. The investigators suggested that, although RSV LRTI during early childhood was a risk factor for recurrent wheezing, it was not a risk factor for atopic asthma.",
+            "cite_spans": [
+                {
+                    "start": 314,
+                    "end": 318,
+                    "text": "[69,",
+                    "ref_id": "BIBREF69"
+                },
+                {
+                    "start": 319,
+                    "end": 322,
+                    "text": "74,",
+                    "ref_id": "BIBREF74"
+                },
+                {
+                    "start": 323,
+                    "end": 326,
+                    "text": "81]",
+                    "ref_id": "BIBREF81"
+                },
+                {
+                    "start": 583,
+                    "end": 586,
+                    "text": "[4,",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 587,
+                    "end": 590,
+                    "text": "69]",
+                    "ref_id": "BIBREF69"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Birth cohorts"
+        },
+        {
+            "text": "Lemanske and colleagues [74] found that a rhinovirus wheezing episode during infancy was the strongest predictor of persistent wheezing in preschool years among children enrolled in the Childhood Origins of Asthma Study (COAST). The COAST cohort is different from the Tucson cohort in that it includes only children with an increased risk of developing asthma [2] . All of the children in the cohort have at least one parent with respiratory allergies or physician-diagnosed asthma. The investigators found that children with at least one moderate to severe rhinovirus-associated wheezing illness during infancy had a 6.6-fold greater chance of subsequent wheezing 548 in the third year of life and those with RSV had a threefold greater chance of wheezing in the third year of life [74] . In the combined moderate-severe illness group without wheezing, there was an increased risk for wheezing in the third year of life (odds ratio 3.9; 95% CI 1. [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] . This study is the first to show that, particularly in genetically susceptible hosts, even moderate to severe viral infections during infancy that are not associated with wheezing or hospitalization are associated with an increased risk of subsequent wheezing [74] . In another birth cohort of infants at high risk for asthma development, Kusel and colleagues [81] found that children with a history of ''wheezy'' LRTI infections with rhinovirus or RSV during infancy were at increased risk of having wheezing at age 5 years.",
+            "cite_spans": [
+                {
+                    "start": 24,
+                    "end": 28,
+                    "text": "[74]",
+                    "ref_id": "BIBREF74"
+                },
+                {
+                    "start": 360,
+                    "end": 363,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 783,
+                    "end": 787,
+                    "text": "[74]",
+                    "ref_id": "BIBREF74"
+                },
+                {
+                    "start": 948,
+                    "end": 951,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 952,
+                    "end": 955,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 956,
+                    "end": 959,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 960,
+                    "end": 963,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 964,
+                    "end": 967,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 968,
+                    "end": 971,
+                    "text": "[6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 972,
+                    "end": 975,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 976,
+                    "end": 979,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 980,
+                    "end": 983,
+                    "text": "[9]",
+                    "ref_id": null
+                },
+                {
+                    "start": 984,
+                    "end": 988,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 989,
+                    "end": 993,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 994,
+                    "end": 998,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 999,
+                    "end": 1003,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 1004,
+                    "end": 1008,
+                    "text": "[14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1009,
+                    "end": 1013,
+                    "text": "[15]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1275,
+                    "end": 1279,
+                    "text": "[74]",
+                    "ref_id": "BIBREF74"
+                },
+                {
+                    "start": 1375,
+                    "end": 1379,
+                    "text": "[81]",
+                    "ref_id": "BIBREF81"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Birth cohorts"
+        },
+        {
+            "text": "Overview A number of epidemiologic approaches have been employed to study the relationship between viral infections and asthma exacerbations ( Table 2 ) [82] [83] [84] [85] [86] [87] [88] [89] [90] . These approaches include comparing the prevalence of respiratory viruses detected in asthma patients with and without acute exacerbations, and comparing virus detection in patients with asthma to that in patients without asthma in community, emergency department, or hospital settings. In general, many studies before the use of sensitive molecular techniques detected lower rates of viral infection during acute asthma exacerbations [83, 87, 88, [91] [92] [93] . More recently, the use of PCR has resulted in increased detection of respiratory viruses in patients with asthma exacerbations [94] .",
+            "cite_spans": [
+                {
+                    "start": 153,
+                    "end": 157,
+                    "text": "[82]",
+                    "ref_id": "BIBREF83"
+                },
+                {
+                    "start": 158,
+                    "end": 162,
+                    "text": "[83]",
+                    "ref_id": "BIBREF84"
+                },
+                {
+                    "start": 163,
+                    "end": 167,
+                    "text": "[84]",
+                    "ref_id": "BIBREF85"
+                },
+                {
+                    "start": 168,
+                    "end": 172,
+                    "text": "[85]",
+                    "ref_id": "BIBREF86"
+                },
+                {
+                    "start": 173,
+                    "end": 177,
+                    "text": "[86]",
+                    "ref_id": "BIBREF87"
+                },
+                {
+                    "start": 178,
+                    "end": 182,
+                    "text": "[87]",
+                    "ref_id": "BIBREF88"
+                },
+                {
+                    "start": 183,
+                    "end": 187,
+                    "text": "[88]",
+                    "ref_id": "BIBREF89"
+                },
+                {
+                    "start": 188,
+                    "end": 192,
+                    "text": "[89]",
+                    "ref_id": "BIBREF90"
+                },
+                {
+                    "start": 193,
+                    "end": 197,
+                    "text": "[90]",
+                    "ref_id": "BIBREF91"
+                },
+                {
+                    "start": 634,
+                    "end": 638,
+                    "text": "[83,",
+                    "ref_id": "BIBREF84"
+                },
+                {
+                    "start": 639,
+                    "end": 642,
+                    "text": "87,",
+                    "ref_id": "BIBREF88"
+                },
+                {
+                    "start": 643,
+                    "end": 646,
+                    "text": "88,",
+                    "ref_id": "BIBREF89"
+                },
+                {
+                    "start": 647,
+                    "end": 651,
+                    "text": "[91]",
+                    "ref_id": "BIBREF92"
+                },
+                {
+                    "start": 652,
+                    "end": 656,
+                    "text": "[92]",
+                    "ref_id": "BIBREF93"
+                },
+                {
+                    "start": 657,
+                    "end": 661,
+                    "text": "[93]",
+                    "ref_id": "BIBREF94"
+                },
+                {
+                    "start": 791,
+                    "end": 795,
+                    "text": "[94]",
+                    "ref_id": "BIBREF95"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 143,
+                    "end": 150,
+                    "text": "Table 2",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Respiratory viral infections and acute asthma exacerbations"
+        },
+        {
+            "text": "Viruses are important triggers of asthma exacerbations in children and have been detected in up to 80% to 85% of exacerbations in children in studies using PCR for viral detection (see Table 2 ) [30, 45, 83, 88, [94] [95] [96] . Johnston and colleagues [94] investigated the association of viral infections and asthma exacerbations in a 13-month longitudinal study of 108 9-to 11year-old English children with reported wheeze or persistent cough. Families recorded twice-daily peak flows and daily respiratory symptoms. Lower respiratory symptoms were defined and recorded as cough (day or night), wheeze (day or night), difficulty breathing or shortness of breath, or not fit to go to school because of chest problems. Viruses were detected in approximately 80% of reported episodes of LRTIs with associated decreases in peak flow measurements. Picornaviruses, which include rhinovirus and enteroviruses, accounted for two thirds of the positive samples. As a comparison, the investigators tested respiratory aspirates for picornavirus from the group of 65 children who provided a respiratory sample when they were asymptomatic. The investigators found that 12% of these samples were positive. In another investigation, Johnston and colleagues [97] found strong correlations between the rates of upper respiratory tract infections, divided in half-monthly segments, and rates of pediatric and adult hospital admissions for asthma as determined by International Classification of Diseases, Ninth Revision codes. These studies demonstrate the high prevalence of respiratory viruses in children with asthma and the correlation of peaks in respiratory infections with asthma hospitalizations. The New Vaccine Surveillance Network is a population-based surveillance investigation of hospitalized pediatric patients ages birth to 5 years from two United States counties [13] . Based on the 592 children enrolled October 2000 through September 2001, children with a history of wheezing or asthma had significantly higher estimated rates of rhinovirus-associated hospitalizations (25.3 of 1000 children) than those without a history of wheezing or asthma (3.1 of 1000 children) (P!.001).",
+            "cite_spans": [
+                {
+                    "start": 195,
+                    "end": 199,
+                    "text": "[30,",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 200,
+                    "end": 203,
+                    "text": "45,",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 204,
+                    "end": 207,
+                    "text": "83,",
+                    "ref_id": "BIBREF84"
+                },
+                {
+                    "start": 208,
+                    "end": 211,
+                    "text": "88,",
+                    "ref_id": "BIBREF89"
+                },
+                {
+                    "start": 212,
+                    "end": 216,
+                    "text": "[94]",
+                    "ref_id": "BIBREF95"
+                },
+                {
+                    "start": 217,
+                    "end": 221,
+                    "text": "[95]",
+                    "ref_id": "BIBREF96"
+                },
+                {
+                    "start": 222,
+                    "end": 226,
+                    "text": "[96]",
+                    "ref_id": "BIBREF97"
+                },
+                {
+                    "start": 253,
+                    "end": 257,
+                    "text": "[94]",
+                    "ref_id": "BIBREF95"
+                },
+                {
+                    "start": 1245,
+                    "end": 1249,
+                    "text": "[97]",
+                    "ref_id": "BIBREF98"
+                },
+                {
+                    "start": 1865,
+                    "end": 1869,
+                    "text": "[13]",
+                    "ref_id": "BIBREF12"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 185,
+                    "end": 192,
+                    "text": "Table 2",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Asthma exacerbations in children"
+        },
+        {
+            "text": "Other investigations have examined the relationship between respiratory virus infection and asthma exacerbations by comparing virus detection in asthma patients with and without an acute exacerbation [98, 99] . Thumerelle and colleagues [99] conducted a regional study of 82 French children (October 1, 1998, through June 30, 1999) , aged 2 to 16 years. In children with asthma, the investigators found higher rates of virus detection among those hospitalized with an exacerbation compared with those without an exacerbation in the prior 3 weeks. Khetsuriani and colleagues [98] studied children aged 2 to 17 years with persistent asthma. Sixty-five children with acute asthma exacerbations and 77 children with well-controlled asthma were enrolled. One or more viruses were detected in 63% of the patients with asthma exacerbations and in 23.4% of the patients with well-controlled asthma. Rhinovirus was detected among 60% of case patients and 18% of controls. Symptomatic respiratory infections positive for at least one virus were associated with asthma exacerbations, while asymptomatic infections were not.",
+            "cite_spans": [
+                {
+                    "start": 200,
+                    "end": 204,
+                    "text": "[98,",
+                    "ref_id": "BIBREF99"
+                },
+                {
+                    "start": 205,
+                    "end": 208,
+                    "text": "99]",
+                    "ref_id": "BIBREF100"
+                },
+                {
+                    "start": 237,
+                    "end": 241,
+                    "text": "[99]",
+                    "ref_id": "BIBREF100"
+                },
+                {
+                    "start": 317,
+                    "end": 331,
+                    "text": "June 30, 1999)",
+                    "ref_id": null
+                },
+                {
+                    "start": 574,
+                    "end": 578,
+                    "text": "[98]",
+                    "ref_id": "BIBREF99"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Prevalence of virus detection in children with and without asthma exacerbations"
+        },
+        {
+            "text": "Observational studies have also been used to investigate the association of respiratory viruses with asthma morbidity. An increase in asthma hospitalizations during early autumn has been noted in several countries, and respiratory viruses, in particular rhinovirus, have been speculated as causative agents [24, 90, [100] [101] [102] . Johnston and colleagues [96] investigated the etiology of the ''September epidemic of asthma exacerbations'' in a case group of 57 Canadian children with asthma who presented to the emergency department during the last 3 weeks of September compared with a group of 157 controls with asthma recruited from the community. Although the control group did not have an emergency department visit, a majority reported asthma symptoms, including continuous or repeated breathing trouble, 553 RESPIRATORY VIRAL INFECTION AND ASTHMA waking at night, and activity limitations. Viruses were detected in a significantly larger proportion of the children presenting to the emergency department than children who did not present to the emergency department (62% versus 41%). Cases were also less likely than controls to have been prescribed an inhaled corticosteroid. In a separate study, Johnston and colleagues [103] used a mathematical model to investigate the relationship between peak asthma hospitalizations in Canada and the return to school. The investigators found that over the 13 study years, the average timing of the peak of asthma hospitalizations in school-age children occurred 17.7 days following the return to school, with later peaks for preschool children and adults. The investigators concluded that school-age children were the likely source of the etiologic agent resulting in the yearly peak in asthma hospitalizations, with a plausible hypothesis being transmission of such infectious agents as rhinovirus.",
+            "cite_spans": [
+                {
+                    "start": 307,
+                    "end": 311,
+                    "text": "[24,",
+                    "ref_id": null
+                },
+                {
+                    "start": 312,
+                    "end": 315,
+                    "text": "90,",
+                    "ref_id": "BIBREF91"
+                },
+                {
+                    "start": 316,
+                    "end": 321,
+                    "text": "[100]",
+                    "ref_id": "BIBREF101"
+                },
+                {
+                    "start": 322,
+                    "end": 327,
+                    "text": "[101]",
+                    "ref_id": "BIBREF102"
+                },
+                {
+                    "start": 328,
+                    "end": 333,
+                    "text": "[102]",
+                    "ref_id": "BIBREF103"
+                },
+                {
+                    "start": 360,
+                    "end": 364,
+                    "text": "[96]",
+                    "ref_id": "BIBREF97"
+                },
+                {
+                    "start": 1234,
+                    "end": 1239,
+                    "text": "[103]",
+                    "ref_id": "BIBREF104"
+                }
+            ],
+            "ref_spans": [],
+            "section": "The September epidemic of asthma"
+        },
+        {
+            "text": "Viruses are important triggers of asthma exacerbations in adults, and studies using PCR have detected viruses in approximately 40% to 50% of exacerbations (see Table 2 ) [89, 91, [104] [105] [106] . A study by Teichtahl and colleagues [104] included adults admitted for asthma exacerbations and matched controls admitted for elective surgery, August 1993 to July 1994. Seventy-nine patients with asthma and 54 controls were included. Overall, 37% of the adults admitted with asthma had a virus detected compared with 9% of the control group. Atmar and colleagues [105] conducted a longitudinal study of 29 adults with asthma recruited from pulmonary clinics and a cross-sectional study of a convenience sample of 148 adults who presented to the emergency department with an asthma exacerbation. Viruses were detected using virus-specific PCR. The investigators found that, in the longitudinal study, 44% of asthma exacerbation were associated with a respiratory tract viral infection. In the cross-sectional emergency department study, 55% were associated with a viral infection. Rhinovirus, coronavirus, influenza, and PIV were the most common viruses detected.",
+            "cite_spans": [
+                {
+                    "start": 170,
+                    "end": 174,
+                    "text": "[89,",
+                    "ref_id": "BIBREF90"
+                },
+                {
+                    "start": 175,
+                    "end": 178,
+                    "text": "91,",
+                    "ref_id": "BIBREF92"
+                },
+                {
+                    "start": 179,
+                    "end": 184,
+                    "text": "[104]",
+                    "ref_id": "BIBREF105"
+                },
+                {
+                    "start": 185,
+                    "end": 190,
+                    "text": "[105]",
+                    "ref_id": "BIBREF106"
+                },
+                {
+                    "start": 191,
+                    "end": 196,
+                    "text": "[106]",
+                    "ref_id": "BIBREF108"
+                },
+                {
+                    "start": 235,
+                    "end": 240,
+                    "text": "[104]",
+                    "ref_id": "BIBREF105"
+                },
+                {
+                    "start": 563,
+                    "end": 568,
+                    "text": "[105]",
+                    "ref_id": "BIBREF106"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 160,
+                    "end": 167,
+                    "text": "Table 2",
+                    "ref_id": "TABREF2"
+                }
+            ],
+            "section": "Respiratory virus detection in adults with asthma"
+        },
+        {
+            "text": "Several studies have performed viral detection both during asthma exacerbations and subsequent follow-up. Using PCR, Tan and colleagues [107] investigated the prevalence of viral respiratory infections in 17 adults with near-fatal asthma requiring ventilatory support, 29 adults hospitalized with an asthma exacerbation, and 14 hospitalized with chronic obstructive pulmonary disease. Samples for viral detection were taken during the acute asthma exacerbation and follow-up samples were obtained 4 to 6 weeks after hospital discharge. During the acute exacerbation, 52% of the overall samples were 554 positive, including 59% of the near-fatal asthma and 41% of the acute exacerbations. In the near-fatal asthma group, 47% of the viruses detected were picornavirus and 24% were adenovirus. Viral detection was positive in 7% of the 29 specimens collected 4 to 6 weeks after hospital admission [107] .",
+            "cite_spans": [
+                {
+                    "start": 136,
+                    "end": 141,
+                    "text": "[107]",
+                    "ref_id": "BIBREF109"
+                },
+                {
+                    "start": 894,
+                    "end": 899,
+                    "text": "[107]",
+                    "ref_id": "BIBREF109"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Prevalence of virus detection in adults with asthma during exacerbations and quiescence"
+        },
+        {
+            "text": "Other studies have used molecular diagnostic techniques to investigate the role of more recently discovered viruses in the pathogenesis of asthma exacerbations. Williams and colleagues [108] determined the prevalence of hMPV in a cohort of 101 adults at initial enrollment during an asthma hospitalization (1999) (2000) (2001) (2002) (2003) and at follow-up 3 months later. HMPV was detected in 6.9% of subjects at admission compared with 1.3% in followup. Furthermore, none of the subjects positive for hMPV at admission were positive at follow-up [108] . Another study involving this cohort of patients described the prevalence of rhinovirus in patients during an acute asthma exacerbation and 3-month follow-up [109] . Over the 4-year study period, 21% of the cohort was rhinovirus-positive by PCR during the asthma exacerbation. Seventy-six of the 101 participants completed the 3-month follow-up. At follow-up, only 1.3% (1 patient) were positive and none of the subjects who were rhinovirus-positive during the preceding asthma exacerbation were positive at follow-up. Subjects who were rhinovirus-positive were more likely to smoke cigarettes and be nonusers of inhaled corticosteroids compared with rhinovirus-negative subjects, similar to the findings of lower use of inhaled corticosteroids among children seen in the hospital during the September asthma epidemic associated with rhinovirus [96, 109] .",
+            "cite_spans": [
+                {
+                    "start": 185,
+                    "end": 190,
+                    "text": "[108]",
+                    "ref_id": "BIBREF110"
+                },
+                {
+                    "start": 306,
+                    "end": 312,
+                    "text": "(1999)",
+                    "ref_id": null
+                },
+                {
+                    "start": 313,
+                    "end": 319,
+                    "text": "(2000)",
+                    "ref_id": null
+                },
+                {
+                    "start": 320,
+                    "end": 326,
+                    "text": "(2001)",
+                    "ref_id": null
+                },
+                {
+                    "start": 327,
+                    "end": 333,
+                    "text": "(2002)",
+                    "ref_id": null
+                },
+                {
+                    "start": 334,
+                    "end": 340,
+                    "text": "(2003)",
+                    "ref_id": null
+                },
+                {
+                    "start": 549,
+                    "end": 554,
+                    "text": "[108]",
+                    "ref_id": "BIBREF110"
+                },
+                {
+                    "start": 714,
+                    "end": 719,
+                    "text": "[109]",
+                    "ref_id": "BIBREF111"
+                },
+                {
+                    "start": 1401,
+                    "end": 1405,
+                    "text": "[96,",
+                    "ref_id": "BIBREF97"
+                },
+                {
+                    "start": 1406,
+                    "end": 1410,
+                    "text": "109]",
+                    "ref_id": "BIBREF111"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Prevalence of virus detection in adults with asthma during exacerbations and quiescence"
+        },
+        {
+            "text": "Corne and colleagues [110] conducted a longitudinal investigation of rhinovirus infection by following 76 subjects with asthma and their cohabitating partners without asthma over a 3-month period (September through December 1993). Subjects maintained diaries of severity of upper and lower respiratory tract symptoms and nasal aspirates were obtained from subjects every 2 weeks. Overall, there were no differences in rhinovirus positivity between the subjects with and without asthma. However, the investigators found that participants with asthma had more frequent clinical LRTIs associated with rhinovirus than did controls (43% versus 17%, respectively). In addition, the group of patients with asthma had significantly higher severity scores (median 1 versus 0) and longer duration of illness (median 2.5 days versus 0 days) [110] .",
+            "cite_spans": [
+                {
+                    "start": 21,
+                    "end": 26,
+                    "text": "[110]",
+                    "ref_id": "BIBREF112"
+                },
+                {
+                    "start": 830,
+                    "end": 835,
+                    "text": "[110]",
+                    "ref_id": "BIBREF112"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Rhinovirus clinical lower respiratory tract infections in adults with and without asthma"
+        },
+        {
+            "text": "Epidemiologic investigations have provided valuable insight into the role of respiratory viruses in wheezing illnesses in children and adults. Viruses are the most important cause of LRTIs in infancy and early childhood, and LRTIs with respiratory viral pathogens have been identified as 555 significant risk factors for the development of early childhood asthma. RSV is an important pathogen in wheezing illnesses during infancy and appears to become less commonly associated with wheezing illnesses in older children. The newly appreciated role of non-RSV LRTI and the strong association of rhinovirus illness with a marked increased risk of future wheezing among children born to a parent with asthma suggest a differential ''asthmagenicity'' of respiratory viruses in asthma pathogenesis. Although it is unclear whether respiratory viruses induce asthma development, children with severe infections during infancy are at increased risk of subsequent wheezing, and large longitudinal studies will, it is hoped, help answer this critical question. Knowing whether respiratory viruses cause asthma presents the hope for a new strategy for asthma prevention. In addition, viruses, implicated in the vast majority of significant disease exacerbations, are important triggers of asthma exacerbations in children and adults, and respiratory viral illness prevention would likely decrease the significant morbidity related to this common chronic disease.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Summary"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Effects of viral respiratory infections on lung development and childhood asthma",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gern",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Rosenthal",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Sorkness",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Allergy Clin Immunol",
+            "volume": "115",
+            "issn": "4",
+            "pages": "668--74",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "The childhood origins of asthma (COAST) study",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Lemanske",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Pediatr Allergy Immunol",
+            "volume": "13",
+            "issn": "",
+            "pages": "38--43",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "The Canadian Childhood Asthma Primary Prevention Study: outcomes at 7 years of age",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Chan-Yeung",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Ferguson",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Watson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Allergy Clin Immunol",
+            "volume": "116",
+            "issn": "1",
+            "pages": "49--55",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Asthma and wheezing in the first six years of life. The Group Health Medical Associates",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Martinez",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Wright",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Taussig",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "N Engl J Med",
+            "volume": "332",
+            "issn": "3",
+            "pages": "133--141",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Primary prevention of asthma and allergy",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Arshad",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Allergy Clin Immunol",
+            "volume": "116",
+            "issn": "1",
+            "pages": "3--14",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Maternal smoking in pregnancy, fetal development, and childhood asthma",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Jaakkola",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gissler",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Am J Public Health",
+            "volume": "94",
+            "issn": "1",
+            "pages": "136--176",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Surveillance for asthmadUnited States",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mannino",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Homa",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Akinbami",
+                    "suffix": ""
+                }
+            ],
+            "year": 1980,
+            "venue": "MMWR Surveill Summ",
+            "volume": "51",
+            "issn": "1",
+            "pages": "1--13",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Otitis and respiratory distress episodes following a respiratory syncytial virus infection",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Kafetzis",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Astra",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Tsolia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Clin Microbiol Infect",
+            "volume": "9",
+            "issn": "10",
+            "pages": "1006--1016",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Bronchiolitis-associated hospitalizations among US children, 1980-1996",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Shay",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Holman",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Newman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "JAMA",
+            "volume": "282",
+            "issn": "15",
+            "pages": "1440--1446",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Epidemiology of respiratory syncytial virus infection in Washington, D.C. I. Importance of the virus in different respiratory tract disease syndromes and temporal distribution of infection",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Kim",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Arrobio",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Brandt",
+                    "suffix": ""
+                }
+            ],
+            "year": 1973,
+            "venue": "Am J Epidemiol",
+            "volume": "98",
+            "issn": "3",
+            "pages": "216--241",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Human metapneumovirus and lower respiratory tract disease in otherwise healthy infants and children",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Williams",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Harris",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Tollefson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "N Engl J Med",
+            "volume": "350",
+            "issn": "5",
+            "pages": "443--50",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Rhinovirus-associated hospitalizations in young children",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Erdman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Infect Dis",
+            "volume": "195",
+            "issn": "",
+            "pages": "773--81",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Human bocavirus infection in young children in the United States: molecular epidemiological profile and clinical characteristics of a newly emerging respiratory virus",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Kesebir",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Vazquez",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Weibel",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Infect Dis",
+            "volume": "194",
+            "issn": "9",
+            "pages": "1276--82",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Respiratory syncytial virus activityd United States",
+            "authors": [],
+            "year": 2003,
+            "venue": "Centers for Disease Control and Prevention (CDC)",
+            "volume": "53",
+            "issn": "",
+            "pages": "1159--60",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "The relationship of meteorological conditions to the epidemic activity of respiratory syncytial virus",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yusuf",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Piedimonte",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Auais",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Epidemiol Infect",
+            "volume": "135",
+            "issn": "7",
+            "pages": "1077--90",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Respiratory syncytial virus epidemics: the ups and downs of a seasonal virus",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Stensballe",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Devasundaram",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Simoes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Pediatr Infect Dis J",
+            "volume": "22",
+            "issn": "2",
+            "pages": "21--32",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Risk of primary infection and reinfection with respiratory syncytial virus",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Glezen",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Taber",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Frank",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "Am J Dis Child",
+            "volume": "140",
+            "issn": "6",
+            "pages": "543--549",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "The epidemiology of bronchiolitis",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Denny",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Collier",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Henderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1977,
+            "venue": "Pediatr Res",
+            "volume": "11",
+            "issn": "3",
+            "pages": "234--240",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Pathogenesis of bronchiolitisdepidemiologic considerations",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Glezen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1977,
+            "venue": "Pediatr Res",
+            "volume": "11",
+            "issn": "3",
+            "pages": "239--282",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Superiority of reverse-transcription polymerase chain reaction to conventional viral culture in the diagnosis of acute respiratory tract infections in children",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Weinberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Erdman",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Edwards",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Infect Dis",
+            "volume": "189",
+            "issn": "4",
+            "pages": "706--716",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Viral etiology of acute respiratory tract infections in children presenting to hospital: role of polymerase chain reaction and demonstration of multiple infections",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Jennings",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Werno",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Pediatr Infect Dis J",
+            "volume": "23",
+            "issn": "11",
+            "pages": "1003--1010",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Frequency and natural history of rhinovirus infections in adults during autumn",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Arruda",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Pitkaranta",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Witek",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Jr",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "J Clin Microbiol",
+            "volume": "35",
+            "issn": "11",
+            "pages": "2864--2872",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Viruses and bacteria in the etiology of the common cold",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Makela",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Puhakka",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Ruuskanen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "J Clin Microbiol",
+            "volume": "36",
+            "issn": "2",
+            "pages": "539--581",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Virological and serological analysis of rhinovirus infections during the first two years of life in a cohort of children",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Blomqvist",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Roivainen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Puhakka",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "J Med Virol",
+            "volume": "66",
+            "issn": "2",
+            "pages": "263--271",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Rhinovirus infections in an industrial population. I. The occurrence of illness",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Gwaltney",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Hendley",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Simon",
+                    "suffix": ""
+                }
+            ],
+            "year": 1966,
+            "venue": "N Engl J Med",
+            "volume": "275",
+            "issn": "23",
+            "pages": "1261--1269",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Detection of rhinovirus RNA in lower airway cells during experimentally induced infection",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gern",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Galagan",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Jarjour",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "155",
+            "issn": "3",
+            "pages": "1159--61",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Rhinoviruses infect the lower airways",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Papadopoulos",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Bates",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Bardin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Infect Dis",
+            "volume": "181",
+            "issn": "6",
+            "pages": "1875--84",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Rhinovirus and respiratory syncytial virus in wheezing children requiring emergency care. IgE and eosinophil analyses",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Rakes",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Arruda",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ingram",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "159",
+            "issn": "3",
+            "pages": "785--90",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Viral infections of the respiratory tract in hospitalized children. A study from Oslo during a 90 months' period",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Carlsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Orstavik",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Halvorsen",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "Acta Paediatr Scand",
+            "volume": "72",
+            "issn": "1",
+            "pages": "53--61",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Epidemiologic patterns of acute lower respiratory disease of children in a pediatric group practice",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Glezen",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Loda",
+                    "suffix": ""
+                },
+                {
+                    "first": "Clyde",
+                    "middle": [],
+                    "last": "Wa",
+                    "suffix": ""
+                }
+            ],
+            "year": 1971,
+            "venue": "J Pediatr",
+            "volume": "78",
+            "issn": "3",
+            "pages": "397--406",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "The etiologic and epidemiologic spectrum of bronchiolitis in pediatric practice",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Henderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "Clyde",
+                    "middle": [],
+                    "last": "Wa",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Collier",
+                    "suffix": ""
+                }
+            ],
+            "year": 1979,
+            "venue": "J Pediatr",
+            "volume": "95",
+            "issn": "2",
+            "pages": "183--90",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Respiratory picornaviruses and respiratory syncytial virus as causative agents of acute expiratory wheezing in children",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Jartti",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Lehtinen",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Vuorinen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Emerg Infect Dis",
+            "volume": "10",
+            "issn": "6",
+            "pages": "1095--101",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Rates of hospitalization for respiratory syncytial virus infection among children in Medicaid",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Boyce",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Mellen",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Mitchel",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Jr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "J Pediatr",
+            "volume": "137",
+            "issn": "6",
+            "pages": "865--70",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Role of rhinovirus in hospitalized infants with respiratory tract infections in Spain",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Calvo",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Garcia-Garcia",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Blanco",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Pediatr Infect Dis J",
+            "volume": "26",
+            "issn": "10",
+            "pages": "904--912",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "The Tucson Children's Respiratory Study. II. Lower respiratory tract illness in the first year of life",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Wright",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Taussig",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Ray",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "557 RESPIRATORY VIRAL INFECTION AND ASTHMA",
+            "volume": "129",
+            "issn": "",
+            "pages": "1232--1278",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Role of respiratory viruses in acute upper and lower respiratory tract illness in the first year of life: a birth cohort study",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kusel",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "De Klerk",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Holt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Pediatr Infect Dis J",
+            "volume": "25",
+            "issn": "8",
+            "pages": "680--686",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Rhinovirus-associated wheezing in infancy: comparison with respiratory syncytial virus bronchiolitis",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Korppi",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kotaniemi-Syrjanen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Waris",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Pediatr Infect Dis J",
+            "volume": "23",
+            "issn": "11",
+            "pages": "995--1004",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Acute respiratory infection by human metapneumovirus in children in southern Brazil",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Do Carmo",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bordignon",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Duarte Dos Santos",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Clin Virol",
+            "volume": "39",
+            "issn": "1",
+            "pages": "59--62",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "A 1-year experience with human metapneumovirus in children aged",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Esper",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Martinello",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Boucher",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Infect Dis",
+            "volume": "189",
+            "issn": "8",
+            "pages": "1388--96",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Human bocavirus and acute wheezing in children",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Allander",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Jartti",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Gupta",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Clin Infect Dis",
+            "volume": "44",
+            "issn": "7",
+            "pages": "904--914",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "A newly discovered human pneumovirus isolated from young children with respiratory tract disease",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Van Den Hoogen",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "De Jong",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Groen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Nat Med",
+            "volume": "7",
+            "issn": "6",
+            "pages": "719--743",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Cloning of a human parvovirus by molecular screening of respiratory tract samples",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Allander",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Tammi",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Eriksson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proc Natl Acad Sci",
+            "volume": "102",
+            "issn": "36",
+            "pages": "12891--12897",
+            "other_ids": {}
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Viral infections in relation to age, atopy, and season of admission among children hospitalized for wheezing",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Heymann",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Carper",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Murphy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "J Allergy Clin Immunol",
+            "volume": "114",
+            "issn": "2",
+            "pages": "239--286",
+            "other_ids": {}
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "Respiratory syncytial virus infection and recurrent wheeze/ asthma in children under five years: an epidemiological survey",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Lazzaro",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Hogg",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Barnett",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Paediatr Child Health",
+            "volume": "43",
+            "issn": "1-2",
+            "pages": "29--33",
+            "other_ids": {}
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Respiratory status and allergy nine to 10 years after acute bronchiolitis",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Noble",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Murray",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Webb",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Arch Dis Child",
+            "volume": "76",
+            "issn": "4",
+            "pages": "315--324",
+            "other_ids": {}
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "The relationship between proved viral bronchiolitis and subsequent wheezing",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Rooney",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Williams",
+                    "suffix": ""
+                }
+            ],
+            "year": 1971,
+            "venue": "J Pediatr",
+            "volume": "79",
+            "issn": "5",
+            "pages": "744--751",
+            "other_ids": {}
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "Atopy does not predispose to RSV bronchiolitis or postbronchiolitic wheezing",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Sims",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Gardner",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Weightman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1981,
+            "venue": "Br Med J (Clin Res Ed)",
+            "volume": "282",
+            "issn": "6282",
+            "pages": "2086--2094",
+            "other_ids": {}
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "Wheezing, asthma, and pulmonary dysfunction 10 years after infection with respiratory syncytial virus in infancy",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Pullan",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Hey",
+                    "suffix": ""
+                }
+            ],
+            "year": 1982,
+            "venue": "Br Med J (Clin Res Ed)",
+            "volume": "284",
+            "issn": "6330",
+            "pages": "1665--1674",
+            "other_ids": {}
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "The relationship between bronchiolitis and childhood asthma; a followup study of 100 cases of bronchiolitis",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wittig",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Glaser",
+                    "suffix": ""
+                }
+            ],
+            "year": 1959,
+            "venue": "J Allergy",
+            "volume": "30",
+            "issn": "1",
+            "pages": "19--23",
+            "other_ids": {}
+        },
+        "BIBREF52": {
+            "ref_id": "b52",
+            "title": "Respiratory repercussions in adults with a history of infantile bronchiolitis",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Gomez",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Colas",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sebastian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Ann Allergy Asthma Immunol",
+            "volume": "93",
+            "issn": "5",
+            "pages": "447--51",
+            "other_ids": {}
+        },
+        "BIBREF53": {
+            "ref_id": "b53",
+            "title": "Asthma and airway hyper-responsiveness in adults who required hospital admission for bronchiolitis in early childhood",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Larouch",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Rivard",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Deschesnes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Respir Med",
+            "volume": "94",
+            "issn": "3",
+            "pages": "288--94",
+            "other_ids": {}
+        },
+        "BIBREF54": {
+            "ref_id": "b54",
+            "title": "Lung function and bronchial responsiveness in children who had infantile bronchiolitis",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Duiverman",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Neijens",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Van Sr",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "Pediatr Pulmonol",
+            "volume": "3",
+            "issn": "1",
+            "pages": "38--44",
+            "other_ids": {}
+        },
+        "BIBREF55": {
+            "ref_id": "b55",
+            "title": "Respiratory morbidity 20 years after RSV infection in infancy",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Korppi",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Piippo-Savolainen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Korhonen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Pediatr Pulmonol",
+            "volume": "38",
+            "issn": "2",
+            "pages": "155--60",
+            "other_ids": {}
+        },
+        "BIBREF56": {
+            "ref_id": "b56",
+            "title": "Increased incidence of bronchial reactivity in children with a history of bronchiolitis",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Gurwitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Mindorff",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Levison",
+                    "suffix": ""
+                }
+            ],
+            "year": 1981,
+            "venue": "J Pediatr",
+            "volume": "98",
+            "issn": "4",
+            "pages": "551--556",
+            "other_ids": {}
+        },
+        "BIBREF57": {
+            "ref_id": "b57",
+            "title": "Bronchiolitis as a possible cause of wheezing in childhood: new evidence",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mcconnochie",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Roghmann",
+                    "suffix": ""
+                }
+            ],
+            "year": 1984,
+            "venue": "Pediatrics",
+            "volume": "74",
+            "issn": "1",
+            "pages": "1--10",
+            "other_ids": {}
+        },
+        "BIBREF58": {
+            "ref_id": "b58",
+            "title": "Wheezing bronchitis reinvestigated at the age of 10 years",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wennergren",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Amark",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Amark",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Acta Paediatr",
+            "volume": "86",
+            "issn": "4",
+            "pages": "351--356",
+            "other_ids": {}
+        },
+        "BIBREF59": {
+            "ref_id": "b59",
+            "title": "RSV bronchiolitis and risk of wheeze and allergic sensitisation in the first year of life",
+            "authors": [
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Schauer",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hoffjan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bittscheidt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Eur Respir J",
+            "volume": "20",
+            "issn": "5",
+            "pages": "1277--83",
+            "other_ids": {}
+        },
+        "BIBREF60": {
+            "ref_id": "b60",
+            "title": "Respiratory syncytial virus infection in children hospitalized for wheezing: virus-specific studies from infancy to preschool years",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kotaniemi-Syrjanen",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Laatikainen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Waris",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Acta Paediatr",
+            "volume": "94",
+            "issn": "2",
+            "pages": "159--65",
+            "other_ids": {}
+        },
+        "BIBREF61": {
+            "ref_id": "b61",
+            "title": "Teenage asthma after severe infantile bronchiolitis or pneumonia",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hyvarinen",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Piippo-Savolainen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Korhonen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Acta Paediatr",
+            "volume": "94",
+            "issn": "10",
+            "pages": "1378--83",
+            "other_ids": {}
+        },
+        "BIBREF62": {
+            "ref_id": "b62",
+            "title": "Human metapneumovirus bronchiolitis in infancy is an important risk factor for asthma at age 5",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Garcia-Garcia",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Calvo",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Casas",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Pediatr Pulmonol",
+            "volume": "42",
+            "issn": "5",
+            "pages": "458--64",
+            "other_ids": {}
+        },
+        "BIBREF63": {
+            "ref_id": "b63",
+            "title": "Adult asthma after non-respiratory syncytial virus bronchiolitis in infancy: subgroup analysis of the 20-year prospective follow-up study",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Piippo-Savolainen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Korppi",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Korhonen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Pediatr Int",
+            "volume": "49",
+            "issn": "2",
+            "pages": "190--195",
+            "other_ids": {}
+        },
+        "BIBREF64": {
+            "ref_id": "b64",
+            "title": "Phenotype of acute respiratory syncytial virus induced lower respiratory tract illness in infancy and subsequent morbidity",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Elphick",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ritson",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Rigby",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Acta Paediatr",
+            "volume": "96",
+            "issn": "2",
+            "pages": "307--316",
+            "other_ids": {}
+        },
+        "BIBREF65": {
+            "ref_id": "b65",
+            "title": "Hospitalization for RSV bronchiolitis before 12 months of age and subsequent asthma, atopy and wheeze: A longitudinal birth cohort study",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Henderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Hilliard",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Sherriff",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Pediatr Allergy Immunol",
+            "volume": "16",
+            "issn": "5",
+            "pages": "386--92",
+            "other_ids": {}
+        },
+        "BIBREF66": {
+            "ref_id": "b66",
+            "title": "Rhinovirus-induced wheezing in infancydthe first sign of childhood asthma?",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kotaniemi-Syrjanen",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Vainionpaa",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Reijonen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Allergy Clin Immunol",
+            "volume": "111",
+            "issn": "1",
+            "pages": "66--71",
+            "other_ids": {}
+        },
+        "BIBREF67": {
+            "ref_id": "b67",
+            "title": "Acute bronchiolitis in infancy as risk factor for wheezing and reduced pulmonary function by seven years in Akershus County",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Fjaerli",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Farstad",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Rod",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "BMC Pediatr",
+            "volume": "5",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF68": {
+            "ref_id": "b68",
+            "title": "Respiratory status and allergy after bronchiolitis",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Murray",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Webb",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "O&apos;callaghan",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Arch Dis Child",
+            "volume": "67",
+            "issn": "4",
+            "pages": "482--489",
+            "other_ids": {}
+        },
+        "BIBREF69": {
+            "ref_id": "b69",
+            "title": "Respiratory syncytial virus in early life and risk of wheeze and allergy by age 13 years",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Stein",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Sherrill",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Morgan",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "Lancet",
+            "volume": "354",
+            "issn": "9178",
+            "pages": "541--546",
+            "other_ids": {}
+        },
+        "BIBREF70": {
+            "ref_id": "b70",
+            "title": "Respiratory syncytial virus bronchiolitis in infancy is an important risk factor for asthma and allergy at age 7",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sigurs",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bjarnason",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Sigurbergsson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "161",
+            "issn": "5",
+            "pages": "1501--1508",
+            "other_ids": {}
+        },
+        "BIBREF71": {
+            "ref_id": "b71",
+            "title": "Severe respiratory syncytial virus bronchiolitis in infancy and asthma and allergy at age 13",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Sigurs",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Gustafsson",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Bjarnason",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "171",
+            "issn": "2",
+            "pages": "137--178",
+            "other_ids": {}
+        },
+        "BIBREF72": {
+            "ref_id": "b72",
+            "title": "Relationship between respiratory syncytial virus bronchiolitis and future obstructive airway diseases",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Wennergren",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kristjansson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2001,
+            "venue": "Eur Respir J",
+            "volume": "18",
+            "issn": "6",
+            "pages": "1044--58",
+            "other_ids": {}
+        },
+        "BIBREF73": {
+            "ref_id": "b73",
+            "title": "Predictors of asthma three years after hospital admission for wheezing in infancy",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Reijonen",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kotaniemi-Syrjanen",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Korhonen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Pediatrics",
+            "volume": "106",
+            "issn": "6",
+            "pages": "1406--1418",
+            "other_ids": {}
+        },
+        "BIBREF74": {
+            "ref_id": "b74",
+            "title": "Rhinovirus illnesses during infancy predict subsequent childhood wheezing",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Lemanske",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Jackson",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Gangnon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Allergy Clin Immunol",
+            "volume": "116",
+            "issn": "3",
+            "pages": "571--578",
+            "other_ids": {}
+        },
+        "BIBREF75": {
+            "ref_id": "b75",
+            "title": "The increasing burden and risk factors for bronchiolitis-related medical visits in infants enrolled in a state healthcare insurance plan",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Carroll",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Gebratsadik",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Griffin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Pediatrics",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF76": {
+            "ref_id": "b76",
+            "title": "Human metapneumovirus infection in children hospitalized for wheezing",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Williams",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Tollefson",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Heymann",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Allergy Clin Immunol",
+            "volume": "115",
+            "issn": "6",
+            "pages": "1311--1313",
+            "other_ids": {}
+        },
+        "BIBREF77": {
+            "ref_id": "b77",
+            "title": "Severity of respiratory syncytial virus bronchiolitis is affected by cigarette smoke exposure and atopy",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Bradley",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Bacharier",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bonfiglio",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Pediatrics",
+            "volume": "115",
+            "issn": "1",
+            "pages": "7--14",
+            "other_ids": {}
+        },
+        "BIBREF78": {
+            "ref_id": "b78",
+            "title": "Long-term prospective study in children after respiratory syncytial virus infection",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Hall",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hall",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Gala",
+                    "suffix": ""
+                }
+            ],
+            "year": 1984,
+            "venue": "J Pediatr",
+            "volume": "105",
+            "issn": "3",
+            "pages": "358--64",
+            "other_ids": {}
+        },
+        "BIBREF79": {
+            "ref_id": "b79",
+            "title": "Infectious and allergic aspects of bronchiolitis",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Simon",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Jordan",
+                    "suffix": ""
+                }
+            ],
+            "year": 1967,
+            "venue": "J Pediatr",
+            "volume": "70",
+            "issn": "4",
+            "pages": "533--541",
+            "other_ids": {}
+        },
+        "BIBREF80": {
+            "ref_id": "b80",
+            "title": "Asthma and lung function 20 years after wheezing in infancy: results from a prospective follow-up study",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Piippo-Savolainen",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Remes",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Kannisto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Arch Pediatr Adolesc Med",
+            "volume": "158",
+            "issn": "11",
+            "pages": "1070--1076",
+            "other_ids": {}
+        },
+        "BIBREF81": {
+            "ref_id": "b81",
+            "title": "Early-life respiratory viral infections, atopic sensitization, and risk of subsequent development of persistent asthma",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Kusel",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "De Klerk",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Kebadze",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Allergy Clin Immunol",
+            "volume": "119",
+            "issn": "5",
+            "pages": "1105--1115",
+            "other_ids": {}
+        },
+        "BIBREF82": {
+            "ref_id": "b82",
+            "title": "RESPIRATORY VIRAL INFECTION AND ASTHMA",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF83": {
+            "ref_id": "b83",
+            "title": "Respiratory virus infections and aeroallergens in acute bronchial asthma",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Carlsen",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Orstavik",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Leegaard",
+                    "suffix": ""
+                }
+            ],
+            "year": 1984,
+            "venue": "Arch Dis Child",
+            "volume": "59",
+            "issn": "4",
+            "pages": "310--315",
+            "other_ids": {}
+        },
+        "BIBREF84": {
+            "ref_id": "b84",
+            "title": "The association of viral and bacterial respiratory infections with exacerbations of wheezing in young asthmatic children",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Mcintosh",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Ellis",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Hoffman",
+                    "suffix": ""
+                }
+            ],
+            "year": 1973,
+            "venue": "J Pediatr",
+            "volume": "82",
+            "issn": "4",
+            "pages": "578--90",
+            "other_ids": {}
+        },
+        "BIBREF85": {
+            "ref_id": "b85",
+            "title": "Viruses as precipitants of asthmatic attacks in children",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Minor",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Dick",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Demeo",
+                    "suffix": ""
+                }
+            ],
+            "year": 1974,
+            "venue": "JAMA",
+            "volume": "227",
+            "issn": "3",
+            "pages": "292--300",
+            "other_ids": {}
+        },
+        "BIBREF86": {
+            "ref_id": "b86",
+            "title": "Rhinovirus infections in hospitalized children. Provocative bacterial interrelationships",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Cherry",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Diddams",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Dick",
+                    "suffix": ""
+                }
+            ],
+            "year": 1967,
+            "venue": "Arch Environ Health",
+            "volume": "14",
+            "issn": "3",
+            "pages": "390--396",
+            "other_ids": {}
+        },
+        "BIBREF87": {
+            "ref_id": "b87",
+            "title": "Viruses as precipitants of asthma symptoms. I. Epidemiology",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Pattemore",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Johnston",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Bardin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Clin Exp Allergy",
+            "volume": "22",
+            "issn": "3",
+            "pages": "325--361",
+            "other_ids": {}
+        },
+        "BIBREF88": {
+            "ref_id": "b88",
+            "title": "Viral infection as a precipitant of wheeze in children. Combined home and hospital study",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Mitchell",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Inglis",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Simpson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1978,
+            "venue": "Arch Dis Child",
+            "volume": "53",
+            "issn": "2",
+            "pages": "106--117",
+            "other_ids": {}
+        },
+        "BIBREF89": {
+            "ref_id": "b89",
+            "title": "Greater frequency of viral respiratory infections in asthmatic children as compared with their nonasthmatic siblings",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Minor",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Baker",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Dick",
+                    "suffix": ""
+                }
+            ],
+            "year": 1974,
+            "venue": "J Pediatr",
+            "volume": "85",
+            "issn": "4",
+            "pages": "472--479",
+            "other_ids": {}
+        },
+        "BIBREF90": {
+            "ref_id": "b90",
+            "title": "Respiratory viruses and exacerbations of asthma in adults",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Nicholson",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Kent",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Ireland",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "BMJ",
+            "volume": "307",
+            "issn": "6910",
+            "pages": "982--988",
+            "other_ids": {}
+        },
+        "BIBREF91": {
+            "ref_id": "b91",
+            "title": "Respiratory infections and the autumn increase in asthma morbidity",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Dales",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Schweitzer",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Toogood",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Eur Respir J",
+            "volume": "9",
+            "issn": "1",
+            "pages": "72--79",
+            "other_ids": {}
+        },
+        "BIBREF92": {
+            "ref_id": "b92",
+            "title": "The contribution of respiratory viruses to severe exacerbations of asthma in adults",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Sokhandan",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Mcfadden",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Chest",
+            "volume": "107",
+            "issn": "6",
+            "pages": "1570--1574",
+            "other_ids": {}
+        },
+        "BIBREF93": {
+            "ref_id": "b93",
+            "title": "A prospective study of respiratory infection in adult asthmatics and their normal spouses",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Tarlo",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Broder",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Spence",
+                    "suffix": ""
+                }
+            ],
+            "year": 1979,
+            "venue": "Clin Allergy",
+            "volume": "9",
+            "issn": "3",
+            "pages": "293--301",
+            "other_ids": {}
+        },
+        "BIBREF94": {
+            "ref_id": "b94",
+            "title": "A case-control study of the role of cold symptoms and other historical triggering factors in asthma exacerbations",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Tarlo",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Broder",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Corey",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Can Respir J",
+            "volume": "7",
+            "issn": "1",
+            "pages": "42--50",
+            "other_ids": {}
+        },
+        "BIBREF95": {
+            "ref_id": "b95",
+            "title": "Community study of role of viral infections in exacerbations of asthma in 9-11 year old children",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Johnston",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Pattemore",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Sanderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "BMJ",
+            "volume": "310",
+            "issn": "6989",
+            "pages": "1225--1234",
+            "other_ids": {}
+        },
+        "BIBREF96": {
+            "ref_id": "b96",
+            "title": "International Study of Asthma and Allergies in Childhood (ISAAC): rationale and methods",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Asher",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Keil",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Eur Respir J",
+            "volume": "8",
+            "issn": "3",
+            "pages": "483--91",
+            "other_ids": {}
+        },
+        "BIBREF97": {
+            "ref_id": "b97",
+            "title": "The September epidemic of asthma exacerbations in children: a search for etiology",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Johnston",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Johnston",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Duncan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Allergy Clin Immunol",
+            "volume": "115",
+            "issn": "1",
+            "pages": "132--140",
+            "other_ids": {}
+        },
+        "BIBREF98": {
+            "ref_id": "b98",
+            "title": "The relationship between upper respiratory infections and hospital admissions for asthma: a time-trend analysis",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Johnston",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Pattemore",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Sanderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "154",
+            "issn": "3",
+            "pages": "654--60",
+            "other_ids": {}
+        },
+        "BIBREF99": {
+            "ref_id": "b99",
+            "title": "Prevalence of viral respiratory tract infections in children with asthma",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Khetsuriani",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Kazerouni",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Erdman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Allergy Clin Immunol",
+            "volume": "119",
+            "issn": "2",
+            "pages": "314--335",
+            "other_ids": {}
+        },
+        "BIBREF100": {
+            "ref_id": "b100",
+            "title": "Role of viruses and atypical bacteria in exacerbations of asthma in hospitalized children: a prospective study in the Nord-Pas de Calais region (France)",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Thumerelle",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Deschildre",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Bouquillon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Pediatr Pulmonol",
+            "volume": "35",
+            "issn": "2",
+            "pages": "75--82",
+            "other_ids": {}
+        },
+        "BIBREF101": {
+            "ref_id": "b101",
+            "title": "New Orleans asthma. II. Relationship of climatologic and seasonal factors to outbreaks",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Salvaggio",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Hasselblad",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Seabury",
+                    "suffix": ""
+                }
+            ],
+            "year": 1970,
+            "venue": "J Allergy",
+            "volume": "45",
+            "issn": "5",
+            "pages": "257--65",
+            "other_ids": {}
+        },
+        "BIBREF102": {
+            "ref_id": "b102",
+            "title": "Seasonal trends in US asthma hospitalizations and mortality",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Weiss",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "JAMA",
+            "volume": "263",
+            "issn": "17",
+            "pages": "2323--2331",
+            "other_ids": {}
+        },
+        "BIBREF103": {
+            "ref_id": "b103",
+            "title": "Seasonal trends in childhood asthma in south east England",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Khot",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Evans",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Lenney",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "Br Med J (Clin Res Ed)",
+            "volume": "287",
+            "issn": "6401",
+            "pages": "1257--1265",
+            "other_ids": {}
+        },
+        "BIBREF104": {
+            "ref_id": "b104",
+            "title": "The September epidemic of asthma hospitalization: school children as disease vectors",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Johnston",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Johnston",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Norman",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Allergy Clin Immunol",
+            "volume": "117",
+            "issn": "3",
+            "pages": "557--62",
+            "other_ids": {}
+        },
+        "BIBREF105": {
+            "ref_id": "b105",
+            "title": "The incidence of respiratory tract infection in adults requiring hospitalization for asthma",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Teichtahl",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Buckmaster",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Pertnikovs",
+                    "suffix": ""
+                }
+            ],
+            "year": 1997,
+            "venue": "Chest",
+            "volume": "112",
+            "issn": "3",
+            "pages": "591--597",
+            "other_ids": {}
+        },
+        "BIBREF106": {
+            "ref_id": "b106",
+            "title": "Respiratory tract viral infections in inner-city asthmatic adults",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Atmar",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Guy",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Guntupalli",
+                    "suffix": ""
+                }
+            ],
+            "year": 1998,
+            "venue": "Arch Intern Med",
+            "volume": "158",
+            "issn": "22",
+            "pages": "2453--2462",
+            "other_ids": {}
+        },
+        "BIBREF108": {
+            "ref_id": "b108",
+            "title": "The effect of an interventional program on adherence to the American Academy of Pediatrics guidelines for palivizumab prophylaxis",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Afghani",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Ngo",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Leu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Pediatr Infect Dis J",
+            "volume": "25",
+            "issn": "11",
+            "pages": "1019--1043",
+            "other_ids": {}
+        },
+        "BIBREF109": {
+            "ref_id": "b109",
+            "title": "Epidemiology of respiratory viruses in patients hospitalized with near-fatal asthma, acute exacerbations of asthma, or chronic obstructive pulmonary disease",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Tan",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Qiu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Am J Med",
+            "volume": "115",
+            "issn": "4",
+            "pages": "272--279",
+            "other_ids": {}
+        },
+        "BIBREF110": {
+            "ref_id": "b110",
+            "title": "Human metapneumovirus infection plays an etiologic role in acute asthma exacerbations requiring hospitalization in adults",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Williams",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Crowe",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Enriquez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "J Infect Dis",
+            "volume": "192",
+            "issn": "7",
+            "pages": "1149--53",
+            "other_ids": {}
+        },
+        "BIBREF111": {
+            "ref_id": "b111",
+            "title": "The relationship of rhinovirus-associated asthma hospitalizations with inhaled corticosteroids and smoking",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Venarske",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Busse",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Griffin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "J Infect Dis",
+            "volume": "193",
+            "issn": "11",
+            "pages": "1536--1579",
+            "other_ids": {}
+        },
+        "BIBREF112": {
+            "ref_id": "b112",
+            "title": "Frequency, severity, and duration of rhinovirus infections in asthmatic and non-asthmatic individuals: a longitudinal cohort study",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Corne",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Marshall",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Smith",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Lancet",
+            "volume": "359",
+            "issn": "9309",
+            "pages": "831--835",
+            "other_ids": {}
+        },
+        "BIBREF113": {
+            "ref_id": "b113",
+            "title": "RESPIRATORY VIRAL INFECTION AND ASTHMA",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Studies of the epidemiology of viral-associated wheezing illnesses in infancy and early childhood",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "47,55,65-67,69-71,74].",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "Studies of virus detection associated with acute asthma exacerbations in children and adults",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

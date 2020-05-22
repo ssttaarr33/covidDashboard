@@ -1,0 +1,894 @@
+{
+    "paper_id": "0a1c6ff9ce8d4985e2b5859b68825cddffdeee9b",
+    "metadata": {
+        "title": "",
+        "authors": [
+            {
+                "first": "Carlos",
+                "middle": [],
+                "last": "Kennedy",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Tavares",
+                "middle": [],
+                "last": "Lima",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "PostGraduate Program in Health Sciences",
+                    "location": {
+                        "addrLine": "Santo Andr\u00e9",
+                        "settlement": "S\u00e3o Paulo",
+                        "country": "Brazil"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Poliana",
+                "middle": [],
+                "last": "Moreira De Medeiros Carvalho",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "PostGraduate Program in Health Sciences",
+                    "location": {
+                        "addrLine": "Santo Andr\u00e9",
+                        "settlement": "S\u00e3o Paulo",
+                        "country": "Brazil"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Igor",
+                "middle": [],
+                "last": "De",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Ara\u00fajo",
+                "middle": [],
+                "last": "Araruna",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Silva",
+                "middle": [],
+                "last": "Lima",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Juazeiro do Norte",
+                    "location": {
+                        "settlement": "Cear\u00e1",
+                        "country": "Brazil"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jos\u00e9",
+                "middle": [],
+                "last": "Victor",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Alexandre",
+                "middle": [],
+                "last": "De Oliveira Nunes",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Juazeiro do Norte",
+                    "location": {
+                        "settlement": "Cear\u00e1",
+                        "country": "Brazil"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jeferson",
+                "middle": [],
+                "last": "Steves Saraiva",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Juazeiro do Norte",
+                    "location": {
+                        "settlement": "Cear\u00e1",
+                        "country": "Brazil"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ricardo",
+                "middle": [],
+                "last": "In\u00e1cio De Souza",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Juazeiro do Norte",
+                    "location": {
+                        "settlement": "Cear\u00e1",
+                        "country": "Brazil"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Gleidiston",
+                "middle": [],
+                "last": "Cla\u00fadio",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Lima Da Silva",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Juazeiro do Norte",
+                    "location": {
+                        "settlement": "Cear\u00e1",
+                        "country": "Brazil"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Modesto",
+                "middle": [],
+                "last": "Leite",
+                "suffix": "",
+                "affiliation": {},
+                "email": "modesto.neto@ufca.edu.brm.l.r.neto.\u204ecorrespondingauthorat"
+            },
+            {
+                "first": "Rolim",
+                "middle": [],
+                "last": "Neto",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Juazeiro do Norte",
+                    "location": {
+                        "settlement": "Cear\u00e1",
+                        "country": "Brazil"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "Background: : A novel form of Coronavirus (2019-nCoV) in Wuhan has created a confused and rapidly evolving situation. In this situational framework, patients and front-line healthcare workers are vulnerable. Method: : Studies were identified using large-circulation international journals found in two electronic databases: Scopus and Embase. Results: : Populations of patients that may require tailored interventions are older adults and international migrant workers. Older adults with psychiatric conditions may be experiencing further distress. The COVID-19 epidemic has underscored potential gaps in mental health services during emergencies. Conclusions: : Most health professionals working in isolation units and hospitals do not receive any training for providing mental health care. Fear seems more certainly a consequence of mass quarantine.",
+            "cite_spans": [
+                {
+                    "start": 30,
+                    "end": 53,
+                    "text": "Coronavirus (2019-nCoV)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The emergence of a novel form of Coronavirus (2019-nCoV) in Wuhan has created a confused and rapidly evolving situation. Not surprisingly, the UK media are already reporting a substantial psychological impact of both the outbreak and the response. Residents have been comparing the situation to \"the end of the world,\" hospitals are \"overwhelmed\" and there are concerns about food shortages. \"Panic in Wuhan\" is a common refrain (Rubin and Wessely, 2020) . In this situational framework, patients and front-line healthcare workers are vulnerable to the emotional impact of oronavirus Maunder et al., 2003; Folkman and Greer, 2000) .",
+            "cite_spans": [
+                {
+                    "start": 429,
+                    "end": 454,
+                    "text": "(Rubin and Wessely, 2020)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 584,
+                    "end": 605,
+                    "text": "Maunder et al., 2003;",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 606,
+                    "end": 630,
+                    "text": "Folkman and Greer, 2000)",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The National Health Commission of China has published several guideline documents since January of 2020, varying from the notification of principles for emergency psychological crisis intervention for the COVID-19 epidemic on January 26 to the notice of psychological assistance hotlines for the epidemic on February 2, and most recently, guidelines for psychological assistance hotlines during the COVID-19 epidemic on February 7 (National Health Commission of China, 2020). Williams (2020) points out that in two correspondences published in Lancet Psychiatry, experts drew attention to patient populations that may need tailored interventions: older adults and international migrant workers Liem et al., 2020) . Hence, considering the large aging Chinese population and their susceptibility to COVID-19, older adults with psychiatric conditions may be experiencing further distress (Williams, 2020) . Moreover, they may not have access to care as a result of mass quarantine restrictions and public transport closure . Liu et al. (2020) highlighted that the COVID-19 epidemic has underscored potential gaps in mental health services during emergencies, while also testing the resilience of healthcare workers and medical systems. Duan and Zhu (2020) noted an increase of psychological problems during this epidemic, including anxiety, depression, and stress.",
+            "cite_spans": [
+                {
+                    "start": 476,
+                    "end": 491,
+                    "text": "Williams (2020)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 694,
+                    "end": 712,
+                    "text": "Liem et al., 2020)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 885,
+                    "end": 901,
+                    "text": "(Williams, 2020)",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1022,
+                    "end": 1039,
+                    "text": "Liu et al. (2020)",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 1233,
+                    "end": 1252,
+                    "text": "Duan and Zhu (2020)",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "The mental health service system in China has been greatly improved after several major disasters, especially the Wenchuan earthquake. In the process of dealing with group crisis intervention, various forms of psychosocial intervention services have been developed, including the intervention model of expert-coach-teacher collaboration after the Wenchuan earthquake (Lin et al., 2018) and the equilibrium psychological intervention on people injured in the disaster incident after the Lushan earthquake (Huang et al., 2014) . With the aim of dealing better with the urgent psychological problems of people involved in the COVID-19 epidemic, a new psychological crisis intervention model was developed through internet technology use. This new model from the West China Hospital integrates physicians, psychiatrists, psychologists, and social workers into internet platforms to carry out psychological intervention to patients, their families, and medical staff. The central idea is to join internet technology and the whole intervention process, as well as to combine early intervention with later rehabilitation .",
+            "cite_spans": [
+                {
+                    "start": 367,
+                    "end": 385,
+                    "text": "(Lin et al., 2018)",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 504,
+                    "end": 524,
+                    "text": "(Huang et al., 2014)",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "It is noteworthy that despite the common mental health problems and disorders found among patients and health workers in such settings, most health professionals working in isolation units and hospitals do not receive any training for providing mental health care . Barbisch et al. (2015) describe how the confinement \"caused a sense of collective hysteria, leading the staff to desperate measures.\" Fear seems more certainly a consequence of mass quarantine. Anxiety within Wuhan is to be expected even without being in quarantine. During disease outbreaks, community anxiety can rise following the first death, increased media reporting, and an escalating number of new cases. Thus, mass quarantine is likely to raise anxiety substantially, for multiple reasons. Elevated anxiety may also have knock-on implications for other health measures (Rubin and Wessely, 2020) .",
+            "cite_spans": [
+                {
+                    "start": 266,
+                    "end": 288,
+                    "text": "Barbisch et al. (2015)",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 844,
+                    "end": 869,
+                    "text": "(Rubin and Wessely, 2020)",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "MLRN and CKTL and PMMC designed the review, developed the inclusion criteria, screened titles and abstracts, appraised the quality of included papers, and drafted the manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Authors' contributions"
+        },
+        {
+            "text": "MMM and IASL and JVADN and JSS and RIS reviewed the study protocol and inclusion criteria and provided substantial input to the manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Authors' contributions"
+        },
+        {
+            "text": "MLRN and CKTL and CGLS reviewed the study protocol. MMM read and screened articles for inclusion. All authors critically reviewed drafts and approved the final manuscript.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Authors' contributions"
+        },
+        {
+            "text": "The Research Group: Suicidology-Federal University of Cear\u00e1 -UFC / National Council for Scientific and Technological Development-CNPq -body linked to the Ministry of Science, Technology and Innovation to encourage research in Brazil.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding"
+        },
+        {
+            "text": "The authors declare that they have no competing interests.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Declaration of Competing Interest"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Is there a case for quarantine? Perspectives from to Ebola",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Barbisch",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Koenig",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Shih",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "",
+            "volume": "9",
+            "issn": "",
+            "pages": "547--553",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Psychological interventions for people affected by the COVID-19 epidemic",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Duan",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Psychiatry",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S2215-0366(20)30073-0"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Promoting psychological well-being in the face of serious illness: when theory, research and practice inform each other",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Folkman",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Greer",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Psychooncology",
+            "volume": "9",
+            "issn": "",
+            "pages": "11--19",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "The effect of equilibrium psychological intervention in wounded patients in Lushan earthquake (article in Chinese)",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Tao",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "J. Sichuan University (Med. Sci. Edi.)",
+            "volume": "45",
+            "issn": "",
+            "pages": "533--535",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "The neglected health of international migrant workers in the COVID-19 epidemic",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Liem",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wariyanti",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Latkin",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Hall",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Psychiatry",
+            "volume": "",
+            "issn": "",
+            "pages": "30076--30082",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S2215-0366(20)30076-6"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "The construction and evaluation of experts-coachteacher collaboration model as a new trauma intervention approach (article in Chinese)",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Tian",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "J. Beijing Norm. University",
+            "volume": "2",
+            "issn": "",
+            "pages": "32--40",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Online mental health services in China during the COVID-19 outbreak",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Xiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Psychiatry",
+            "volume": "",
+            "issn": "",
+            "pages": "30077--30085",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S2215-0366(20)30077-8"
+                ]
+            }
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "The immediate psychological and occupational impact of the 2003 SARS outbreak in a teaching hospital",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Maunder",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hunter",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Vicent",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bennett",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Peladeau",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Leszcz",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Sadavoy",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Verhaeghe",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Steinberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Mazzulli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "CMAJ",
+            "volume": "168",
+            "issn": "",
+            "pages": "1245--1251",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Guidelines for psychological assistance hotlines during 2019-nCoV Pneumonia epidemic",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Coronavirus: the psychological effects of quarantining a city",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Rubin",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Wessely",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The BMJ Opinion",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Mental health concerns arise amid COVID-19 epidemic",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Williams",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Timely mental health care for the 2019 novel Coronavirus outbreak is urgently needed",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Xiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Ng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Psychiatry",
+            "volume": "7",
+            "issn": "",
+            "pages": "228--229",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S2215-0366(20)30046-8"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Mental health services for older adults in China during the COVID-19 outbreak",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Cheung",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Xiang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Psychiatry",
+            "volume": "",
+            "issn": "",
+            "pages": "30079--30080",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S2215-0366(20)30079-1"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Recommended psychological crisis intervention response to the 2019 novel Coronavirus pneumonia outbreak in China: a model of west China hospital. Precis",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1093/pcmedi/pbaa006"
+                ]
+            }
+        }
+    },
+    "ref_entries": {},
+    "back_matter": [
+        {
+            "text": "The authors' thank Research Group: Suicidology-Federal University of Cear\u00e1 -UFCand National Council for Scientific and Technological Development-CNPq -body linked to the Ministry of Science, Technology and Scientific Writing Lab, Medicine School -Federal University of Cariri -UFCA",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        }
+    ]
+}

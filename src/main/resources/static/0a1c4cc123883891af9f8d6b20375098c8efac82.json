@@ -1,0 +1,3078 @@
+{
+    "paper_id": "0a1c4cc123883891af9f8d6b20375098c8efac82",
+    "metadata": {
+        "title": "Stem and root nodules on the tropical wetland legume Aeschynomene fluminensis",
+        "authors": [
+            {
+                "first": "M",
+                "middle": [
+                    "F"
+                ],
+                "last": "Loureiro\\",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "E",
+                "middle": [
+                    "K"
+                ],
+                "last": "James^",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of St Andrews",
+                    "location": {
+                        "addrLine": "Sir Harold Mitchell Building",
+                        "postCode": "KYI6 9AL",
+                        "settlement": "Fife",
+                        "country": "UK"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "J",
+                "middle": [
+                    "I"
+                ],
+                "last": "Sprent&apos;&apos; And",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "A",
+                "middle": [
+                    "A"
+                ],
+                "last": "Franco",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "CNPAB/EMBRAPA",
+                    "location": {
+                        "postCode": "23851-970",
+                        "settlement": "Seropedica",
+                        "region": "Itaguai, FiJ",
+                        "country": "Brazil"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Aeschynomene fluminensis Veil., originally obtained from flooded areas of the Pantanal Matogrossense region of Brazil, was grown under stem-flooded or non-flooded conditions for 70 d after inoculation with isolates of photosynthetic stem nodule rhizobia obtained from native A. fluminensis. Stem nodules formed only on submerged stems of flooded plants (mean of 25 per plant), and did not form on aerial parts, although they were capable of growing and fixing N^ after drainage of the stems. Root nodules formed on both non-flooded and flooded plants but were usually decreased in number by flooding (from means of 124 to 51 per plant, respectively). Flooding (and stem-nodulation) resulted in an increase in shoot (and a decrease in root) dry weight, regardless of rhizobial isolate. Stem nodules were attached by a wide collar of aerenchymatous tissue at the base of the nodule. There were large air spaces in the stem where nodules were subtended and these were continuous with nodule aerenchyma/outer corte.x. In addition, aerenchyma and spongy tissue at the base of the nodule connected both flooded and non-flooded root nodules to large intercellular spaces in the root cortex. The stem and root nodules were ovoid in shape, and essentially aeschynomenoid in type, i.e. the central infected tissue was without uninfected, interstitial cells. Root nodules had a similar structure to stem nodules (although stem nodules were generally larger), and flooded root nodules were approximately twice the size of non-flooded nodules. The infected tissue of root and stem nodules consisted of spherical, bacteroid-containing cells containing one or two rod-shaped bacteroids per peribacteroid unit and prominent organelles. Infection threads were observed in root but not in stem nodules.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "The cortex of stem and root nodules had an apparent oxygen diffusion barrier, consisting of concentric layers of small cells with interlocking cell walls and few intercellular spaces. Cell layers external to these consisted of larger cells and intercellular spaces, with some spaces being occluded with an electron-dense material that contained a glycoprotein recognized by the monoclonal antibodies MAC236 and MAC265. The amount of glycoprotein occlusions did not appear to differ between nodule types or treatments, although stem nodules contained intracellular glycoprotein vesicles adjacent to cell walls. The exterior of the nodules consisted of an epidermis of thin flattened cells with occasional lenticels. Amyloplasts were common in lower stem and hypocotyl nodules, but fewer in flooded or non-flooded root nodules. Upper stem nodules (i.e. those within 6 cm of the water surface) differed from more profoundly submerged stem nodules by having chloroplasts throughout the cortex. Root nodules did not contain chloroplasts, and undifferentiated plastids were found mainly in lower stem nodules.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": ", , j n \u2022 i i r i nodules and are normally situated on the roots of the Many legumes are able to form an N.^-fixing host plant. Nodules provide a low oxygen environsymbiosis with soil bacteria of the genera Rhizobium, ment for the optimum expression and operation of Bradyrhizobium and Azorhizobium (collectively nitrogenase, the enzyme responsible for N2-fixation termed rhizobia) (Sprent & Sprent, 1990) . The (Witty ef a/., 1986; Gallon, 1992) ; they also provide an interface for the exchange of nutrients and * To whom correspondence should be addressed.",
+            "cite_spans": [
+                {
+                    "start": 382,
+                    "end": 405,
+                    "text": "(Sprent & Sprent, 1990)",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 412,
+                    "end": 432,
+                    "text": "(Witty ef a/., 1986;",
+                    "ref_id": null
+                },
+                {
+                    "start": 433,
+                    "end": 446,
+                    "text": "Gallon, 1992)",
+                    "ref_id": "BIBREF14"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "metabolites between the symbionts. The plant supplies photosynthetically-derived carbon to the bacteroids (the symbiotic, Nj-Bxing form of the rhizobia) and, in return, the bacteroids pass fixed nitrogen (ammonium) to the host plant. In recent years, much attention has been focused on a different form of legume nodulation, that of their stems. Stem nodulation is a relatively rare phenomenon that, until recently, has been confirmed only in some species of the hydrophytic genera Aeschynomene and Sesbania (Arora, 1954; Yatazawa & Yoshida, 1979; Dreyfus & Dommergues, 1981; Eaglesham & Szalay, 1983; Alazard, 1985; Vaughn & Elmore, 1985) , Reports that stem nodules also occur on aquatic Neptunia species are likely to be erroneous (James et al., 1992a) and a misquote of Schaede (1940) . However, the short list of stem nodulating legumes has just been increased to three genera by the discovery of nodules on stems of Discolobium (Loureiro et al., 1994) , a relative of Aeschynomene.",
+            "cite_spans": [
+                {
+                    "start": 508,
+                    "end": 521,
+                    "text": "(Arora, 1954;",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 522,
+                    "end": 547,
+                    "text": "Yatazawa & Yoshida, 1979;",
+                    "ref_id": null
+                },
+                {
+                    "start": 548,
+                    "end": 575,
+                    "text": "Dreyfus & Dommergues, 1981;",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 576,
+                    "end": 601,
+                    "text": "Eaglesham & Szalay, 1983;",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 602,
+                    "end": 616,
+                    "text": "Alazard, 1985;",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 617,
+                    "end": 639,
+                    "text": "Vaughn & Elmore, 1985)",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 734,
+                    "end": 755,
+                    "text": "(James et al., 1992a)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 774,
+                    "end": 788,
+                    "text": "Schaede (1940)",
+                    "ref_id": "BIBREF35"
+                },
+                {
+                    "start": 934,
+                    "end": 957,
+                    "text": "(Loureiro et al., 1994)",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "Stem nodulation apparently allows plants of the above genera to fix N,^ in flooded environments. Nodules formed on the stem above the flooded roots overcome the oxygen constraints afllicting submerged root nodules (Ladha et al., 1992a) , Very high Nj fixation rates are claimed for stem-nodulated legumes such as Sesbania rostrata (Ndoye & Dreyfus, 1988; Hungria, Eaglesham & Hardy, 1992; Kwon & Beevers, 1992; Ladha et al., 1992a, 6; Parsons, Raven & Sprent, 1992) , Aeschynomene spp. (Yatazawa & Yoshida, 1979; Eaglesham & Szalay, 1983; Alazard & Duhoux, 1987; Hungria et al., 1992) and Discolobium pulchellum (Loureiro et al., 1994) , As stem nodules are located so close to the photosynthetic apparatus of the plant, they are ideally placed to receive a constant supply of energy substrates. Moreover, most stem nodules also contain chloroplasts, so they may also supplement their energy supply by their own photosynthetic activity (Eaglesham & Szalay, 1983; de Bruijn, 1989; Hungria et al., 1992; Ladha et al. 1992a; Parsons et al., 1992; Parsons, Sprent & Raven, 1993) , This factor might be taken to an extreme in those Aeschynomene species that contain photosynthetic rhizobia that are shown to have light-enhanced nitrogenase activity (Evans et al., 1990; Lorquin et al., 1993; Loureiro et al., 1993) , Whether nodules are formed on aerial (above water) or submerged stems, depends on the species (Ladha et al., 1992a; Lorquin et al., 1993) . Ladha et al. (1992 a) divided stem-nodulating legumes into three groups: (1) 5, rostrata, A. afraspera and A. nilotica which have stems with visible adventitious root/nodule primordia (Alazard, 1985) , and hence profuse nodulation all over the stem, including aerial portions; (2) Aeschynomene species which also have stems with visible nodule/root primordia but form nodules mainly on the submerged stem; and (3) a variety of plants including other Aeschynomene and Sesbania species, as well as Neptunia, Vicia faba and Arachis hypogeae. Ladha et al. (1992 a) suggested that the group 3 plants could not be considered 'true' stem-nodulating legumes as nodule primordia were invisible, and nodules form only on the submerged stem. Since adventitious roots arise from these submerged stems, they should be considered as anatomically more similar to roots.",
+            "cite_spans": [
+                {
+                    "start": 214,
+                    "end": 235,
+                    "text": "(Ladha et al., 1992a)",
+                    "ref_id": null
+                },
+                {
+                    "start": 331,
+                    "end": 354,
+                    "text": "(Ndoye & Dreyfus, 1988;",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 355,
+                    "end": 388,
+                    "text": "Hungria, Eaglesham & Hardy, 1992;",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 389,
+                    "end": 410,
+                    "text": "Kwon & Beevers, 1992;",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 411,
+                    "end": 434,
+                    "text": "Ladha et al., 1992a, 6;",
+                    "ref_id": null
+                },
+                {
+                    "start": 435,
+                    "end": 465,
+                    "text": "Parsons, Raven & Sprent, 1992)",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 486,
+                    "end": 512,
+                    "text": "(Yatazawa & Yoshida, 1979;",
+                    "ref_id": null
+                },
+                {
+                    "start": 513,
+                    "end": 538,
+                    "text": "Eaglesham & Szalay, 1983;",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 539,
+                    "end": 562,
+                    "text": "Alazard & Duhoux, 1987;",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 563,
+                    "end": 584,
+                    "text": "Hungria et al., 1992)",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 612,
+                    "end": 635,
+                    "text": "(Loureiro et al., 1994)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 936,
+                    "end": 962,
+                    "text": "(Eaglesham & Szalay, 1983;",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 963,
+                    "end": 979,
+                    "text": "de Bruijn, 1989;",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 980,
+                    "end": 1001,
+                    "text": "Hungria et al., 1992;",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1002,
+                    "end": 1021,
+                    "text": "Ladha et al. 1992a;",
+                    "ref_id": null
+                },
+                {
+                    "start": 1022,
+                    "end": 1043,
+                    "text": "Parsons et al., 1992;",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 1044,
+                    "end": 1074,
+                    "text": "Parsons, Sprent & Raven, 1993)",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 1244,
+                    "end": 1264,
+                    "text": "(Evans et al., 1990;",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1265,
+                    "end": 1286,
+                    "text": "Lorquin et al., 1993;",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 1287,
+                    "end": 1309,
+                    "text": "Loureiro et al., 1993)",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 1406,
+                    "end": 1427,
+                    "text": "(Ladha et al., 1992a;",
+                    "ref_id": null
+                },
+                {
+                    "start": 1428,
+                    "end": 1449,
+                    "text": "Lorquin et al., 1993)",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 1452,
+                    "end": 1473,
+                    "text": "Ladha et al. (1992 a)",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 1636,
+                    "end": 1651,
+                    "text": "(Alazard, 1985)",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 1991,
+                    "end": 2012,
+                    "text": "Ladha et al. (1992 a)",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "In the present study, we examine nodulation and nodule structure of A. fluminensis, an important grazing species for native aquatic fauna, such as capybara {Hydrochaeris hydrochaeris), in the Pantanal Matogrossense region of Brazil (Allem & Vails, 1987) . As it is a member of the ' Group 3 ' stem nodulators of Ladha et al. (1992 a) we determine whether A. fluminensis has 'genuine' stem nodules (i.e. that they are connected vascularly to the aerial or submerged stem) according to the criteria of James et al. (1992 a) and Loureiro et al. (1994) , and under what conditions and with which rhizobia they form. We also investigate root nodulation in this species and determine whether root and stem nodules can grow and fix Nj under submerged conditions as has been recently demonstrated with Sesbania rostrata (Ladha et al., 19926) , Neptunia plena (James et al., 1992a; James, Minchin & Sprent, 19926) , Discolobium (Loureiro et al., 1994) and Trifolium repens (Pugh et al., 1995) ,",
+            "cite_spans": [
+                {
+                    "start": 232,
+                    "end": 253,
+                    "text": "(Allem & Vails, 1987)",
+                    "ref_id": null
+                },
+                {
+                    "start": 312,
+                    "end": 333,
+                    "text": "Ladha et al. (1992 a)",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 500,
+                    "end": 521,
+                    "text": "James et al. (1992 a)",
+                    "ref_id": null
+                },
+                {
+                    "start": 526,
+                    "end": 548,
+                    "text": "Loureiro et al. (1994)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 812,
+                    "end": 833,
+                    "text": "(Ladha et al., 19926)",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 851,
+                    "end": 872,
+                    "text": "(James et al., 1992a;",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 873,
+                    "end": 904,
+                    "text": "James, Minchin & Sprent, 19926)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 919,
+                    "end": 942,
+                    "text": "(Loureiro et al., 1994)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 964,
+                    "end": 983,
+                    "text": "(Pugh et al., 1995)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "INTRODUCTION"
+        },
+        {
+            "text": "A. fluminensis seeds were obtained from flooded areas of the Pantanal Matogrossense, Mato Grosso, Brazil, and were germinated after surface sterilization and scarification. Three days after germination, seedlings (4 cm in height) were transferred to pots filled with a sterilized soil/vermiculite (3:1) mixture in a greenhouse at EMBRAPA/ CNPAB, Rio de Janeiro, under conditions described by Loureiro et al. (1994) , Roots were then inoculated with one of 19 isolates of rhizobia (UFMTl-19), originally obtained from stem nodules on native A. fiuminensis, all of which contained bacteriochlorophyll a (Loureiro et al., 1993) , At 20 d after germination the roots and lower stems of half the plants were flooded (to a final depth of 9 cm above the hypocotyl at the time of harvest). At this time (20 d), stems of all (flooded and non-flooded) plants were inoculated by rubbing rhizobia-containing broth onto them with sterile cotton wool; this was repeated every 15 d until harvest at 90 d after germination.",
+            "cite_spans": [
+                {
+                    "start": 392,
+                    "end": 414,
+                    "text": "Loureiro et al. (1994)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 601,
+                    "end": 624,
+                    "text": "(Loureiro et al., 1993)",
+                    "ref_id": "BIBREF28"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Plant growth"
+        },
+        {
+            "text": "Ninety days after germination mature nodules had formed on the roots and, in some cases, on the stems. Pieces of stenn with stem nodules and nodulated root systems were taken from the plants and tested for nitrogenase activity using the acetylene reduction assay (ARA) according to Loureiro et al. (1994) . Active nodules from stems and roots were then excised and prepared for light and transmission electron microscopy (TEM) according to James et al. (1992a) . Immunogold labelling of nodules with the monoclonal antibodies MAC236 and MAC265 (gifts from N. J. Brewin, John Innes Institute, Norwich, UK) for TEM and light microscopy was performed using the methods of James et al. (1991) . Some of the nodules were still attached to stems or roots and all had pink central tissue, indicating leghaemoglobin.",
+            "cite_spans": [
+                {
+                    "start": 282,
+                    "end": 304,
+                    "text": "Loureiro et al. (1994)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 440,
+                    "end": 460,
+                    "text": "James et al. (1992a)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 669,
+                    "end": 688,
+                    "text": "James et al. (1991)",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Nitrogenase activity and microscopy"
+        },
+        {
+            "text": "Plant dry weights, nodule dry weights and the number of root and stem nodules per plant were also determined.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Nitrogenase activity and microscopy"
+        },
+        {
+            "text": "Where necessary, results were square-root transformed to give a normal distribution. Analysis of variance was made using MSTAT-C, and Tukey's test was used to determine significant differences between treatments.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical analysis"
+        },
+        {
+            "text": "Inoculation with tbe 19 pbotosynthetic isolates originally obtained from field-grown A. fluminensis (UFMTl-19) resulted in stem and root nodule formation, and Table 1 presents results from the 10 'best' strains. Significant (P < 0-01) positive correlations were seen between flooding, stem nodulation and shoot dry weight. Significant (P < 0-01) negative correlations were seen between flooding, root nodulation (number and dry weight per plant) and root dry weight. However, these correlations mask some interesting and significant results with individual rbizobial strains. F'or instance, although with most strains/isolates Hooding resulted in a c. 50\u00b0o reduction in root nodule number, their dry weights were not generally reduced by flooding to the same extent, suggesting that tbe flooded nodules were bigger than non-Booded nodules. In particular tbe root nodules on plants inoculated with UFMT7 increased tbeir total dry weight three-fold with flooding compared witb non-flooded plants (Table  1) , but each flooded plant had only one third tbe number of nodules, i.e. an eigbt-fold increase in dry weight of individual nodules witb flooding.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 159,
+                    "end": 166,
+                    "text": "Table 1",
+                    "ref_id": null
+                },
+                {
+                    "start": 994,
+                    "end": 1004,
+                    "text": "(Table  1)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Effect of flooding and isolate of rhizobia on stem/root nodulation, nitrogenase activity and plant dry weight"
+        },
+        {
+            "text": "In all treatments/nodule types there was significant acetylene reduction activity (ARA), indicating active nitrogenase, except for tbe uninoculated controls (Table 1) . However, tbe ARA results might not give accurate estimates of nodule activity as the method used has been shown to give underestimates of nitrogenase activities in legume nodules (Witty & Minchin, 1988) . On the other hand, they are useful for general comparisons. For example, root nodule ARA was negatively correlated with flooding treatment (P < 0-01) and stem nodule number/dry weight (P < 0-01), whereas stem nodule ARA was positively correlated with flooding treatment (P<0-01) and shoot dry weigbt (P<0-01), but negatively correlated with number of root nodules per flooded plant (P < 0-01) and root nodule ARA (P<0-01).",
+            "cite_spans": [
+                {
+                    "start": 348,
+                    "end": 371,
+                    "text": "(Witty & Minchin, 1988)",
+                    "ref_id": "BIBREF43"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 157,
+                    "end": 166,
+                    "text": "(Table 1)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Effect of flooding and isolate of rhizobia on stem/root nodulation, nitrogenase activity and plant dry weight"
+        },
+        {
+            "text": "Inoculation witb isolate UFMT3 produced tbe greatest number of stem nodules with tbe bigbest stem nodule acetylene reduction activity per plant, although inoculation witb UFMT16 resulted in tbe greatest dry weight of stem nodules per plant (Table  1) . However, isolate UFMTl 5 on non-flooded plants produced the highest acetylene reduction activity of any treatment/nodule type, with the root nodules being considerably greater in activity tban either flooded root or stem nodules on tbe same set of plants. The highest flooded root nodule activity was shown by those plants inoculated with UFMTl. Tbis was equal to the activity of non-flooded nodules on the same plants (Table 1) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 240,
+                    "end": 250,
+                    "text": "(Table  1)",
+                    "ref_id": null
+                },
+                {
+                    "start": 672,
+                    "end": 681,
+                    "text": "(Table 1)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Effect of flooding and isolate of rhizobia on stem/root nodulation, nitrogenase activity and plant dry weight"
+        },
+        {
+            "text": "Stem nodules formed only on submerged parts of flooded plants (Fig. 1 a) , to within 1 cm of the water surface, and flooding appeared to be essential for tbeir formation. However, when tbe water around tbe stems was drained tbe nodules were able to continue growing and fixing N,. Witb most isolates of rhizobia, flooding and stem nodulation resulted in an increase in sboot dry weigbt, accompanied by a decrease in root dry weight, with a resultant decrease in root/shoot ratio (not sbown). Tbe most eflicient strain/treatment combination as regards shoot growtb was inoculation witb the strain UFMT7",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 62,
+                    "end": 72,
+                    "text": "(Fig. 1 a)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Effect of flooding and isolate of rhizobia on stem/root nodulation, nitrogenase activity and plant dry weight"
+        },
+        {
+            "text": "showing the vascular connection (arrow) of the stem (S) to the nodule (N) (bar 100 //m). (d) TS of the base of stem (S) with a nodule (N) attached. This region corresponds to that indicated by the asterisk in Fig. 1 b. There are large cavities (C) where the nodule subtends the stem, and the nodule tissue contains numerous intercellular spaces (bar, 50 //m). (e) TS cross-cortex section of an upper stem nodule. Immediately external to the infected cells (I), is a distribution zone (DZ) of cells with intercellular spaces adjacent to the infected cells. External to the DZ is a boundary layer of interlocking cells with few intercellular spaces (BL). The mid-cortex (MC) comprises the larger cells external to the BL and contains numerous chloroplasts (arrows), with fewer chloroplasts bring present in the outer cortex (OC) and hypodermal cells (not shown). Chloroplasts nearer the infected tissue (in the DZ and BL) tend to be less distinct in appearance (bar, 10//m). (Table 1) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 209,
+                    "end": 215,
+                    "text": "Fig. 1",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 973,
+                    "end": 982,
+                    "text": "(Table 1)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Effect of flooding and isolate of rhizobia on stem/root nodulation, nitrogenase activity and plant dry weight"
+        },
+        {
+            "text": "There were no obvious differences in structure between nodules on plants inoculated with the different UFMT isolates, and the data presented here, and in the subsequent sections, are from representative samples of all the isolate/treatment combinations.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Stem nodule structure"
+        },
+        {
+            "text": "Nodules were connected to the stem via a short broad stalk of large-celled tissue with numerous intercellular spaces (Fig. 1 b, e) . This spongy tissue was continuous with possible aeration pathways in the form of large air spaces in the stem adjacent to where nodules were connected ( Fig. 1 d) , and also in the pith (not shown). Often, there were adventitious roots associated with the nodules (Fig. 1 a) but vascular traces ran directly from the stem vascular system to the nodule (Fig. \\c) as in all other true stem nodules (James et al., 1992o) .",
+            "cite_spans": [
+                {
+                    "start": 529,
+                    "end": 550,
+                    "text": "(James et al., 1992o)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 117,
+                    "end": 130,
+                    "text": "(Fig. 1 b, e)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 286,
+                    "end": 295,
+                    "text": "Fig. 1 d)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 397,
+                    "end": 407,
+                    "text": "(Fig. 1 a)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 485,
+                    "end": 494,
+                    "text": "(Fig. \\c)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Stem nodule structure"
+        },
+        {
+            "text": "Stem nodules were typically 'aeschynomenoid' in appearance (Corby, 1988) , i.e. round to oblate in shape and without uninfected interstitial cells in the infected tissue (Figs 16, e, 2c, d) . However, most of the stem nodules examined had lenticels (Fig. \\b) , which are a feature not of aeschynomenoid, but rather of desmodioid nodules (Corby, 1988) . Stem nodules on A. fluminensis could be divided into two types: those on the lower stem near the hypocotyl with few (or no) chloroplasts in the inner cortex (Fig.  2d) and those on the upper stem, near the surface of the water, which had numerous chloroplasts (Figs  \\e, 2a, b) .",
+            "cite_spans": [
+                {
+                    "start": 59,
+                    "end": 72,
+                    "text": "(Corby, 1988)",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 337,
+                    "end": 350,
+                    "text": "(Corby, 1988)",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 170,
+                    "end": 189,
+                    "text": "(Figs 16, e, 2c, d)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 249,
+                    "end": 258,
+                    "text": "(Fig. \\b)",
+                    "ref_id": null
+                },
+                {
+                    "start": 510,
+                    "end": 520,
+                    "text": "(Fig.  2d)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 613,
+                    "end": 630,
+                    "text": "(Figs  \\e, 2a, b)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Stem nodule structure"
+        },
+        {
+            "text": "In both types, the infected tissue was similar consisting of round, bacteroid-containing cells with large spaces between them (Figs \\e,2e, d), although some were occluded (Fig. 2c) . Central nuclei were often prominent within the infected cells and there were no vacuoles evident (Figs \\e, 2b-d) , except in cells which were senescing (not shown). In healthy cells there were only 1-2 bacteroids per peribacteroid unit (PBU) and bacteroids tended to be rod-shaped with some electron-transparent deposits which might be poly-/?-hydroxybutyrate (PHB) (Fig. 26,  c) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 171,
+                    "end": 180,
+                    "text": "(Fig. 2c)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 280,
+                    "end": 295,
+                    "text": "(Figs \\e, 2b-d)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 549,
+                    "end": 562,
+                    "text": "(Fig. 26,  c)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Stem nodule structure"
+        },
+        {
+            "text": "The cortex of upper and lower stem nodules was also broadly similar and roughly followed the pattern reported in a number of nodule types (Parsons & Day, 1990; James et al., 1991 James et al., , 1992a Brown & Walsh, 1994; Iannetta et al., 1995) . In the two to three cell layers immediately adjacent to the infected tissue there were large intercellular spaces, and the small cells within these layers contained numerous organelles and amyloplasts (Figs le, 2b, d, 3a) . These cell layers are analogous to the 'distribution zone' described in other nodules (Witty et al., 1986; Parsons & Day, 1990) . External to the distribution zone (DZ) the cells were larger and more closepacked and often had interlocking cell walls with few intercellular spaces (Figs \\e, 2d, 3a) ; these cell layers are similar to that name as a 'boundary cell layer' in soybean nodules (Parsons & Day, 1990 ) and which has since been recognized in other legume nodules (James ef a/., 1992a; Brown & Walsh, 1994; Iannetta et al., 1995) .",
+            "cite_spans": [
+                {
+                    "start": 138,
+                    "end": 159,
+                    "text": "(Parsons & Day, 1990;",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 160,
+                    "end": 178,
+                    "text": "James et al., 1991",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 179,
+                    "end": 200,
+                    "text": "James et al., , 1992a",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 201,
+                    "end": 221,
+                    "text": "Brown & Walsh, 1994;",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 222,
+                    "end": 244,
+                    "text": "Iannetta et al., 1995)",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 557,
+                    "end": 577,
+                    "text": "(Witty et al., 1986;",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 578,
+                    "end": 598,
+                    "text": "Parsons & Day, 1990)",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 860,
+                    "end": 880,
+                    "text": "(Parsons & Day, 1990",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 943,
+                    "end": 964,
+                    "text": "(James ef a/., 1992a;",
+                    "ref_id": null
+                },
+                {
+                    "start": 965,
+                    "end": 985,
+                    "text": "Brown & Walsh, 1994;",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 986,
+                    "end": 1008,
+                    "text": "Iannetta et al., 1995)",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 448,
+                    "end": 468,
+                    "text": "(Figs le, 2b, d, 3a)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 751,
+                    "end": 768,
+                    "text": "(Figs \\e, 2d, 3a)",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "Stem nodule structure"
+        },
+        {
+            "text": "In upper stem nodules ( Fig. 1 6) , chloroplasts were present throughout the cortex, especially near intercellular spaces (Figs \\e, 2a, b) . They were even seen in distribution zone (DZ) cells immediately adjacent to infected cells (Figs \\e, 2b) , although these chloroplasts appeared to be largely inactive with no distinct grana (26). Chloroplasts were particularly prominent in the boundary cell layers and the mid-cortex (Fig. 1 e) where they contained stacked grana and amyloplasts, indicating photosynthetic activity (Fig. 2a) . In lower stem nodules chloroplasts were not often seen, although there were plastids, and possibly ineffective chloroplasts, which were either undeveloped or had degenerated into amyloplasts (Fig. 2d) . In general, cells in the inner cortex of lower stem nodules (Figs 2d, 3a ) contained greater numbers of amyloplasts than did those of upper stem nodules (Fig. 1 e) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 24,
+                    "end": 33,
+                    "text": "Fig. 1 6)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 122,
+                    "end": 138,
+                    "text": "(Figs \\e, 2a, b)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 232,
+                    "end": 245,
+                    "text": "(Figs \\e, 2b)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 425,
+                    "end": 435,
+                    "text": "(Fig. 1 e)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 523,
+                    "end": 532,
+                    "text": "(Fig. 2a)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 726,
+                    "end": 735,
+                    "text": "(Fig. 2d)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 798,
+                    "end": 810,
+                    "text": "(Figs 2d, 3a",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 891,
+                    "end": 901,
+                    "text": "(Fig. 1 e)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Stem nodule structure"
+        },
+        {
+            "text": "The mid and outer cortex of all stem nodules was similar, consisting of progressively larger cells towards the exterior of the nodules, and with large (often occluded) intercellular spaces between them (Figs \\e, 2d, 3a-r). Vascular bundles were located within the mid-cortex ( Fig. 1 6) , just external to the DZ. Surrounding the cortex of both stem and root nodules was a corky hypodermis of thin, flattened cells (Figs 16, 4a, c) which was occasionally interrupted by lenticels made up of expanded hypodermal and/or outer cortical cells (Figs 16, 4 a) ; these could be profuse in lower stem nodules (not shown).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 277,
+                    "end": 286,
+                    "text": "Fig. 1 6)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 415,
+                    "end": 431,
+                    "text": "(Figs 16, 4a, c)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 539,
+                    "end": 553,
+                    "text": "(Figs 16, 4 a)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Stem nodule structure"
+        },
+        {
+            "text": "Root nodules were generally smaller than stem nodules (only 3 mm in diameter compared witb one or two rod-shaped bacteroids per peribacteroid unit (PBU) (arrows). Host cell nuclei (N) and mitochondria (M) are vi.sible (bar, 2 //m). (d) TS of the corte.x and infected cells of a lower stem nodule. The structure is similar to the upper stem nodule but there are more intercellular spaces in the distribution zone (DZ) and midcortex (MC), and the boundary layer (BL) is less well-defined. There are numerous amyloplasts (a) in the DZ cells, and the BL cells contain oleosome-type hodies (arrows). There are no chloroplasts except some degenerate ones in the mid-cortex (large arrow) (bar, 10/<ni). *V, , Figure 3 . {a) TS of a lower stem nodule after immunogold labelling (plus silver enhancement) with the monoclonal antibody MAC236. MAC236 and MAC265 recognize an intercellular glycoprotein involved in the regulation of oxygen diffusion in legume root nodules (VandenBosch et al., 1989; James et al., 1991) , and the MAC236 antigen can be seen in intercellular spaces in this section (arrows). Note that the glycoprotein is confined to the mid cortex (MC), and is not apparent in the inner cortex (DZ and BL). There are numerous amyloplasts (a) in the mid and inner cortex (bar, 10/<m). (ft) TKM of immunogold labelled (with MAC236) intercellular space from the mid-cortex of a lower stem nodule (bar, 500 nm). (c) I'EM of intercellular space (S) from the mid-cortex of a lower stem nodule. Close to the space, and adjacent to cell walls are intracellular vesicles (arrows) that are immunogold labelled with MAC265 (Fig. Ttd) . The intercellular space is much more 4 mm for stem nodules) and lighter (0-5-1 mg d.wt per root nodule compared with 2-4 mg d.wt per stem nodule), regardless of flooding (Table 1) . However, tbey were similar in morphology and structure to stem nodules (Figs la, 4a) . Nodules were often observed attached to tbe roots at lateral root junctions but not always (F^ig. 4a). Tbey were connected to tbe root by a wide base of spongy cells, and large air spaces were observed in tbe root cortex adjacent to the nodule bases (Fig. 4a, b) . These spaces were presumably a continuation of tbe air patbways observed in tbe stems (Fig. 1 d) and were present in botb flooded and non-flooded roots. Some lenticellular tissue was also present on flooded roots (Fig. lfl) .",
+            "cite_spans": [
+                {
+                    "start": 961,
+                    "end": 987,
+                    "text": "(VandenBosch et al., 1989;",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 988,
+                    "end": 1007,
+                    "text": "James et al., 1991)",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 702,
+                    "end": 710,
+                    "text": "Figure 3",
+                    "ref_id": null
+                },
+                {
+                    "start": 1616,
+                    "end": 1626,
+                    "text": "(Fig. Ttd)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1799,
+                    "end": 1808,
+                    "text": "(Table 1)",
+                    "ref_id": null
+                },
+                {
+                    "start": 1882,
+                    "end": 1895,
+                    "text": "(Figs la, 4a)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 2148,
+                    "end": 2160,
+                    "text": "(Fig. 4a, b)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 2249,
+                    "end": 2259,
+                    "text": "(Fig. 1 d)",
+                    "ref_id": "FIGREF1"
+                },
+                {
+                    "start": 2376,
+                    "end": 2386,
+                    "text": "(Fig. lfl)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Root nodule structure"
+        },
+        {
+            "text": "Infected cells of root nodules (Fig. Ac, d) were similar to stem nodules and there were no obvious differences in bacteroid frequency, organelles, vacuoles etc. However, in contrast to stem nodules, intercellular spaces in root nodules could be very large and infection tbreads were occasionally seen witbin the cells (Fig. Ad) . The cortex of root nodules (Fig. 4c) was also similar to stem nodules, especially to those nodules without chloroplasts on the lower stem (Fig. Id) , with amyloplasts being abundant in the DZ. There were no obvious structural differences between flooded and non-flooded root nodules.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 31,
+                    "end": 43,
+                    "text": "(Fig. Ac, d)",
+                    "ref_id": null
+                },
+                {
+                    "start": 318,
+                    "end": 327,
+                    "text": "(Fig. Ad)",
+                    "ref_id": null
+                },
+                {
+                    "start": 357,
+                    "end": 366,
+                    "text": "(Fig. 4c)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 468,
+                    "end": 477,
+                    "text": "(Fig. Id)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Root nodule structure"
+        },
+        {
+            "text": "Immunogold silver enhancement of the antigens recognized by tbe monoclonal antibodies MAC236 and MAC265 (VandenBosch et al., 1989) revealed that tbe pattern of expression of these antigens differed little between flooding treatment and nodule types. Figure 3 a shows a cross-cortex view of a lower stem nodule and demonstrates that the glycoprotein recognized by these antibodies is concentrated mainly within large intercellular spaces in the mid to outer cortex and accumulates little in occluded spaces internal to the mid-cortex. This pattern of distribution was confirmed using immunogold labelling under TF;M (Fig. Zb,c) . However, TFM also showed that adjacent to sparsely-labelled spaces in the mid-cortex of both stem and root nodules were numerous intracellular vesicles that contained the glycoprotein (Fig. 2c, d) ; the vesicles usually being more intensely labelled by MAC265 than the intercellular spaces in this region. In general, labelling by MAC236 was more intense in A. fluminensis nodules than that by MAC265 (compare Fig. 36 with Fig. 3 c, d) .",
+            "cite_spans": [
+                {
+                    "start": 86,
+                    "end": 130,
+                    "text": "MAC236 and MAC265 (VandenBosch et al., 1989)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 250,
+                    "end": 258,
+                    "text": "Figure 3",
+                    "ref_id": null
+                },
+                {
+                    "start": 615,
+                    "end": 626,
+                    "text": "(Fig. Zb,c)",
+                    "ref_id": null
+                },
+                {
+                    "start": 813,
+                    "end": 825,
+                    "text": "(Fig. 2c, d)",
+                    "ref_id": "FIGREF2"
+                },
+                {
+                    "start": 1039,
+                    "end": 1064,
+                    "text": "Fig. 36 with Fig. 3 c, d)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Occurrence of intercellular space glycoprotein"
+        },
+        {
+            "text": "We have shown that A. fluminensis is capable of forming genuine stem nodules, i.e. tbey are connected vascularly to tbe stem and not to adventitious roots arising from the stem (James et al., 1992a) and, when grow ing close to the surface of the water, they contain chloroplasts in the nodule cortex. Before the present study A. fluminensis was considered not 'truly' stem-nodulated but with nodules on a 'roottype' submerged stem or on adventitious roots (Ladha et al., 1992a) , a deflnition also supported by Stegink & Vaughn (1988) and Alazard (1985) .",
+            "cite_spans": [
+                {
+                    "start": 177,
+                    "end": 198,
+                    "text": "(James et al., 1992a)",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 456,
+                    "end": 477,
+                    "text": "(Ladha et al., 1992a)",
+                    "ref_id": null
+                },
+                {
+                    "start": 511,
+                    "end": 534,
+                    "text": "Stegink & Vaughn (1988)",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 539,
+                    "end": 553,
+                    "text": "Alazard (1985)",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Effect of flooding on stem and root nodulation of A. fluminensis"
+        },
+        {
+            "text": "We have also shown that the stem nodules require submergence for tbeir formation. This is unlike the aerial stem nodules on 5. rostrata, A. indica, A. scabra, A. afraspera and A. nilotica (Yatazawa & Yoshida, 1979; Dreyfus & Dommergues, 1981; Alazard & Duhoux, 1987; Ladha et al, 1992a) which require high humidity around, but not actual inundation of, tbe stem for formation of stem nodules (Eaglesham & Szalay, 1983; Alazard & Duhoux, 1987; Ladha et al., 1992a; Parsons et al., 1993) . Therefore, A. fluminensis is similar to A. elaphroxylon, A. pfundii and other stem-nodulators of Group 3 (Ladha et al., 1992a) which form submerged stem nodules only. However, although A. fluminensis stem nodules form only under submerged conditions, once formed they are capable of functioning under non-flooded conditions, unlike stem nodules on Discolobium pulchellum wbich obligately require inundation for formation and function (Loureiro et al., 1994) .",
+            "cite_spans": [
+                {
+                    "start": 137,
+                    "end": 214,
+                    "text": "A. indica, A. scabra, A. afraspera and A. nilotica (Yatazawa & Yoshida, 1979;",
+                    "ref_id": null
+                },
+                {
+                    "start": 215,
+                    "end": 242,
+                    "text": "Dreyfus & Dommergues, 1981;",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 243,
+                    "end": 266,
+                    "text": "Alazard & Duhoux, 1987;",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 267,
+                    "end": 286,
+                    "text": "Ladha et al, 1992a)",
+                    "ref_id": null
+                },
+                {
+                    "start": 392,
+                    "end": 418,
+                    "text": "(Eaglesham & Szalay, 1983;",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 419,
+                    "end": 442,
+                    "text": "Alazard & Duhoux, 1987;",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 443,
+                    "end": 463,
+                    "text": "Ladha et al., 1992a;",
+                    "ref_id": null
+                },
+                {
+                    "start": 464,
+                    "end": 485,
+                    "text": "Parsons et al., 1993)",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 593,
+                    "end": 614,
+                    "text": "(Ladha et al., 1992a)",
+                    "ref_id": null
+                },
+                {
+                    "start": 922,
+                    "end": 945,
+                    "text": "(Loureiro et al., 1994)",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Effect of flooding on stem and root nodulation of A. fluminensis"
+        },
+        {
+            "text": "Tbe decrease in the number of root nodules on flooded A. fluminensis is similar to tbat reported in otber stem-nodulated species (Eaglesham & Szalay, 1983; Alazard & Duhoux, 1988; Ladha e? a/., 19926; Parsons et al., 1992) , although this is not always the case with 5. rostrata (Ladha et al., 19926) . The decline in number and activity of root nodules, along with a parallel increase in stem nodulation, has been attributed to a lack of oxygen available to tbe roots under flooded conditions. This causes the production of aerial stem nodules which do not normally have such oxygen constraints (Dreyfus & Dommergues, 1981; Eaglesham & Szalay, 1983; Alazard & Duhoux, 1987; Ndoye & Dreyfus, 1988) . However, the decline in root nodules has also been attributed to tbe preferential production of stem nodules (and tbe actual suppression of root nodulation), regardless of flooding. Stem nodules might be more eflicient at sparsely labelled than that in Fig. 36 where MAC236 was used (bar, 1 //m). (</) High magnification of an intracellular glycoprotein vesicle (V) from Fig. 4f (asterisk) . The vesicle is labelled with .M.>\\C265, and there is also some labelling in the cytoplasm (arrows). Note the unusual protuberances (P) on the vesicle (bar, 200 nm). Nj-fixing than are root nodules (Hungria et al., 1992 ; Ladhae/a/., 1992 a).",
+            "cite_spans": [
+                {
+                    "start": 129,
+                    "end": 155,
+                    "text": "(Eaglesham & Szalay, 1983;",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 156,
+                    "end": 179,
+                    "text": "Alazard & Duhoux, 1988;",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 180,
+                    "end": 200,
+                    "text": "Ladha e? a/., 19926;",
+                    "ref_id": null
+                },
+                {
+                    "start": 201,
+                    "end": 222,
+                    "text": "Parsons et al., 1992)",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 279,
+                    "end": 300,
+                    "text": "(Ladha et al., 19926)",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 596,
+                    "end": 624,
+                    "text": "(Dreyfus & Dommergues, 1981;",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 625,
+                    "end": 650,
+                    "text": "Eaglesham & Szalay, 1983;",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 651,
+                    "end": 674,
+                    "text": "Alazard & Duhoux, 1987;",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 675,
+                    "end": 697,
+                    "text": "Ndoye & Dreyfus, 1988)",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 1289,
+                    "end": 1310,
+                    "text": "(Hungria et al., 1992",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 953,
+                    "end": 960,
+                    "text": "Fig. 36",
+                    "ref_id": null
+                },
+                {
+                    "start": 1071,
+                    "end": 1089,
+                    "text": "Fig. 4f (asterisk)",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Effect of flooding on stem and root nodulation of A. fluminensis"
+        },
+        {
+            "text": "As aerial stem nodules cannot be formed on A. fluminensis, it is probable that the formation of stem nodules and the decrease in the number of root nodules with flooding (and their clustering at the hypocotyl/taproot base), is a means of keeping the Nj-fixing capacity of the plant as close to the water surface as possible, thus reducing the pathlength for passive oxygen diffusion down the stem (James et al., 19926) . The reluctance of A. fluminensis, A. elaphroxylon (Vaughn & Elmore, 1985) , and other Group 3 species (Ladha et al., 1992a) , to form aerial stem nodules might be a result of the unexposed adventitious root primordia on the stems of these plants. By not being exposed they are inaccessible to invading rhizobia, except when inundated (Alazard & Duhoux, 1987) . By contrast, other stemnodulating legumes such as S. rostrata and A. afraspera possess protruding root primordia that allow for aerial rhizobial infection without prior flooding of stems (Tsien, Dreyfus & Schmidt, 1983 ; Alazard & Duhoux, 1988) .",
+            "cite_spans": [
+                {
+                    "start": 397,
+                    "end": 418,
+                    "text": "(James et al., 19926)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 471,
+                    "end": 494,
+                    "text": "(Vaughn & Elmore, 1985)",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 523,
+                    "end": 544,
+                    "text": "(Ladha et al., 1992a)",
+                    "ref_id": null
+                },
+                {
+                    "start": 755,
+                    "end": 779,
+                    "text": "(Alazard & Duhoux, 1987)",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 969,
+                    "end": 1002,
+                    "text": "(Tsien, Dreyfus & Schmidt, 1983 ;",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 1003,
+                    "end": 1026,
+                    "text": "Alazard & Duhoux, 1988)",
+                    "ref_id": "BIBREF3"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Effect of flooding on stem and root nodulation of A. fluminensis"
+        },
+        {
+            "text": "Nitrogenase activity of stem nodules has been reported to be much greater than that of corresponding root nodules on S. rostrata, Discolobium pulchellum and Aeschynomene spp. (Dreyfus & Dommergues, 1981; Ladha etal., 19926; Hungria e/ al., 1992; Loureiro et al., 1994) . However, recent results by Parsons et al. (1992) with 5. rostrata showed little difference between root and stem nodules when a 'flow-through' ARA was used. Flow-through systems allow a more accurate estimate of nitrogenase activity from ARA (Witty & Minchin, 1988) as, unlike the closed assay system used in the present study, they do not mask the acetylene-induced decline in nitrogenase activity that occurs in many symbioses. Therefore, at this stage we can say only that A. fluminensis stem and root nodules under flooded and non-flooded conditions exhibited significant nitrogenase activity. We cannot compare them with results from other studies of legumes with stem nodules and/or submerged nodules. On the other hand, the present study has shown that flooding and stem-nodulation of A. fluminensis resulted in enhanced shoot growth compared with non-flooded, purely root-nodulated plants, and this was generally achieved with fewer nodules. It is possible, therefore, that the fewer, larger nodules on stems and roots of flooded plants are more efficient at Nj-fixation than are the numerous small root nodules on non-flooded plants.",
+            "cite_spans": [
+                {
+                    "start": 175,
+                    "end": 203,
+                    "text": "(Dreyfus & Dommergues, 1981;",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 204,
+                    "end": 223,
+                    "text": "Ladha etal., 19926;",
+                    "ref_id": null
+                },
+                {
+                    "start": 224,
+                    "end": 245,
+                    "text": "Hungria e/ al., 1992;",
+                    "ref_id": null
+                },
+                {
+                    "start": 246,
+                    "end": 268,
+                    "text": "Loureiro et al., 1994)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 298,
+                    "end": 319,
+                    "text": "Parsons et al. (1992)",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 513,
+                    "end": 536,
+                    "text": "(Witty & Minchin, 1988)",
+                    "ref_id": "BIBREF43"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Effect of flooding on stem and root nodulation of A. fluminensis"
+        },
+        {
+            "text": "though direct experimental evidence for this is lacking.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Effect of flooding on stem and root nodulation of A. fluminensis"
+        },
+        {
+            "text": "As in many Aeschynomene species, stem and root nodules on A. fluminensis were very similar in morphology and structure (Stegink & Vaughn, 1988) . Stem and root nodules were in most respects of the typical aeschynomenoid-type (Corby, 1988; Sprent, Sutherland & de Faria, 1989) . However, A. fluminensis root nodules differ from the usual aeschynomenoid-type in having occasional infection threads; hence it is likely that infection threads are involved in entry of rhizobia into the host cells of A. fluminensis rather than via host cell wall dissolution as suggested for other Aeschynomene species (Vaughn & Elmore, 1985; Stegink & Vaughn, 1988; Alazard & Duhoux, 1990) . This, plus the recent report of infection threads in Discolohium nodules by Loureiro et al. (1994) , makes it tempting to suggest that infection threads may be more widespread in aeschynomenoid-type nodules than has hitherto been suspected (Corby, 1988; Sprent et al., 1989) and requires further investigation.",
+            "cite_spans": [
+                {
+                    "start": 119,
+                    "end": 143,
+                    "text": "(Stegink & Vaughn, 1988)",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 225,
+                    "end": 238,
+                    "text": "(Corby, 1988;",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 239,
+                    "end": 275,
+                    "text": "Sprent, Sutherland & de Faria, 1989)",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 598,
+                    "end": 621,
+                    "text": "(Vaughn & Elmore, 1985;",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 622,
+                    "end": 645,
+                    "text": "Stegink & Vaughn, 1988;",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 646,
+                    "end": 669,
+                    "text": "Alazard & Duhoux, 1990)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 748,
+                    "end": 770,
+                    "text": "Loureiro et al. (1994)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 912,
+                    "end": 925,
+                    "text": "(Corby, 1988;",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 926,
+                    "end": 946,
+                    "text": "Sprent et al., 1989)",
+                    "ref_id": "BIBREF37"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Nodule structure"
+        },
+        {
+            "text": "A. fluminensis stem and root nodule bacteroids were rod-shaped and similar to those in A. afraspera nodules (Alazard & Duhoux, 1990) . This differs from the spherical/ovoid bacteroids reported in other aeschynomenoid types (Yatazawa, Yoshida & Maeda, 1984; Vaughn & Elmore, 1985; Evans et al., 1990) , including an earlier report on A. fluminensis root nodules (Stegink & Vaughn, 1988) .",
+            "cite_spans": [
+                {
+                    "start": 108,
+                    "end": 132,
+                    "text": "(Alazard & Duhoux, 1990)",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 223,
+                    "end": 256,
+                    "text": "(Yatazawa, Yoshida & Maeda, 1984;",
+                    "ref_id": null
+                },
+                {
+                    "start": 257,
+                    "end": 279,
+                    "text": "Vaughn & Elmore, 1985;",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 280,
+                    "end": 299,
+                    "text": "Evans et al., 1990)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 361,
+                    "end": 385,
+                    "text": "(Stegink & Vaughn, 1988)",
+                    "ref_id": "BIBREF39"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Nodule structure"
+        },
+        {
+            "text": "Also seen in A. fluminensis lower stem and root nodules were 'oleosome-type' bodies in the innermost cell layers of the inner cortex, similar to the oleosomes that are particularly prominent in peanut nodules (Jayaram & Bal, 1991) . Oleosomes are lipid storage organelles and are hence involved in storing and then supplying photosynthate for nodule metabolism during the night, especially for nitrogen fixation (Jayaram & Bal, 1991) . It is interesting therefore that the 'oleosomes' seen in A. fluminensis appeared to be confined to the lower stem nodules and the root nodules, where there were also apparently increased amounts of starch compared with upper stem nodules.",
+            "cite_spans": [
+                {
+                    "start": 209,
+                    "end": 230,
+                    "text": "(Jayaram & Bal, 1991)",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 412,
+                    "end": 433,
+                    "text": "(Jayaram & Bal, 1991)",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Nodule structure"
+        },
+        {
+            "text": "On the other hand, despite the fact that they were even more profoundly submerged than were stem nodules, there was less starch in flooded root nodules. Moreover, bacteroids also contained less poly-/?-(arrows) and no chloroplasts. The cortex has essentially the same structure as that of stem nodules with a distribution zone (DZ), boundary layer (BL), mid-cortex (MC), outer cortex (OC) and hypodermis (H) (bar, 10//m). (d) TEM of infected cells from a non-flooded root nodule. The structure is similar to that of stem nodules but the cells are not so close-packed and there are very large spaces (S) between them. There are generally 1-3 bacteroids per PBU (arrows) and note the infection thread (large arrow) in one of the cells (bar, hydroxybutyrate (PHB), a carbon storage compound that accumulates in bacteroids under decreased pOj (Stem et al., 1986) , Flooded root nodules also did not appear to have more starch or PHB than did nonflooded root nodules, suggesting that flooded stem and root nodules were possibly no more oxygenlimited than were their terrestrial counterparts. The large starch deposits seen in lower stem nodules might have resulted from the closeness of the nodules to the supply of photosynthate from the stem and hence could indicate a surplus of carbohydrate.",
+            "cite_spans": [
+                {
+                    "start": 839,
+                    "end": 858,
+                    "text": "(Stem et al., 1986)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Nodule structure"
+        },
+        {
+            "text": "Aeschynomene fluminensis was typical of a number of stem-nodulated Aeschynomene species in having chloroplasts in the cortex of upper nodules (Vaughn & Elmore, 1985; Hungria et al., 1992) , The more profoundly submerged lower stem nodules had few chloroplasts and nnainly undifFerentiated plastids, whereas upper stem nodules had fully-differentiated chloroplasts. This difference is possibly related to different light intensities experienced at different depths.",
+            "cite_spans": [
+                {
+                    "start": 142,
+                    "end": 165,
+                    "text": "(Vaughn & Elmore, 1985;",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 166,
+                    "end": 187,
+                    "text": "Hungria et al., 1992)",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Photosynthesis in A, fluminensis stem nodules"
+        },
+        {
+            "text": "Stem nodules of Sesbania rostrata are also rich in chloroplasts (Dreyfus & Dommergues, 1981; Duhoux, 1984; De Bruijn, 1989) . It has been suggested that these fix significant carbon and might enhance Nj-fixation in stem nodules to a level above that in root nodules (de Bruijn 1989; Evans et al., 1990; Ladha et al., 1992a; Hungria et al., 1992; Parsons et al., 1992 Parsons et al., , 1993 , In the case of A. fluminensis it appeared that most of the active chloroplasts were in the mid-cortex rather than in the inner cortex adjacent to the infected cells. Those chloroplasts that were in the distribution zone cells appeared to be little more than undifferentiated plastids, similar to those seen in lower stem nodules. This was also observed in A. indica nodules by Vaughn & Elmore (1985) and might result from light penetration being reduced by passage through several cortical cell layers.",
+            "cite_spans": [
+                {
+                    "start": 64,
+                    "end": 92,
+                    "text": "(Dreyfus & Dommergues, 1981;",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 93,
+                    "end": 106,
+                    "text": "Duhoux, 1984;",
+                    "ref_id": "BIBREF11"
+                },
+                {
+                    "start": 107,
+                    "end": 123,
+                    "text": "De Bruijn, 1989)",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 266,
+                    "end": 282,
+                    "text": "(de Bruijn 1989;",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 283,
+                    "end": 302,
+                    "text": "Evans et al., 1990;",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 303,
+                    "end": 323,
+                    "text": "Ladha et al., 1992a;",
+                    "ref_id": null
+                },
+                {
+                    "start": 324,
+                    "end": 345,
+                    "text": "Hungria et al., 1992;",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 346,
+                    "end": 366,
+                    "text": "Parsons et al., 1992",
+                    "ref_id": "BIBREF32"
+                },
+                {
+                    "start": 367,
+                    "end": 389,
+                    "text": "Parsons et al., , 1993",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 769,
+                    "end": 791,
+                    "text": "Vaughn & Elmore (1985)",
+                    "ref_id": "BIBREF42"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Photosynthesis in A, fluminensis stem nodules"
+        },
+        {
+            "text": "The submerged nature of the flooded A. fiuminensis nodules does not appear to have affected their ability to fix Nj; indeed increased shoot growth under flooded conditions suggests that Nj fixation might actually be enhanced, as shown recently in flooded Trifolium repens (Pugh et al., 1995) , Aeschynomene fluminensis has neither floating nor extremely submerged nodules. It is therefore likely that the oxygen needs of submerged A. fluminensis nodules are in large part supplied by diffusion down a stem pathway, and the occurrence of large air spaces in the stem and roots where nodules subtend them with spongy aerating tissue provides structural evidence for this. This was also suggested for nodules of Neptunia and Discolobium (James et al., 1992a, 6; Loureiro et al., 1994) , where there was also extensive aerenchyma from the stem down to the nodules. However, unlike Neptunia and Discolobium, aerenchyma did not appear to be present on or within A. fiuminensis stems (although it was visible at the base of tap roots. Fig. 1 a) , and most nodules had only a few lenticels, suggesting that the internal stem-root aeration pathway to the submerged stem nodules is most important. In addition, the lack of external aerenchyma would decrease any effects of increased nodule aeration via water currents such as those shown with Neptunia (James et al., 19926) , Although these three hydrophytic species are native to the Pantanal Matogrossense, they might differ slightly in habitat as A. fluminensis might be more adapted to living in stagnant or still water rather than in the gently-flowing backwaters beside which Neptunia and Discolobium grow (Loureiro et al., 1994) .",
+            "cite_spans": [
+                {
+                    "start": 272,
+                    "end": 291,
+                    "text": "(Pugh et al., 1995)",
+                    "ref_id": null
+                },
+                {
+                    "start": 734,
+                    "end": 758,
+                    "text": "(James et al., 1992a, 6;",
+                    "ref_id": null
+                },
+                {
+                    "start": 759,
+                    "end": 781,
+                    "text": "Loureiro et al., 1994)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 1342,
+                    "end": 1363,
+                    "text": "(James et al., 19926)",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1652,
+                    "end": 1675,
+                    "text": "(Loureiro et al., 1994)",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1028,
+                    "end": 1037,
+                    "text": "Fig. 1 a)",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Oxygen supply to submerged nodules"
+        },
+        {
+            "text": "The stem and root nodule structure of A. fluminensis shown in the present study suggests that an oxygen diffusion barrier (DB) also exists in these nodules, in common with other aquatic and flooding tolerant nodules (James et al., 1992a, b; Loureiro et al., 1994) , The structure of the oxygen diffusion barrier in most legume nodules so far examined (Brown & Walsh, 1994; James et al., 1994) is considered to be similar to the general type described in soybean nodules by Parsons & Day (1990) and James et al. (1991) , In conventional terrestrial legume nodules such as those on soybean {Glycine max) a DB is necessary to protect nitrogenase from oxygen concentrations above microaerobic (Witty et al., 1986; Gallon, 1992) . Any fluctuations in the demand for oxygen by the bacteroids are offset by adjustments in the resistance of the cortical oxygen diffusion barrier and by rapid bacteroid respiration (Witty et al., 1986) , In A. fiuminensis there were no apparent differences in diffusion barrier structure, e,g. the extent of glycoprotein occlusions (James et al., 1991) and intracellular vesicles (Iannetta et al., 1995) between stem and root nodules, or between submerged and non-flooded root nodules. This suggests that oxygen diffusion resistance varied little between nodule types, regardless of flooding, although this remains to be tested. These structural observations, plus the enhanced shoot growth with flooding, suggest that oxygen supply to submerged stem and root nodules was adequate and did not adversely affect Nj fixation.",
+            "cite_spans": [
+                {
+                    "start": 216,
+                    "end": 240,
+                    "text": "(James et al., 1992a, b;",
+                    "ref_id": null
+                },
+                {
+                    "start": 241,
+                    "end": 263,
+                    "text": "Loureiro et al., 1994)",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 351,
+                    "end": 372,
+                    "text": "(Brown & Walsh, 1994;",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 373,
+                    "end": 392,
+                    "text": "James et al., 1994)",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 473,
+                    "end": 493,
+                    "text": "Parsons & Day (1990)",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 498,
+                    "end": 517,
+                    "text": "James et al. (1991)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 689,
+                    "end": 709,
+                    "text": "(Witty et al., 1986;",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 710,
+                    "end": 723,
+                    "text": "Gallon, 1992)",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 906,
+                    "end": 926,
+                    "text": "(Witty et al., 1986)",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 1057,
+                    "end": 1077,
+                    "text": "(James et al., 1991)",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 1105,
+                    "end": 1128,
+                    "text": "(Iannetta et al., 1995)",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Oxygen supply to submerged nodules"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Sutherland for stimulating discussion",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "M M"
+                    ],
+                    "last": "Assistance",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Crawford",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J A M"
+                    ],
+                    "last": "Hungria",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Sampaioandj",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "James was funded by the World Bank through the Inter American Institute for Cooperation in Agriculture (IICA) and NERC",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Stem and root nodulation in Aeschynomene spp",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Alazard",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "Environmenlal Microbiology",
+            "volume": "",
+            "issn": "",
+            "pages": "732--734",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Nitrogen-fixing stem nodules on Aeschynomene afrnspern",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Alazard",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Duhoux",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "Biology and Fertility of Soils",
+            "volume": "4",
+            "issn": "",
+            "pages": "61--66",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Diversity of stem nodulation sites in Aeschynomene spp",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Alazard",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Duhoux",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Journal of Plant Physiology",
+            "volume": "132",
+            "issn": "",
+            "pages": "123--125",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Development of stem nodules in a tropical forage legume, Aeschynomene afraspera",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Alazard",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Duhoux",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Journal of E.xperimental Botany",
+            "volume": "41",
+            "issn": "",
+            "pages": "1199--1206",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Recursos Forrageiros Nativos do Pantanal Malogrossense. Brasilia: EMBRAPA/CKN.\\RGEN, Documentos 8. Deparmento de Difusao de Tecnologia",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Auem",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jfm",
+                    "middle": [],
+                    "last": "Vails",
+                    "suffix": ""
+                }
+            ],
+            "year": 1987,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Morphological development of the root and stem noduka of .4eschynomene indica I",
+            "authors": [
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Arora",
+                    "suffix": ""
+                }
+            ],
+            "year": 1954,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "211--216",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Anatomy of the legume nodule cortex with respect to nodule permeability",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Brown",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Walsh",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Australian Journal of Plant Physiology",
+            "volume": "21",
+            "issn": "",
+            "pages": "49--55",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "The unusual symbiosis between the diazotrophic stem-nodulating bacterium Azorhizobium caulinodans ()RS5721 and its host, the tropical legume Sesbania rostrata",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Bruijn",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "De",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Molecular and Genetic Perspectives",
+            "volume": "3",
+            "issn": "",
+            "pages": "457--504",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Types of rhizobial nodules and their distribution among the Leguminosae",
+            "authors": [
+                {
+                    "first": "Hdl",
+                    "middle": [],
+                    "last": "Corby",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Kirria",
+            "volume": "13",
+            "issn": "",
+            "pages": "53--123",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Nitrogen-fixing nodules induced by Rhizobium on the stem of the tropical legume .Sesbania rostrata",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Dreyfus",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Dommergues",
+                    "suffix": ""
+                }
+            ],
+            "year": 1981,
+            "venue": "FEMS Microbiology Letters",
+            "volume": "10",
+            "issn": "",
+            "pages": "313--317",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Ontogenese des nodules caulinaires du Sesbania rostrata (legumineuses)",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Duhoux",
+                    "suffix": ""
+                }
+            ],
+            "year": 1984,
+            "venue": "Canadian Journal of Botany",
+            "volume": "62",
+            "issn": "",
+            "pages": "982--994",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "\\er\\a\\ stem nodules on Aeschynomene spp",
+            "authors": [
+                {
+                    "first": "Arj",
+                    "middle": [],
+                    "last": "Eaglesham",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Szalay",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "Plant Science Letters",
+            "volume": "29",
+            "issn": "",
+            "pages": "265--272",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Bacteriochlorophyll and photosyntbetic reaction centers in Rhizobiuin strain BTAi 1",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Evans",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Fleischman",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Calvert",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "V"
+                    ],
+                    "last": "Pyati",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Alter",
+                    "suffix": ""
+                },
+                {
+                    "first": "Subba",
+                    "middle": [],
+                    "last": "Rao",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Applied and Environmental Microbiology",
+            "volume": "56",
+            "issn": "",
+            "pages": "3445--3449",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Reconciling the incompatible: N, fixation and (",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Gallon",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "NeiL-Phvtologist",
+            "volume": "122",
+            "issn": "",
+            "pages": "571--609",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Physiological comparisons of root and stem nodules of Aeschynomene scabra and Seshania rostrata",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hungria",
+                    "suffix": ""
+                },
+                {
+                    "first": "Arj",
+                    "middle": [],
+                    "last": "Eaglesham",
+                    "suffix": ""
+                },
+                {
+                    "first": "Rwf",
+                    "middle": [],
+                    "last": "Hardy",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Plant and Soit",
+            "volume": "139",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Light-stimulated \"CO.^ uptake and acetylene reduction by bacteriocblorophyll containing stem nodule isolate BT",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hungria",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ellis",
+                    "suffix": ""
+                },
+                {
+                    "first": "Rwf",
+                    "middle": [],
+                    "last": "Hardy",
+                    "suffix": ""
+                },
+                {
+                    "first": "Arj",
+                    "middle": [],
+                    "last": "Eaglesham",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Ail. Biology and Fertility of Soils",
+            "volume": "15",
+            "issn": "",
+            "pages": "208--214",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Time-course of changes invohed in tbe operation ofthe oxygen dilTusion barrier in white lupin noduWa",
+            "authors": [
+                {
+                    "first": "Ppm",
+                    "middle": [],
+                    "last": "Iannetta",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "James",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Sprent",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Minchin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Journal of E.xperimental Botany",
+            "volume": "46",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "\\ survey of Nj-fixing nodules in tbe Leguminosae with particular reference to intercellular glycoproteins and the control of oxygen diffusion",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "James",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ppm",
+                    "middle": [],
+                    "last": "Iannetta",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Naisbitt",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Goi",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Sutherland",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Sprent",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Minchin",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Brewin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Proceedings of the Royal Society of Edinburgh",
+            "volume": "102",
+            "issn": "",
+            "pages": "429--432",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Tbe physiology and nitrogen-fixing capability of aquatically and terrestrially grown Neptunia plena: the importance of nodule oxygen supply",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "James",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Minchin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Sprent",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Annals of Botany",
+            "volume": "69",
+            "issn": "",
+            "pages": "181--187",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Intercellular location of glycoprotein in soybean nodules: eflect of altered rhizosphere oxygen concentration",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "James",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Sprent",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Minchin",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Brewin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Plant Cell and Environment",
+            "volume": "14",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "The structure of nitrogen fixing root nodules on tbe aquatic mimosoid legume Neptunia plena",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "James",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Sprent",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Sutherland",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Mclnroy",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Minchin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Annals of Botany",
+            "volume": "69",
+            "issn": "",
+            "pages": "173--180",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Oleosomes (lipid bodies) in nitrogenfixing peanut nodules",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Jayaram",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Bal",
+                    "suffix": ""
+                }
+            ],
+            "year": 1991,
+            "venue": "Plant, Cell and Entironment",
+            "volume": "14",
+            "issn": "",
+            "pages": "195--205",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Growtb of Sesbania rostrata (Brem) witb stem nodules under controlled conditions",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Kwon",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Beevers",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Plant, Cell and Environment",
+            "volume": "15",
+            "issn": "",
+            "pages": "939--945",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Relative contributions to nitrogenase (acetylene reducing) acti\\ ity of stem and root nodules in Sesbania rostrata",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Ladha",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Garcia",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Pareek",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Rarivoson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Canadian Journal of Microbiology",
+            "volume": "38",
+            "issn": "",
+            "pages": "577--583",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Stem-nodulating \\ef!,\\ime-Rhizobium s\\ tnbiosis and its agronomic use in lowland rice",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Ladha",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Pareek",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Becker",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Soil Science",
+            "volume": "20",
+            "issn": "",
+            "pages": "148--192",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Diversity of photosyntbetic Bradvrhizobium strains from stem nodules of Aeschynomene species",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lorquin",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Molouba",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Dupuy",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ndiaye",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Alazard",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gillis",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Dreyfus",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "New Horizons in Nitrogen Fi.xation. Dordrecht",
+            "volume": "",
+            "issn": "",
+            "pages": "683--689",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Nitrogen-fixing stem nodules of the legume, Discolobium pulchellum Bentb",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Loureiro",
+                    "suffix": ""
+                },
+                {
+                    "first": "De",
+                    "middle": [],
+                    "last": "Faria",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "James",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Pott",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Franco",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "",
+            "volume": "128",
+            "issn": "",
+            "pages": "283--295",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Photosynthetic characteristics of strains of rhizobia isolated from stem nodules of Aeschynomene fiuminensis grown in tbe Pantanal region of Brazil",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Loureiro",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Hungria",
+                    "suffix": ""
+                },
+                {
+                    "first": "Mjam",
+                    "middle": [],
+                    "last": "Sampaio",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Franco",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Baldani",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "New Horizons in Nitrogen Fixation",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "N^ fixation by Sesbania rostrata and Sesbania sesban estimated using",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Ndoye",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Dreyfus",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "N and total N difference metbods. Soil Biology and Biochemistry",
+            "volume": "20",
+            "issn": "",
+            "pages": "209--213",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Mechanism of soybean nodule adaptation to difTerent oxygen pressures",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Parsons",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Day",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "Plant, Cell and Environment",
+            "volume": "13",
+            "issn": "",
+            "pages": "501--512",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "A simple open How system used to measure acetylene reduction activity of Sesbania rostrata stem and root nodules",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Parsons",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Raven",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Sprent",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Journal of Experimental Botanv",
+            "volume": "43",
+            "issn": "",
+            "pages": "595--604",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Humidity and ligbt affect tbe growtb, development and nitrogenase activity of stem nodules of .Sesbania rostrata (Brem)",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Parsons",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Sprent",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Raven",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Netv Phvtologist",
+            "volume": "125",
+            "issn": "",
+            "pages": "749--755",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "The effect of waterlogging on nitrogen fixation and nodule morpbology in soil-grown white clover (Trifolium repens L.)",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Pugb",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Witty",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Mytton",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Minchin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1995,
+            "venue": "Journal of Experimental Botany",
+            "volume": "46",
+            "issn": "",
+            "pages": "285--290",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Die KnoUcben der adventiven Wasserwurzeln von Neptunia oleracea und ibre Bakteriensymbiose",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Schaede",
+                    "suffix": ""
+                }
+            ],
+            "year": 1940,
+            "venue": "Planta",
+            "volume": "31",
+            "issn": "",
+            "pages": "1--21",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Nitrogen fixing organisms",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Sprent",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Sprent",
+                    "suffix": ""
+                }
+            ],
+            "year": 1990,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Structure and function of root nodules from woody legumes",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Sprent",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Sutherland",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "De Faria",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "Advances in Legume Biology",
+            "volume": "29",
+            "issn": "",
+            "pages": "559--578",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Utilization of poly-/y-hydroxybutyrate in free-living cultures of Rhizobium OR.S571",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Stam",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Van Verseveld",
+                    "suffix": ""
+                },
+                {
+                    "first": "De",
+                    "middle": [],
+                    "last": "Vries",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Stouthamer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "FEMS Microbiology Letters",
+            "volume": "35",
+            "issn": "",
+            "pages": "215--220",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "Correlation between nodule ultrastructure and ability to produce stem nodules in .'ieschynomene spp",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Stegink",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Vaughn",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Cytologia",
+            "volume": "53",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Initial stages in the morphogenesis of nitrogen-fixing stem nodules of Sesbania rostrata",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Tsien",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Dreyfus",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Schmidt",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "Journal of Bacteriology",
+            "volume": "156",
+            "issn": "",
+            "pages": "888--897",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Common components of tbe infection thread matrix and tbe intercellular space identified by the immunocytochemical analysis of pea nodules and uninfected roots",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Vandenbosch",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Bradley",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Knox",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Perotto",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Butcher",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Brewin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1989,
+            "venue": "European Molecular Biology Organisation Journal",
+            "volume": "8",
+            "issn": "",
+            "pages": "335--342",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "I'ltrastructural characterization of nitrogen-fixing stem nodules on Aeschynomene indica",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Vaughn",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Elmore",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "Cytobios",
+            "volume": "42",
+            "issn": "",
+            "pages": "49--62",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Measurement of nitrogen fixation by the acetylene reduction assay: myths and mysteries",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Witty",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Minchin",
+                    "suffix": ""
+                }
+            ],
+            "year": 1988,
+            "venue": "Physiologia Mediterranean Agriculture. ICARDA",
+            "volume": "45",
+            "issn": "",
+            "pages": "293--295",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Nitrogen Yatazawa M, Yoshida S, Maeda E. 1984. Fine structure of root fixation and oxygen in legume root nodules",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Witty",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Minchin",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Sk0t",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Sheehy",
+                    "suffix": ""
+                }
+            ],
+            "year": 1986,
+            "venue": "Soil Science and Plant Plant Molecular and Cell Biology",
+            "volume": "3",
+            "issn": "",
+            "pages": "405--421",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF1": {
+            "text": "(a) Aeschynomene fluminensis plant inoculated with photosynthetic rhizobial strain UFMT3 and grown for 70 d under flooding to a depth of 9 cm above the hypocotyl. Stem nodules have formed all over the flooded stem (white arrows) to within 1 cm of the surface of the water (9 cm above the hypocotyl; not shown). Root nodules are also visible (black arrows) and there is aerenchyma (a) where the tap root joins the hypocotyl (bar, 1 cm), (b) Longitudinal section (LS) of a piece of stem with an upper stem nodule. The nodule (N) is attached to the stem (S) by a short stalk of spongy cells (asterisk). Note the vascular bundles in the nodule cortex (arrows) and the lenticel (large arrow) (bar 250//m). (c) Transverse section (TS) of stem/nodule junction",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "(o) Transmission electron micrograph (TEM) of a chloroplast from the mid-cortex of an upper stem nodule. Note the starch grains (S) and the stacked grana (G), indicating active photosynthesis. There is a plasmodesma in the cell wall adjacent to the chloroplast (arrow) (bar, 500 nm). (ft) TEM of DZ cells from an upper stem nodule. The cortical cells contain numerous organelles such as mitochondria (M), nuclei (N) and ill-defined chloroplasts (arrows). Note the large intercellular spaces adjacent to the infected cells, and throughout the DZ (S) (bar, 2 fim). (c). TEM of infected cells from an upper stem nodule.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "(a) TS of a root from a flooded plant with a nodule (N) attached hy a broad stalk of spongy cells (S). Note the prominent lenticel (arrow) on the nodule (har, 100//m). {h) TS of the base of a non-flooded root nodule (N) where it subtends the root (R). The nodule tissue contains numerous intercellular spaces, and there are large cavities (C) in the root which appear to be a continuation of an aeration pathway down from the stem (Fig. \\c) (har, 50//m). (c) Cortex and infected tissue of a Hooded root nodule with numerous amyloplasts",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We thank A, Pott and P:MBRAPA/CPAP, MS and P^MPA, MT for help in collecting material from the Pantanal, M. Gruber, M. Kierans and A, Nichol for",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ACKNOWLEDGEMENTS"
+        }
+    ]
+}

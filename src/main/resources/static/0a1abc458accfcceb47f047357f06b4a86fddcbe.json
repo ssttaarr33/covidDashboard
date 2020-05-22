@@ -1,0 +1,2249 @@
+{
+    "paper_id": "0a1abc458accfcceb47f047357f06b4a86fddcbe",
+    "metadata": {
+        "title": "Risk of symptomatic Covid-19 among frontline healthcare workers",
+        "authors": [
+            {
+                "first": "Long",
+                "middle": [
+                    "H"
+                ],
+                "last": "Nguyen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Harvard Medical School",
+                    "location": {
+                        "settlement": "Boston",
+                        "region": "MA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "David",
+                "middle": [
+                    "A"
+                ],
+                "last": "Drew",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Harvard Medical School",
+                    "location": {
+                        "settlement": "Boston",
+                        "region": "MA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Amit",
+                "middle": [
+                    "D"
+                ],
+                "last": "Joshi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Harvard Medical School",
+                    "location": {
+                        "settlement": "Boston",
+                        "region": "MA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Chuan-Guo",
+                "middle": [],
+                "last": "Guo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Harvard Medical School",
+                    "location": {
+                        "settlement": "Boston",
+                        "region": "MA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Wenjie",
+                "middle": [],
+                "last": "Ma",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Harvard Medical School",
+                    "location": {
+                        "settlement": "Boston",
+                        "region": "MA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [
+                    "D"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Raaj",
+                "middle": [
+                    "S"
+                ],
+                "last": "Mehta",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Harvard Medical School",
+                    "location": {
+                        "settlement": "Boston",
+                        "region": "MA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Daniel",
+                "middle": [
+                    "R"
+                ],
+                "last": "Sikavi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Clinical and Translational Epidemiology Unit",
+                    "institution": "Harvard Medical School",
+                    "location": {
+                        "settlement": "Boston",
+                        "region": "MA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Chun-Han",
+                "middle": [],
+                "last": "Lo",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Harvard Medical School",
+                    "location": {
+                        "settlement": "Boston",
+                        "region": "MA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "M",
+                "middle": [
+                    "P H"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Sohee",
+                "middle": [],
+                "last": "Kwon",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Harvard Medical School",
+                    "location": {
+                        "settlement": "Boston",
+                        "region": "MA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Mingyang",
+                "middle": [],
+                "last": "Song",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Harvard Medical School",
+                    "location": {
+                        "settlement": "Boston",
+                        "region": "MA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Lorelei",
+                "middle": [
+                    "A D"
+                ],
+                "last": "Mucci",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Clinical and Translational Epidemiology Unit",
+                    "institution": "Harvard Medical School",
+                    "location": {
+                        "settlement": "Boston",
+                        "region": "MA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Meir",
+                "middle": [
+                    "J"
+                ],
+                "last": "Stampfer",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Harvard T.H. Chan School of Public Health",
+                    "location": {
+                        "settlement": "Boston",
+                        "region": "MA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "P",
+                "middle": [
+                    "H"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Walter",
+                "middle": [
+                    "C"
+                ],
+                "last": "Willett",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Harvard T.H. Chan School of Public Health",
+                    "location": {
+                        "settlement": "Boston",
+                        "region": "MA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "A",
+                "middle": [
+                    "Heather"
+                ],
+                "last": "Eliassen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Harvard T.H. Chan School of Public Health",
+                    "location": {
+                        "settlement": "Boston",
+                        "region": "MA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Sc",
+                "middle": [
+                    "D"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jaime",
+                "middle": [
+                    "E D"
+                ],
+                "last": "Hart",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Harvard Medical School",
+                    "location": {
+                        "settlement": "Boston",
+                        "region": "MA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jorge",
+                "middle": [
+                    "E"
+                ],
+                "last": "Chavarro",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Harvard T.H. Chan School of Public Health",
+                    "location": {
+                        "settlement": "Boston",
+                        "region": "MA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Janet",
+                "middle": [
+                    "W"
+                ],
+                "last": "Rich-Edwards",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Harvard T.H. Chan School of Public Health",
+                    "location": {
+                        "settlement": "Boston",
+                        "region": "MA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Christina",
+                "middle": [
+                    "C"
+                ],
+                "last": "Lawson",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Richard",
+                "middle": [],
+                "last": "11",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "M",
+                "middle": [
+                    "A"
+                ],
+                "last": "Davies",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Joan",
+                "middle": [
+                    "Capdevila"
+                ],
+                "last": "12",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Pujol",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Karla",
+                "middle": [
+                    "A"
+                ],
+                "last": "12",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Lee",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Mary",
+                "middle": [
+                    "Ni"
+                ],
+                "last": "13",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Lochlainn",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Mbbch",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Thomas",
+                "middle": [],
+                "last": "Varsavsky",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Mark",
+                "middle": [
+                    "S"
+                ],
+                "last": "14",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Graham",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Carole",
+                "middle": [
+                    "H"
+                ],
+                "last": "14",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Sudre",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "M",
+                "middle": [
+                    "Jorge"
+                ],
+                "last": "14",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Cardoso",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Jonathan",
+                "middle": [],
+                "last": "14",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Wolf",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Sebastien",
+                "middle": [],
+                "last": "12",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Ourselin",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Claire",
+                "middle": [
+                    "J"
+                ],
+                "last": "14",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Steves",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Tim",
+                "middle": [
+                    "D"
+                ],
+                "last": "13",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Spector",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Andrew",
+                "middle": [
+                    "T"
+                ],
+                "last": "13",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "M",
+                "middle": [
+                    "P H"
+                ],
+                "last": "Chan",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Harvard Medical School",
+                    "location": {
+                        "settlement": "Boston",
+                        "region": "MA",
+                        "country": "USA"
+                    }
+                },
+                "email": "achan@mgh.harvard.edu"
+            },
+            {
+                "first": "Andrew",
+                "middle": [
+                    "T"
+                ],
+                "last": "Chan",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "Data are limited about severe acute respiratory syndrome coronavirus 2 (SARS CoV-2) infection risk among frontline healthcare workers (HCWs) and whether personal protective equipment (PPE) mitigates this risk.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Background:"
+        },
+        {
+            "text": "We performed a prospective cohort study among 2,135,190 individuals using the COVID Symptom Tracker smartphone application to collect information among frontline HCWs and the general community since March 24, 2020 (United Kingdom) and March 29, 2020 (United States). We used Cox proportional hazards modeling to estimate multivariate-adjusted hazard ratios (aHRs) of a positive Covid-19 test through April 23, 2020.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Methods:"
+        },
+        {
+            "text": "Among 2,035,395 community individuals and 99,795 frontline HCWs, we documented 5,545 incident reports of a positive Covid-19 test over 34,435,273 person-days. Compared to the general community, frontline HCWs had an aHR of 11.6 (95% CI: 10 ",
+            "cite_spans": [
+                {
+                    "start": 237,
+                    "end": 239,
+                    "text": "10",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Results:"
+        },
+        {
+            "text": "Frontline HCWs had a significantly increased risk of symptomatic Covid-19 infection, which was highest among HCWs with inadequate access to PPE who cared for Covid-19 patients. However, adequate supplies of PPE did not completely mitigate high-risk exposures (ClinicalTrials.gov NCT04331509).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions:"
+        },
+        {
+            "text": ". CC-BY-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Conclusions:"
+        },
+        {
+            "text": "Since its emergence, the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has become a global health threat. 1 As of April 2020, over 2.8 million cases of Covid-19 have been documented worldwide with nearly 200,000 deaths. 2,3 With ongoing community transmission from asymptomatic individuals across numerous international foci, 4-8 the burden of this disease is expected to continue rising over the coming weeks. [8] [9] [10] [11] [12] Consequently, there will be an ongoing need for frontline healthcare workers (HCW) in patient-facing roles. Because this work requires close personal exposure to patients with the virus, frontline HCWs are at high risk of infection, which may contribute to further spread. 13,14 Initial regional estimates suggest frontline HCWs may account for 10-20% of all diagnoses, 15-17 which may be an underestimate when compared to other developed and similarly affected nations such as Italy. 18 Based on experience with other viruses spread by respiratory droplets, the consistent use of disposable personal protective equipment (PPE) is critical to reducing nosocomial transmission. 19, 20 Recent guidelines from the Center for Disease Control (CDC) advocate for the use of medical-grade masks and respirators at all times to deliver clinical care. 21 However, global shortages of masks, face shields, and gowns-exacerbated by surging demand and supply chain disruptions-have been documented, leading to efforts to conserve PPE through extended use or reuse and the development of sterilization protocols. [22] [23] [24] Although addressing the needs of frontline HCWs to effectively respond to the Covid-19 pandemic is a high priority, 17 there is a lack of prospective data to inform such efforts. Thus, we conducted a prospective, population-based study using a novel mobile-based application to examine the risk of testing positive for Covid-19 and/or developing symptoms associated with infection among 2,135,190 individuals in the United Kingdom (U.K.) and the United States (U.S.) between March 24 and April 23, 2020.",
+            "cite_spans": [
+                {
+                    "start": 121,
+                    "end": 122,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 426,
+                    "end": 429,
+                    "text": "[8]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 430,
+                    "end": 433,
+                    "text": "[9]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 434,
+                    "end": 438,
+                    "text": "[10]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 439,
+                    "end": 443,
+                    "text": "[11]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 444,
+                    "end": 448,
+                    "text": "[12]",
+                    "ref_id": "BIBREF9"
+                },
+                {
+                    "start": 934,
+                    "end": 936,
+                    "text": "18",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 1126,
+                    "end": 1129,
+                    "text": "19,",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 1130,
+                    "end": 1132,
+                    "text": "20",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 1549,
+                    "end": 1553,
+                    "text": "[22]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 1554,
+                    "end": 1558,
+                    "text": "[23]",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 1559,
+                    "end": 1563,
+                    "text": "[24]",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1680,
+                    "end": 1682,
+                    "text": "17",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": ". CC-BY-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 5, 2020. .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "The COVID Symptom Tracker is a freely available smartphone application developed by Zoe Global Ltd. in collaboration with the Massachusetts General Hospital and King's College London that offers participants a guided interface to report a range of baseline demographic information and comorbidities, daily information on potential symptoms, and Covid-19 testing. Participants are encouraged to use the application daily, even when asymptomatic, to allow for the longitudinal, prospective collection of symptoms and Covid-19 testing results.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Development and deployment of a smartphone application"
+        },
+        {
+            "text": "The application was launched in the U.K. on March 24, 2020 and available in the U.S. beginning on March 29, 2020. 25 Participants were recruited through social media outreach, as well as invitations from the investigators of long-running prospective cohort studies to study volunteers (Table S1 ). At enrollment, participants provided informed consent to the use of aggregated information for research purposes and agreed to applicable privacy policies and terms of use. This study was approved by the Partners Human Research Committee (Protocol 2020P000909) and King's College London Ethics Committee (REMAS ID 18210, LRS-19/20-18210). This protocol is registered with ClinicalTrials.gov (NCT04331509).",
+            "cite_spans": [
+                {
+                    "start": 114,
+                    "end": 116,
+                    "text": "25",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 285,
+                    "end": 294,
+                    "text": "(Table S1",
+                    "ref_id": "TABREF4"
+                }
+            ],
+            "section": "Participant recruitment"
+        },
+        {
+            "text": "The information collected through the app has been provided in detail. 25 Briefly, upon first use, participants were asked to provide baseline demographic factors and answered separate questions about a series of suspected risk factors for Covid-19 (Table S2) . On first use and upon daily reminders, participants were asked if they felt physically normal, and if not, their symptoms, including the presence of fever, fatigue, and loss of smell/taste (Table S3) . Participants were also asked if they had been tested for Covid-19 (yes/no), and if yes, the results (none, negative, pending, or positive).",
+            "cite_spans": [
+                {
+                    "start": 71,
+                    "end": 73,
+                    "text": "25",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 249,
+                    "end": 259,
+                    "text": "(Table S2)",
+                    "ref_id": "TABREF6"
+                },
+                {
+                    "start": 451,
+                    "end": 461,
+                    "text": "(Table S3)",
+                    "ref_id": "TABREF7"
+                }
+            ],
+            "section": "Assessment of risk factors, symptoms, and testing"
+        },
+        {
+            "text": ". CC-BY-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Assessment of risk factors, symptoms, and testing"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 5, 2020. . At enrollment, individuals were asked if they worked in health care and if yes, whether they had direct patient contact. For our primary analysis, we defined frontline HCWs as participants who reported direct patient care.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Assessment of risk factors, symptoms, and testing"
+        },
+        {
+            "text": "Among these individuals, we queried whether they had cared for suspected or documented Covid-19-infected patients and the frequency with which they used PPE (always, sometimes, never). We asked if they had enough PPE when needed, if they had to reuse PPE, or if they did not have enough because of shortages. We classified availability of PPE as adequate if they never required PPE or if they reported always having the PPE they needed (including reused PPE). We classified PPE availability as inadequate if they reported they did not have enough PPE or if it was not available. We also asked HCWs to report the site of their patient care.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Assessment of risk factors, symptoms, and testing"
+        },
+        {
+            "text": "Follow-up time started at the time participants first reported on the app and accrued until the report of a positive Covid-19 test or the time of last data entry, whichever occurred first. We employed Cox proportional hazards modeling stratified by age, date, and country to estimate age-and multivariable-adjusted hazard ratios (aHRs) and their 95% confidence intervals (95% CIs). CI widths were not adjusted for multiplicity. A test of correlation between Schoenfeld residuals and survival time demonstrated no violation of the proportional hazards assumption. Covariates were selected a priori based on putative risk factors and included sex, history of diabetes, heart disease, lung disease, kidney disease, current smoking status (each yes/no), and body mass index (17-19.9, 20-24.9, 25-29.9 , and \u2265 30 kg/m 2 ). Missing categorical data was denoted with a missing indicator, while imputation methods for missing numerical data replaced no more than 5% with the median.",
+            "cite_spans": [
+                {
+                    "start": 770,
+                    "end": 796,
+                    "text": "(17-19.9, 20-24.9, 25-29.9",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "Because the primary outcome (report of a positive Covid-19 test) was dependent on receiving a test, we performed several secondary analyses to ensure the robustness of our findings. First, we leveraged a symptom-based classifier developed by our group that is predictive of positive Covid testing. 26 Briefly, using logistic regression and symptoms preceding confirmatory testing, we found that loss of smell/taste, fatigue, persistent cough, and loss of appetite may predict Covid-19 positivity with high specificity (Suppl. Methods).",
+            "cite_spans": [
+                {
+                    "start": 298,
+                    "end": 300,
+                    "text": "26",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "Second, to account for country-specific predictors of obtaining testing, we performed separate inverse probability weighting (IPW) in the U.S. and the U.K. as a function of frontline HCW status and other factors, . CC-BY-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Analysis"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 5, 2020. . such as age and symptom burden, followed by inverse probability weighted Cox proportional hazards modeling stratified by 5-year age group and date with additional adjustment for the covariates used in prior models (Suppl. Methods). In analyses limited to frontline HCWs, we examined PPE availability and contact with suspected or documented Covid-19 patients, as well as the primary site of clinical practice. Two-sided p-values <0.05 were considered statistically significant. All analyses were performed using R 3.6.1 (Vienna, Austria).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "Between March 24 and April 23, 2020, we enrolled 2,810,103 users (2,790,150 in the U.K. and 195,140 in the U.S.), defined as consenting participants who provided baseline information about either feeling normal or having symptoms (Fig. S1 ). Among users, 134,885 (4.8%) reported being a frontline HCW. We found a reported prevalence of 2,747 Covid-19-positive cases per 100,000 frontline HCWs compared to 242 per 100,000 in the general community (Fig. 1A) . Higher infection rates were reported in New York, New Jersey, and Louisiana in the U.S. and in the areas around London and the Midlands in the U.K. (Fig. 1B) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 230,
+                    "end": 238,
+                    "text": "(Fig. S1",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 446,
+                    "end": 455,
+                    "text": "(Fig. 1A)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 606,
+                    "end": 615,
+                    "text": "(Fig. 1B)",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Study population"
+        },
+        {
+            "text": "After excluding 670,298 participants who had follow-up time of less than 24 hours and 4,615 who reported a baseline positive Covid-19 test, we included 2,135,190 participants in our prospective inception cohort, among whom 99,795 persons identified as frontline HCWs (Fig. S1) . In this cohort, we recorded 24.4 million entries or 11.4 logs per participant with a median follow-up of 18.9 days (interquartile range [IQR] 5.1 to 26.1). The median age was 44 years (IQR 32 to 57). Compared to the general community, frontline HCWs were more frequently female, had a slightly higher prevalence of BMI \u2265 30, were slightly more likely to smoke, and use several common medications ( Table 1 & Table S3 ). At baseline, 20.2% of frontline HCWs reported at least one symptom associated with Covid-19 infection compared to 14.4% of the general population with fatigue, loss of smell/taste, and hoarse voice being particularly more frequent (Table S4) .",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 267,
+                    "end": 276,
+                    "text": "(Fig. S1)",
+                    "ref_id": "FIGREF3"
+                },
+                {
+                    "start": 677,
+                    "end": 695,
+                    "text": "Table 1 & Table S3",
+                    "ref_id": "TABREF4"
+                },
+                {
+                    "start": 930,
+                    "end": 940,
+                    "text": "(Table S4)",
+                    "ref_id": "TABREF8"
+                }
+            ],
+            "section": "Study population"
+        },
+        {
+            "text": ". CC-BY-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Study population"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 5, 2020. .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "We documented 5,545 incident reports of positive Covid-19 testing over 34,435,273 person-days. Compared with the general community, frontline HCWs had a 12-fold increase in risk of a positive test after multivariable adjustment (aHR 11.6, 95% CI: 10.9 to 12.3; Table 2 and Fig. S2) CC-BY-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 261,
+                    "end": 268,
+                    "text": "Table 2",
+                    "ref_id": "TABREF6"
+                },
+                {
+                    "start": 273,
+                    "end": 281,
+                    "text": "Fig. S2)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Risk of positive Covid-19 testing and symptoms in HCWs"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 5, 2020. . and reused PPE were analyzed separately (data not shown ",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "Among 2,135,190 participants in the U.K. and U.S. assessed between March 24, 2020 and April 23, 2020, we found that frontline HCWs had up to a 12-fold increased risk of a positive Covid-19 test compared to members of the general community, even after accounting for other risk factors for infection. Among frontline HCWs, inadequate PPE availability was associated with a subsequent 23% increased risk of Covid-19. Although",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "HCWs caring for Covid-19 patients who reported inadequate PPE availability had the highest risk, an increased susceptibility to infection was evident even with adequate PPE. Frontline HCWs who worked in inpatient settings and nursing homes had the greatest risk.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "Our findings complement early data showing that nearly 20% of the currently documented cases of Covid-19 are among HCWs. Our results provide a more precise assessment of the magnitude of increased risk among HCWs compared to their surrounding communities in the initial phases of this pandemic in both the U.K. and U.S. We also offer supportive evidence that sufficient availability of PPE, including reused PPE, reduces the risk of Covid-19 infection. However, even with reportedly adequate PPE availability, HCWs who cared for patients with documented Covid-19 remained at elevated risk, highlighting the importance of ensuring not only . CC-BY-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Discussion"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 5, 2020. . PPE availability, but also appropriate usage. In addition, the apparent lack of complete protection against acquiring Covid-19 infection through adequate supplies of PPE suggests that additional risk mitigation strategies require further investigation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "Our results are supported by historical data during similar infectious disease outbreaks. During the Ebola crisis, a disease with a comparable reproduction number (e.g. the R 0 measure of how many new cases can be generated from one infected individual), HCWs comprised 3.9% of all cases, an incidence 21-to-32-times greater than the general public. 27,28 During the severe acute respiratory syndrome coronavirus (SARS-CoV or SARS) epidemic, HCWs comprised 20-40% of all cases, 29-32 and inadequate PPE availability was associated with an increased risk of illness among HCWs. 32 The experience with influenza A virus subtype H1N1 reaffirmed the importance of PPE 33, 34 and also showed much higher infection rates among HCWs working in dedicated infection containment units. 35 The strengths of this study include the use of a mobile application to rapidly collect prospective data from a large multinational cohort, which offers immediately actionable risk estimates to inform the public health response to an ongoing pandemic. 36 By recruiting participants through existing cohort studies (https://www.monganinstitute.org/cope-consortium), these results also provide proof-of-concept of the feasibility of leveraging existing infrastructure and engaged participants to address a key knowledge gap.",
+            "cite_spans": [
+                {
+                    "start": 577,
+                    "end": 579,
+                    "text": "32",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 664,
+                    "end": 667,
+                    "text": "33,",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 668,
+                    "end": 670,
+                    "text": "34",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 776,
+                    "end": 778,
+                    "text": "35",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 1030,
+                    "end": 1032,
+                    "text": "36",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "Second, we collected information from participants initially free of a positive Covid-19 test, which offered an opportunity to prospectively assess risk factors for incident symptomatic infection with minimal recall bias.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "Third, our study design documented initial onset of symptoms, which minimizes biases related to capturing only more severe cases through hospitalization records or death reports. Finally, we collected information on a wide range of known or suspected risk factors for Covid-19 infection which are generally not available in existing registries or population-scale surveillance efforts.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "We acknowledge several limitations. First, full details of some exposures were limited to ensure our survey instrument was brief, particularly for time-limited HCWs. For example, we did not ask about specific . CC-BY-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 5, 2020. . occupations, experience level, or receipt of PPE training (e.g. mask fit-testing or donning and doffing). Second, our findings are based on self-report. Given the quickened pace of the pandemic, self-reported information was more feasible to collect. In future studies, self-reports with linkage to other sources (e.g. electronic health records) may be possible. Third, our cohort is not a random sampling of the population. Although this limitation is inherent to any study requiring voluntary provision of health information, we acknowledge that data collection through smartphone adoption has comparatively lower penetrance among certain socioeconomic groups, as well as older adults, despite being used by 81% of the U.S. adult population. 37 In future studies, we plan more targeted outreach of populations under-represented in the current cohort, as well as additional data collection instruments (e.g. web or phone surveys) that may be more accessible to certain groups. Finally, our primary outcome is based on report of a positive Covid-19 test. During the time frame of this study, this would generally reflect nasal or throat swabs, which are reasonably specific, but only modestly sensitive. 38 However, any testing misclassification should be non-differential by occupation. Our results may also reflect differences in access to testing among HCWs compared to the general community, as well as true differences in infection rates. In our secondary analyses, we also found that HCWs were at higher risk of a positive test even after adjusting for greater probability of receiving a test. Furthermore, HCWs were at higher risk of developing symptoms that predicted Covid-19, which does not reflect access to testing. Ideally, we would assess the risk of Covid-19 infection within a population which has undergone uniform screening. However, the current shortage of PCR-based testing kits does not make such an approach feasible. Future studies using serologic testing to ascertain Covid-19 infection will require additional assessment of test performance and the ability to distinguish recent or active infection from past exposure.",
+            "cite_spans": [
+                {
+                    "start": 59,
+                    "end": 73,
+                    "text": "May 5, 2020. .",
+                    "ref_id": null
+                },
+                {
+                    "start": 818,
+                    "end": 820,
+                    "text": "37",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 1278,
+                    "end": 1280,
+                    "text": "38",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "In conclusion, within a large population-based sample of 2,135,190 individuals in the U.S. and U.K., we demonstrate a significantly increased risk of Covid-19 infection among frontline HCWs compared to the general community. This risk is greatest among individuals in direct contact with Covid-19 patients who report inadequate PPE availability, supporting the importance of providing adequate supplies. However, because infection risk remained elevated even with adequate PPE, our results suggest the need to ensure the proper use of PPE as well as adherence to other infection control measures.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": ". CC-BY-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 5, 2020. . CC-BY-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 5, 2020. . is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 5, 2020 . CC-BY-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [
+                {
+                    "start": 59,
+                    "end": 70,
+                    "text": "May 5, 2020",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 5, 2020. . Median [IQR] is presented for continuous variables. \u2020 includes healthcare workers without direct patient care/patient contact responsibilities Frequencies and proportions are calculated based on the total number of participants with available data.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "History of cancer, aspirin use, and smoking status have been queried since launch in the U.S. and since 3/29/2020 in the U.K. Race and ethnicity questions were queried as of 4/17/2020 . CC-BY-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 5, 2020. . is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 5, 2020. . Model was stratified by 5-year age group, calendar date at study entry, and country and adjusted for sex, history of diabetes, heart disease, lung disease, kidney disease, and current smoking (each yes/no), and body mass index (17-19.9, 20-24.9, 25-29.9 , and \u2265 30 kg/m 2 ).",
+            "cite_spans": [
+                {
+                    "start": 301,
+                    "end": 327,
+                    "text": "(17-19.9, 20-24.9, 25-29.9",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "Ambulatory clinics include free-standing (non-hospital) primary care/specialty clinics and school-based clinics .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "CC-BY-ND 4.0 International license"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 5, 2020. Regions in gray did not offer sufficient data.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": ". CC-BY-ND 4.0 International license It is made available under a is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. (which was not certified by peer review)",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        },
+        {
+            "text": "The copyright holder for this preprint this version posted May 5, 2020. . https://doi.org/10.1101/2020.04. 29.20084111 doi: medRxiv preprint",
+            "cite_spans": [
+                {
+                    "start": 107,
+                    "end": 118,
+                    "text": "29.20084111",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [],
+            "section": "(which was not certified by peer review)"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "How will country-based mitigation measures influence the course of the COVID-19 epidemic?",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Heesterbeek",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Klinkenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Hollingsworth",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Can we contain the COVID-19 outbreak with the same measures as for SARS?",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Wilder-Smith",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Chiew",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Infect Dis",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "SARS-CoV-2 Viral Load in Upper Respiratory Specimens of Infected Patients",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zou",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Ruan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "382",
+            "issn": "",
+            "pages": "1177--1186",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Presumed Asymptomatic Carrier Transmission of COVID-19",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Bai",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Yao",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Presymptomatic SARS-CoV-2 Infections and Transmission in a Skilled Nursing Facility",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Arons",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Hatfield",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Reddy",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Du",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "1054--62",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "COVID-19 and Italy: what next?",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Remuzzi",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Remuzzi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "395",
+            "issn": "",
+            "pages": "1225--1233",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Critical Care Utilization for the COVID-19 Outbreak in Lombardy, Italy: Early Experience and Forecast During an Emergency Response",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Grasselli",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Pesenti",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Cecconi",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Jama",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Clinical Characteristics of Coronavirus Disease 2019 in China",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Guan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Ni",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "N Engl J Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "The positive impact of lockdown in Wuhan on containing the COVID-19 outbreak in China",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Khosrawipour",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Kocbach",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "J Travel Med",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72314 Cases From the Chinese Center for Disease Control and Prevention",
+            "authors": [
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Mcgoogan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Wisconsin Department of Health Services Covid-19: Wisconsin Cases",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Characteristics of Health Care Personnel with COVID-19 -United States",
+            "authors": [
+                {
+                    "first": "Cc-R",
+                    "middle": [],
+                    "last": "Team",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "MMWR Morb Mortal Wkly Rep",
+            "volume": "69",
+            "issn": "",
+            "pages": "477--81",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "COVID-19 in Italy: momentous decisions and many uncertainties",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lazzerini",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Putoto",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet Glob Health",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Personal protective equipment for preventing highly infectious diseases due to exposure to contaminated body fluids in healthcare staff",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Verbeek",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Rajamaki",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Ijaz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Cochrane Database Syst Rev",
+            "volume": "4",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Center for Disease Control and Prevention: Interim Infection Prevention and Control Recommendations for Patients with Suspected of Confirmed Coronavirus Disease 2019 (COVID-19) in Health Care Settings",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Tran",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Cimon",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Severn",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Pessoa-Silva",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Conly",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "PLoS One",
+            "volume": "7",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Assessment of N95 respirator decontamination and reuse for SARS-CoV-2",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Fischer",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Morris",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Van Doremalen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Decontamination and Reuse of N95 Respirators with Hydrogen Peroxide Vapor to Address Worldwide Personal Protective Equipment Shortages During the SARS-CoV-2 (COVID-19) Pandemic",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Schwartz",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Stiegel",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Greeson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Applied Biosafety",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Sourcing Personal Protective Equipment During the COVID-19",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Livingston",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Desai",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Berkwits",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Rapid implementation of mobile technology for real-time epidemiology of",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Drew",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Nguyen",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Steves",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wolf",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Spector",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Loss of smell and taste in combination with other symptoms is a potential predictor of COVID-19 infection (in press) Nature Medicine 2020. 27. Health worker Ebola infections in Guinea",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Menni",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Valdes",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Freidin",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "PLoS Med",
+            "volume": "28",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "SARS: health care work can be hazardous to health",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Koh",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Lim",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Chia",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Occup Med (Lond)",
+            "volume": "53",
+            "issn": "",
+            "pages": "241--244",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Effectiveness of precautions against droplets and contact in prevention of nosocomial transmission of severe acute respiratory syndrome (SARS)",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Seto",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Tsang",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Yung",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Lancet",
+            "volume": "361",
+            "issn": "",
+            "pages": "1519--1539",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "SARS among critical care nurses",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Loeb",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Mcgeer",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Henry",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Toronto. Emerg Infect Dis",
+            "volume": "10",
+            "issn": "",
+            "pages": "251--256",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "SARS transmission among hospital workers in Hong Kong",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Lau",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Fung",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Emerg Infect Dis",
+            "volume": "10",
+            "issn": "",
+            "pages": "280--286",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Pandemic (H1N1) 2009 risk for frontline health care workers",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Marshall",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Kelso",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Mcbryde",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Emerg Infect Dis",
+            "volume": "17",
+            "issn": "",
+            "pages": "1000--1006",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Prevention of nosocomial transmission of swine-origin pandemic influenza virus A/H1N1 by infection control bundle",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Cheng",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Tai",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wong",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J Hosp Infect",
+            "volume": "74",
+            "issn": "",
+            "pages": "271--278",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Risk factors for pandemic (H1N1) 2009 virus seroconversion among hospital staff",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [],
+                    "last": "Barr",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Emerg Infect Dis",
+            "volume": "16",
+            "issn": "",
+            "pages": "1554--61",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Digital disease detection--harnessing the Web for public health surveillance",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Brownstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Freifeld",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Madoff",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "N Engl J Med",
+            "volume": "360",
+            "issn": "",
+            "pages": "2153--2158",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Pew Research Center for Internet & Technology: Mobile Fact Sheet. 2020",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Detection of SARS-CoV-2 in Different Types of Clinical Specimens",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Abbreviations: CI (confidence interval), HR (hazard ratio) \u2020 includes new and reused PPE",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "All models were stratified by 5-year age group, calendar date at study entry, and country",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Multivariate risk factor models were adjusted for sex, history of diabetes, heart disease",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "JW, RD, and JC are employees of Zoe Global Ltd. TDS is a consultant to Zoe Global Ltd. DAD and ATC previously served as investigators on a clinical trial of diet and lifestyle using a separate mobile application that was supported by Zoe Global Ltd. Other authors have no conflict of interest to declare.Data availabilityData collected in the app is being shared with other health researchers through the NHS-funded Health Data Research U.K. (HDRUK)/SAIL consortium, housed in the U.K. Secure Research Platform (UKSeRP) in",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "ACE (angiotensin converting enzyme), BMI (body mass index), m (meter), kg (kilogram), Non-steroidal anti-inflammatory drugs (NSAIDs)",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": ". \u2020 Using a symptom-based model described in Menni et al (Nature Medicine, in press) . CC-BY-ND 4.0 International license It is made available under a",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "The risk of testing positive for Covid-19 among frontline healthcare workers (HCW). A. Between March 24, 2020 and April 23, 2020, considerable disparities in prevalence of a positive Covid-19 test among frontline HCW risk compared to the general community were observed in both the United Kingdom and the United States. B. Prevalence of a positive COVID-19 test reported by frontline HCWs in the United States and the United Kingdom.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": ".9 to 12.3) for a positive test. Frontline HCWs reporting inadequate PPE availability had a 23% increased risk of testing positive (aHR 1.23, 95% CI: 1.03 to 1.46). Compared to HCWs reporting adequate PPE who did not care for Covid-19 patients, HCWs caring for patients with documented Covid-19 had aHRs for a positive test of 4.91 (95% CI: 4.11 to 5.86) if they had adequate PPE and 5.94 (95% CI: 4.57 to 7.72) if they had inadequate PPE.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": ". The association appeared stronger in the U.K. (aHR 12.5, 95% CI: 11.7 to 13.2) compared to the U.S.(aHR 2.80, 95% CI: 2.09 to 3.75). An analysis according to sex demonstrated similar risk estimates among male (aHR 14.0, 95% CI: 12.4 to 15.8) and female (aHR 11.3, 95% CI: 10.5-12.1) frontline HCWs. We considered the possibility that the observed difference in risk in the U.K. vs. the U.S. may be related to differences in the risk profile of individuals eligible for testing. A multivariable-adjusted IPW Cox proportional hazards model weighted by predictors of testing demonstrated consistent associations between being a frontline HCW and reporting a positive Covid-19 test in the U.S. (aHR 1.29, 95% CI: 1.19 to 1.41) and the U.K. (aHR 1.92, 95% CI: 1.89 to 1.94). In a secondary analysis, we used a validated model based on a combination of symptoms to predict likely Covid-19 infection. 26 Compared with the general community, HCWs initially free of symptoms had an aHR of 1.74 (95% CI: 1.71 to 1.77) for predicted Covid-19, which was similar in the U.S. (aHR 1.26, 95% CI: 1.18 to 1.34) and U.K (aHR 1.79, 95% CI: 1.76 to 1.82). PPE usage in frontline HCWs Among frontline HCWs, we assessed the availability of PPE in relation to exposure to Covid-19 patients and subsequent risk for testing positive. Overall, 86% of frontline HCWs reported adequate PPE availability (new and reused), including 85% of those caring for documented Covid-19-positive patients. Compared to those reporting adequate availability, frontline HCWs reporting inadequate PPE had a 23% increased risk of subsequently testing positive for Covid-19 (aHR 1.23, 95% CI: 1.03 to 1.46; Table 3). Frontline HCWs with inadequate PPE in direct contact with a documented Covid-19 positive patient had an aHR of 5.94 (95% CI: 4.57 to 7.72) for a positive Covid test compared to those with adequate PPE who were not in contact with suspected or documented Covid-19 patients. Estimates were not materially altered when availability of new",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF2": {
+            "text": "). Notably, even among those reporting adequate PPE availability, the aHR for a positive Covid-19 test was 2.54 (95% CI: 2.06 to 3.13) for those caring for suspected Covid-19 patients and 4.91 (95% CI: 4.11 to 5.86) for those caring for documented Covid-19 patients compared to HCWs who did not care for either group.We examined whether the elevated risk of a positive Covid-19 test differed according to practice location.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF3": {
+            "text": "Swansea. Anonymized data is available to be shared with bonafide researchers HDRUK according to their",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF4": {
+            "text": "Baseline characteristics of frontline healthcare workers compared to the general public.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF6": {
+            "text": "Risk of testing positive for Covid-19 or predicted Covid-19 infection among HCWs compared with the general community Hazard Ratio (95% CI) Predicted Covid-19 infection \u2020All models were stratified by 5-year age group, calendar date at study entry, and country.Multivariate risk factor models were adjusted for sex, history of diabetes, heart disease, lung disease, kidney disease, and current smoking (each yes/no), and body mass index(17-19.9, 20-24.9, 25-29.9, and",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF7": {
+            "text": "Risk of testing positive for Covid-19 according to personal protective equipment (PPE) availability and exposure to Covid-19 patients among frontline healthcare workers.No. with Event/Person-days",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF8": {
+            "text": "Frontline healthcare workers and risk of testing positive for Covid-19 by site of care delivery.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We would like to thank the more than 2.9 million contributing citizen researchers who have downloaded the COVID Symptom Tracker, including participants of cohort studies within the Coronovirus Pandemic Epidemiology (COPE) Consortium (Table S4) . We thank the investigators of the cohort studies enrolled in the COPE Consortium for their assistance in disseminating the COVID Symptom Tracker to their study participants. We also thank the Stand Up to Cancer Foundation for their assistance in media and social media outreach. The findings and conclusions in this report are those of the authors and do not necessarily represent the official position of the National Institute for Occupational Safety and Health, Centers for Disease Control and Prevention.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 233,
+                    "end": 243,
+                    "text": "(Table S4)",
+                    "ref_id": null
+                }
+            ],
+            "section": "Acknowledgements"
+        }
+    ]
+}

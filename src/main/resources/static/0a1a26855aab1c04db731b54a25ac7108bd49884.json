@@ -1,0 +1,2018 @@
+{
+    "paper_id": "0a1a26855aab1c04db731b54a25ac7108bd49884",
+    "metadata": {
+        "title": "Digital Herd Immunity and COVID-19",
+        "authors": [
+            {
+                "first": "Vir",
+                "middle": [
+                    "B"
+                ],
+                "last": "Bulchandani",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of California",
+                    "location": {
+                        "postCode": "94720",
+                        "settlement": "Berkeley, Berkeley",
+                        "region": "CA",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Saumya",
+                "middle": [],
+                "last": "Shivam",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Princeton University",
+                    "location": {
+                        "postCode": "08544",
+                        "settlement": "Princeton",
+                        "region": "New Jersey",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Sanjay",
+                "middle": [],
+                "last": "Moudgalya",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Princeton University",
+                    "location": {
+                        "postCode": "08544",
+                        "settlement": "Princeton",
+                        "region": "New Jersey",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "S",
+                "middle": [
+                    "L"
+                ],
+                "last": "Sondhi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Princeton University",
+                    "location": {
+                        "postCode": "08544",
+                        "settlement": "Princeton",
+                        "region": "New Jersey",
+                        "country": "USA"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "All rights reserved. No reuse allowed without permission. author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "A population can be immune to epidemics even if not all of its individual members are immune to the disease, just as long as sufficiently many are immune-this is the traditional notion of herd immunity. In the smartphone era a population can be immune to epidemics even if not a single one of its members is immune to the disease-a notion we propose to call \"digital herd immunity\", which is similarly an emergent characteristic of the population. This immunity arises because contact-tracing protocols based on smartphone capabilities can lead to highly efficient quarantining of infected population members and thus the extinguishing of nascent epidemics. When the disease characteristics are favorable and smartphone usage is high enough, the population is in this immune phase. As usage decreases there is a novel \"contact tracing\" phase transition to an epidemic phase. We present and study a simple branching-process model for COVID-19 and show that digital immunity is possible regardless of the proportion of non-symptomatic transmission. We believe this is a promising strategy for dealing with COVID-19 in many countries such as India, whose challenges of scale motivated us to undertake this study in the first place and whose case we discuss briefly.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Recent events have challenged the public health infrastructure worldwide for controlling the spread of contagious diseases. This difficulty is partly due to the novel pathogen involved and partly due to some unusual characteristics of COVID-19 [1] , which pose unique obstacles to developing a systematic public health response. Specifically, the infection appears to be transmitted through a large number of asymptomatic and presymptomatic cases and the fraction of such transmission is large enough to lead to an epidemic on its own, even if all symptomatic cases were immediately isolated [1, 2] . This leaves two approaches to controlling an exponential growth in the number of infected people. The first is continuous monitoring of entire populations via regular testing, which can identify new infections already during their latent phase and thus end non-symptomatic transmission. The second is the established method of \"contact tracing\" [3] , in which people who have been exposed to newly identified infected people are isolated before they have a chance to infect others. In principle, either approach is capable of ending the epidemic.",
+            "cite_spans": [
+                {
+                    "start": 244,
+                    "end": 247,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 592,
+                    "end": 595,
+                    "text": "[1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 596,
+                    "end": 598,
+                    "text": "2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 946,
+                    "end": 949,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": "I. INTRODUCTION"
+        },
+        {
+            "text": "Population-level testing is not possible today, but perhaps with major advances in pooled testing this may be possible not too long from now, at least for populations in countries with the requisite health care infrastructure. Traditional contact tracing, done by teams of health officials relying on interviews with newly identified cases, is also not up to the task today, as it fails if non-symptomatic transmission is too frequent [3, 4] . Fortunately, we live in the smartphone era, and it has been noted that using these devices to record contacts can make the task of tracing them entirely solvable by automating it. This idea has been spelled out in a series of papers [5, 6] and is the basis for a rapidly expanding set of contact-tracing apps and the recent announcement by the Apple-Google duopoly of their intention to build the technology into their operating systems [7] . We note that the possibility of using mobile networks to study disease dynamics has been explored in the past [8] [9] [10] .",
+            "cite_spans": [
+                {
+                    "start": 435,
+                    "end": 438,
+                    "text": "[3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 439,
+                    "end": 441,
+                    "text": "4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 677,
+                    "end": 680,
+                    "text": "[5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 681,
+                    "end": 683,
+                    "text": "6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 881,
+                    "end": 884,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 997,
+                    "end": 1000,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                },
+                {
+                    "start": 1001,
+                    "end": 1004,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                },
+                {
+                    "start": 1005,
+                    "end": 1009,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "I. INTRODUCTION"
+        },
+        {
+            "text": "In this paper we contribute to this emerging field of infectious disease control along two axes. First, we present a simple model of the early stages of the spread of COVID-19, which allows us to obtain estimates, as a function of a varying amount of non-symptomatic transmission, of the fraction of the population that needs to participate in a digital contact sharing network in order to prevent new epidemics. Our interest in this question was seeded by the very practical question of whether a country like India can use this technology to achieve epidemic control today. Indeed, India is now launched on this enterprise [11] . While somewhat more complex modeling with various differences from our own became available while we were working on this problem [5, 12] , we feel that our approach has the virtue of making the existence and values of the estimated compliance thresholds transparent. Our estimates for the fraction of the population that needs to own a contact-tracing app to avert a COVID-19 epidemic range from 75% \u2212 95%, depending on the fraction of asymptomatic transmission, \u03b8 = 20% \u2212 50%, that takes place. Busy epidemiologists and health officials will find this part of interest.",
+            "cite_spans": [
+                {
+                    "start": 625,
+                    "end": 629,
+                    "text": "[11]",
+                    "ref_id": null
+                },
+                {
+                    "start": 762,
+                    "end": 765,
+                    "text": "[5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 766,
+                    "end": 769,
+                    "text": "12]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "I. INTRODUCTION"
+        },
+        {
+            "text": "Our second contribution is to frame the overall discussion in a language more familiar to physicists and students of complex phenomena more generally-that of phases, phase transitions and emergent properties. The bottom line here is the idea that the immunity of a population to epidemic growth is an emergent, or collective, property of the population. For traditional vaccination or epidemic-induced \"herd immunity\", this feature gets conflated with the fact that individuals can be immune to the disease at issue. But mass digital contact tracing now makes it possible for the population to be immune to epidemic growth even as no individual has immunity to the underlying disease. We propose to refer to this as the existence of a \"digital herd immunity\". This fits well into the general idea of an emergent property, which does not exist at the level of the microscopic constituents but exists for the collective [13, 14] . We would be remiss if we did not note that epidemiologists have previously referred to this state of affairs as \"herd protection\" and \"sustained epidemic control\" [5] . Our intention with the proposed terminology is both to frame a public health goal by including the word digital and to emphasize the emergent nature of a herd immunity.",
+            "cite_spans": [
+                {
+                    "start": 918,
+                    "end": 922,
+                    "text": "[13,",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 923,
+                    "end": 926,
+                    "text": "14]",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1092,
+                    "end": 1095,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                }
+            ],
+            "ref_spans": [],
+            "section": "I. INTRODUCTION"
+        },
+        {
+            "text": "In the balance of this paper we do the following. We begin by summarizing the case for contact tracing as an effective strategy for combating COVID-19. We then introduce a simple branching-process model for the spread of this disease, that incorporates the key features necessary to assess the efficacy of a digital, app-based approach, namely asymptomatic transmission, pre-symptomatic transmission and recursive contact tracing. We find in general that there is a critical fraction 0 \u2264 \u03c6 c < 1 of app ownership, such that takeup of contact-tracing apps by a fraction \u03c6 > \u03c6 c of the population is sufficient to prevent epidemic spread. We provide an analytical, \"self-consistent mean-field\" estimate for this threshold, which is verified against detailed numerical simulations. In the final discussion, we address the applicability of our results to the specific context of India.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "I. INTRODUCTION"
+        },
+        {
+            "text": "A. Motivation and relevance to COVID-19",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "II. A MODEL FOR APP-BASED CONTACT TRACING"
+        },
+        {
+            "text": "Traditional contact tracing is a multi-stage process. First, one identifies symptomatic, infected individuals. Next, one finds the people they came into close contact with during their infectious period. Finally, one treats or isolates these people before they can go on to infect others. Manual contact tracing becomes difficult for infections that have a period before the onset of symptoms when an exposed person is contagious (the \u2126 period). Further delay in finding the symptomatic person and their contacts could lead to tertiary infections, making it difficult to control an outbreak. For COVID-19, the incubation period is thought to be around 5-6 days, while the \u2126 period is estimated to be 1-3 days [2] . The time before becoming contagious, or the latent period L, is around 4 days. Stochasticity of these times aside, it is reasonable to expect that if \u2126 < L on average, and if the exposed contacts of an individual can be traced before they become infectious, then an epidemic could be prevented. However, the delays typical for manual contact tracing, even just one or two days, can render contact tracing completely ineffective for COVID-19, given the typical L and \u2126 periods; this conclusion is supported by detailed numerical simulations [5, 12] . This is where digital contact tracing comes in. A smartphone application could enable instant isolation of an infected person and their network of contacts. This halts the transmission chain, because infected contacts cannot infect others during their latent period. The question immediately arises of how widespread such tracing needs to be in order to prevent an epidemic, and this question is the focus of our paper. Below we present a simple model that captures the essential features of disease spread necessary to tackle this problem.",
+            "cite_spans": [
+                {
+                    "start": 709,
+                    "end": 712,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 1255,
+                    "end": 1258,
+                    "text": "[5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 1259,
+                    "end": 1262,
+                    "text": "12]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "II. A MODEL FOR APP-BASED CONTACT TRACING"
+        },
+        {
+            "text": "To place our work in context, the classic quantitative analyses of the efficacy of contact tracing [3, 4] , from before the smartphone era, showed that traditional, manual contact-tracing protocols become useless when the rate of non-symptomatic spreading, \u03b8, is too high. By contrast, app-based approaches allow for \"recursive\" contact tracing, whereby contacts of contacts can be traced to an arbitrary recursive depth, at no additional cost. The effectiveness of recursive contact tracing has been studied in previous work; mathematically rigorous results exist for purely symptomatic transmission [15, 16] and detailed numerical simulations have been performed that take non-symptomatic transmission into account [17] . Some recent works have provided quantitative estimates for the effectiveness of contact-tracing, both non-recursive and recursive, in the specific context of COVID-19 [5, 6, 12] . Our results should be viewed as complementary to these studies. One comparative advantage of the model that we propose is its simplicity; in particular, it provides a natural starting point for understanding the universal properties of the contact-tracing phase transition.",
+            "cite_spans": [
+                {
+                    "start": 99,
+                    "end": 102,
+                    "text": "[3,",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 103,
+                    "end": 105,
+                    "text": "4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 601,
+                    "end": 605,
+                    "text": "[15,",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 606,
+                    "end": 609,
+                    "text": "16]",
+                    "ref_id": "BIBREF15"
+                },
+                {
+                    "start": 717,
+                    "end": 721,
+                    "text": "[17]",
+                    "ref_id": "BIBREF16"
+                },
+                {
+                    "start": 891,
+                    "end": 894,
+                    "text": "[5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 895,
+                    "end": 897,
+                    "text": "6,",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 898,
+                    "end": 901,
+                    "text": "12]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "II. A MODEL FOR APP-BASED CONTACT TRACING"
+        },
+        {
+            "text": "Suppose we have an epidemic spreading through an infinite population of susceptibles, in discrete time, and infecting a number R of the population at each time step (here, R is an \"effective reproduction number\" that depends on the detailed properties of the epidemic spread, including the basic reproduction number R 0 ). This is a generic model for a spreading epidemic at short times. The total number of infections I tot scales as",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. A branching-process model"
+        },
+        {
+            "text": "and if R < 1, the epidemic has been controlled. We want to understand which R best captures the effect of mobile-phone-based contact tracing. From a statistical physics perspective, R is the single relevant parameter controlling the epidemic spread, and the key question is which \"microscopic\" degrees of freedom must be included to obtain a realistic estimate for R.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. A branching-process model"
+        },
+        {
+            "text": "To this end, we consider three parameters which implicitly determine R : the fraction of the population that will present asymptomatic cases (\u03b8), the fraction of the population using a contact tracing application (\u03c6), and the basic reproduction number for an individual who All rights reserved. No reuse allowed without permission.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. A branching-process model"
+        },
+        {
+            "text": "author/funder, who has granted medRxiv a license to display the preprint in perpetuity. FIG.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. A branching-process model"
+        },
+        {
+            "text": "1. An illustrative realization of our branching-process model. a) An in-network asymptomatic person (CA) infects R0 = 3 people, whose category of infection is chosen independently and uniformly subject to parameters \u03b8, the fraction of the population that presents asymptomatic cases, and \u03c6, the fraction of the population using a contact-tracing app. b) A CS infection triggers an alert on the contact network, but the CS person and everybody else in their generation is still able to infect people before the contact network is triggered (while we depict RS = 2, we also simulate more realistic values RS = 0, 1). The arrows show the alerts sent to everyone connected to the CS individual by the contact network. c) Once the alert is sent out, everybody in the contact-networkconnected component of the CS individual can be quarantined immediately (thick circles) without giving rise to further disease spread, since they are in the latent (non-contagious) periods of their infections. Everyone outside the contact network continue to infect people as usual. The \"recursive\" aspect of such contact tracing corresponds to the arrow going back in time in Fig. (1b) ; the middle branch of infections would be missed by a traditional, non-recursive approach.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 1154,
+                    "end": 1163,
+                    "text": "Fig. (1b)",
+                    "ref_id": null
+                }
+            ],
+            "section": "B. A branching-process model"
+        },
+        {
+            "text": "eventually shows symptoms (R S ). R S is a combined measure of the number of pre-symptomatic infections and the efficacy of quarantine: in the limit of perfect isolation after showing symptoms, R S is precisely the number of people that a symptomatic individual infects during their \u2126 period, as defined above. We assume that R S is independent of whether a symptomatic individual is on the contact-tracing network or not.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. A branching-process model"
+        },
+        {
+            "text": "The effects of these parameters on the growth of the epidemic (or R) are studied using a simple branchingprocess model, where all infectious individuals are either symptomatic (S) or asymptomatic (A), and either on the app-based contact tracing network (C) or not (N). In an an uncontrolled setting, all types of infectious cases are assumed to proliferate with R 0 = 3, which is a reasonable estimate [18] for COVID-19 1 . Suppose that the outbreak starts from a single infected individual at time t = 0. In our discrete time (generational) model, this person infects R 0 other people at time t = 1, and each new infection is allotted one of the categories {CA, CS, N A, N S} randomly, with probabilities that are determined by the values of \u03b8 and \u03c6. Individuals infected at the beginning of each generation are assumed not to infect anyone else after that generation has elapsed. Whenever a symptomatic person on the contact network (CS) is encountered during this branching process, the contact network is triggered, and all people connected by the network through past and present infections are placed in quarantine. As discussed earlier, since pre-symptomatic infections are common for COVID-19, our model includes the possibility that a CS person infects R S people by the time they trigger the contact network. As a consequence, non-CS people in the same generation also infect the next generation before the activation of the contact network (see Fig. 1c ). A few time-steps of the model are illustrated explicitly in Fig. 1 , together with the implementation of recursive contact tracing via removing connected components of the contact graph. Different combinations of the parameters \u03b8, \u03c6 and R S lead to an effective reproduction number R distinct from the bare reproduction number R 0 , and we expect epidemic growth to be suppressed whenever R < 1.",
+            "cite_spans": [
+                {
+                    "start": 402,
+                    "end": 406,
+                    "text": "[18]",
+                    "ref_id": "BIBREF17"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1456,
+                    "end": 1463,
+                    "text": "Fig. 1c",
+                    "ref_id": null
+                },
+                {
+                    "start": 1527,
+                    "end": 1533,
+                    "text": "Fig. 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "B. A branching-process model"
+        },
+        {
+            "text": "Numerical simulations of this model were performed on 10, 000 nodes with 100 initial infections; the results are summarized in Fig. 2 . The location of the phase boundaries were verified to be independent of both doubling the system size and doubling the number of samples averaged per point shown on the phase diagram, to within the resolution of the phase diagram. Our numerics are consistent with the hypothesis that for any given fraction of asymptomatic transmission 0 \u2264 \u03b8 < 1, and any presymptomatic reproduction number 0 \u2264 R S \u2264 R 0 , there is a critical point \u03c6 c (\u03b8), corresponding to the onset of \"digital herd immunity\": epidemic control occurs for a fraction of app owners \u03c6 c (\u03b8) < \u03c6 \u2264 1. For realistic COVID-19 parameter values, R 0 = 3, R S = 1 and \u03b8 = 0.2 \u2212 0.5 [5, 18] , we find that \u03c6 c (\u03b8) = 75% \u2212 95%, illustrating that when both presymptomatic and asymptomatic transmission are taken into account, the rate of app coverage necessary to prevent an epidemic can be rather high. Some practical implications of this point are raised in the final discussion. 1 There are also some higher estimates in the literature, e.g. based on the early epidemic dynamics in Wuhan [19] . Given the greatly increased state of awareness of the disease at this point it seems reasonable to assume that such higher values are not relevant to disease dynamics today.",
+            "cite_spans": [
+                {
+                    "start": 778,
+                    "end": 781,
+                    "text": "[5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 782,
+                    "end": 785,
+                    "text": "18]",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 1075,
+                    "end": 1076,
+                    "text": "1",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 1184,
+                    "end": 1188,
+                    "text": "[19]",
+                    "ref_id": "BIBREF18"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 127,
+                    "end": 133,
+                    "text": "Fig. 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "B. A branching-process model"
+        },
+        {
+            "text": "All rights reserved. No reuse allowed without permission.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. A branching-process model"
+        },
+        {
+            "text": "author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. A branching-process model"
+        },
+        {
+            "text": "The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/2020.04.15.20066720 doi: medRxiv preprint",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "B. A branching-process model"
+        },
+        {
+            "text": "Top: Phase diagrams of epidemic control for R0 = 3, where the tuning parameters are \u03b8, the rate of asymptomatic transition, and \u03c6, the fraction of contact-tracing app ownership among the population. RS denotes the basic reproduction number for pre-symptomatic transmission. Each phase diagram was generated from 4000 microscopic simulations of 20 generations of disease evolution on 10, 000 nodes, of which 100 nodes were initially infected at random. A black square denotes epidemic control (average growth in the cumulative number of infections over the generations 16 \u2212 20 is less than 0.25% of total population). This is grayscaled continuously to white for late-time growth exceeding 2.5% per generation or full epidemic spread before 20 generations have elapsed. Dashed red curves denote the mean-field approximation to the phase boundary, \u03b8 = \u03b8c(\u03c6) derived in Sec. II C. The exact critical point for \u03b8 = 0 and RS = 2, derived in Appendix A, is marked by a cyan arrow. Bottom: Sample simulations from the encircled region in the RS = 0 phase diagram. Curves (solid) denote cumulative number of infections as a percentage of total population, averaged over 10 samples (dashed), with \u03b8 = 0.5 fixed and \u03c6 varied from \u03c6 = 0.6 to \u03c6 = 0.9.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "FIG. 2."
+        },
+        {
+            "text": "To understand the connection between our model and the theory of phase transitions, it it helpful to consider the limit of no contact tracing, i.e. \u03c6 = 0, and no pre-symptomatic transmission, R S = 0. In this case, symptomatic individuals act as though they were immune, since they cannot transmit the infection further. Along the line \u03c6 = 0, the model exhibits a transition from an \"immune phase\" to an \"epidemic phase\" for \u03b8 \u2265 \u03b8 c = 1/R 0 , as shown in Fig. 2 . In fact, when \u03c6 = 0 and R S = 0, our model maps exactly to site percolation on a Bethe lattice with coordination number z = 1 + R 0 , where \"site percolation\" is equivalent to the existence of an infinite cluster of asymptomatic infections. The connection between simple epidemic models and percolation transitions has been noted in the past [20, 21] .",
+            "cite_spans": [
+                {
+                    "start": 806,
+                    "end": 810,
+                    "text": "[20,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 811,
+                    "end": 814,
+                    "text": "21]",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 455,
+                    "end": 461,
+                    "text": "Fig. 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "C. Mean-field estimates for the critical line"
+        },
+        {
+            "text": "By contrast, the non-local structure of recursive contact tracing, as illustrated in Fig. 1 , suggests that the universality class of the immune-to-epidemic transition for \u03c6 > 0 is distinct from standard site percolation. Nevertheless, in Appendix A we show that for a population without asymptomatic infections (the line \u03b8 = 0 in our phase diagram), we can obtain the critical fraction \u03c6 c of app usage exactly, for general values of R 0 , such that an epidemic occurs for \u03c6 \u2264 \u03c6 c and is suppressed for \u03c6 > \u03c6 c . The calculation proceeds by self-consistently estimating the probability of formation of infinitely long chains of infections, mirroring the standard techniques of percolation theory [22] . In the presence of a finite fraction of asymptomatic people (\u03b8 = 0), we rely on a mean-field estimate for the location of the critical line (\u03c6, \u03b8 c (\u03c6)) as a function of R S ; detailed studies of the exact location of critical line and the universal features of the contacttracing phase transition are left to future work.",
+            "cite_spans": [
+                {
+                    "start": 697,
+                    "end": 701,
+                    "text": "[22]",
+                    "ref_id": "BIBREF21"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 85,
+                    "end": 91,
+                    "text": "Fig. 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "C. Mean-field estimates for the critical line"
+        },
+        {
+            "text": "To derive a \"mean-field\" description of our model, let us label the possible states of an infected individual by \u03b1 \u2208 {CA, CS, N A, N S}. The probability that an initial infectious node i is in state \u03b1 is denoted P(i = \u03b1). According to their respective fractions in the population, we have",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Mean-field estimates for the critical line"
+        },
+        {
+            "text": "Suppose now that the node i = \u03b1 is infectious at time t = 0 and adjacent to a susceptible node j. The probability of epidemic spread is determined by the probability of transmission from the node i = \u03b1 to j and onwards, which we denote p \u03b1 . This can be approximated as",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Mean-field estimates for the critical line"
+        },
+        {
+            "text": "where P(j = \u03b2|i = \u03b1) denotes the probability that node j is infectious and in state \u03b2 at time t = 1, given that the node i was in state \u03b1 at time t = 0, and we make a \"meanfield\" approximation whereby only two-node processes are taken into account. The latter clearly breaks down when recursive contact tracing is taken into account, a point that we shall return to below. In terms of these probabilities p \u03b1 and the basic reproduction numbers for the various states R \u03b1 , the effective reproduction number in our mean-field approximation is given by",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Mean-field estimates for the critical line"
+        },
+        {
+            "text": "All rights reserved. No reuse allowed without permission.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Mean-field estimates for the critical line"
+        },
+        {
+            "text": "author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Mean-field estimates for the critical line"
+        },
+        {
+            "text": "The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/2020.04.15.20066720 doi: medRxiv preprint and the critical line is given by R = 1. Throughout this section we assume R CA = R N A = R 0 and R CS = R N S = R S .",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Mean-field estimates for the critical line"
+        },
+        {
+            "text": "Let us first consider transmission by individuals off the contact network. Since such individuals can transmit the disease freely, we have simply",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Mean-field estimates for the critical line"
+        },
+        {
+            "text": "Moving on to symptomatic individuals on the contact network (CS), we obtain the following conditional probabilities:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Mean-field estimates for the critical line"
+        },
+        {
+            "text": "which reflects the fact that on-network transmission from symptomatic individuals cannot generate transmission beyond node j (c.f. Fig. 1 ). Then, using Eqs. (2), (3) and (6), we find",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 131,
+                    "end": 137,
+                    "text": "Fig. 1",
+                    "ref_id": null
+                }
+            ],
+            "section": "C. Mean-field estimates for the critical line"
+        },
+        {
+            "text": "Finally, we consider asymptomatic infections on the contact network (CA). While the probabilities of transmitting infection outside the contact network are the same as Eq. (6), the transmission probabilities within the contact network are undetermined at the level of meanfield theory. As a first approximation, we can introduce variational parameters 0 \u2264 \u03b3 1 , \u03b3 2 \u2264 1 which interpolate between \"best\" and \"worst\" cases for epidemic control, to wit",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Mean-field estimates for the critical line"
+        },
+        {
+            "text": "In the \"best\" case, \u03b3 1 = \u03b3 2 = 0, asymptomatic transmission within the network is completely suppressed, i.e. P(j = CA | i = CA) = P(j = CS | i = CA) = 0. In the \"worst\" case, \u03b3 1 = \u03b3 2 = 1, asymptomatic transmission within the network is not suppressed at all, and P(j =",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Mean-field estimates for the critical line"
+        },
+        {
+            "text": "proportional to the population fraction of the respective states. In these limits, we obtain",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Mean-field estimates for the critical line"
+        },
+        {
+            "text": "While this provides some useful rules-of-thumb, there is seemingly no consistent way to fix the variational parameters \u03b3 1 and \u03b3 2 within this approach. Since the best approximation is likely to lie in between these extreme limits, we consider a na\u00efve linear interpolation and set",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Mean-field estimates for the critical line"
+        },
+        {
+            "text": "We can fix the variational parameter \u03b3 self-consistently by noting that the critical line on the \u03c6 \u2212 \u03b8 phase diagram ought to pass through the point (\u03c6 = 1, \u03b8 = 1), since there is an epidemic for {\u03c6 < 1, \u03b8 = 1}, when the population is entirely asymptomatic but not entirely on the contact network, and no epidemic for {\u03c6 = 1, \u03b8 < 1}, when the population is entirely on the contact network but not entirely asymptomatic. We find that setting \u03b3 = 1 \u2212 1/R 0 ensures this condition, and thus obtain the following estimate for the effective reproduction number:",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Mean-field estimates for the critical line"
+        },
+        {
+            "text": "An alternative approach is to derive a self-consistent estimate for p CA directly, by explicitly taking into account some of the higher-order, multi-node processes of transmission. The key observation is that an infectious node i = CA can infect a susceptible neighbour j in only three ways that allow for continued transmission; either infection is transmitted directly off the contact network, i \u2192 j \u2208 {N A, N S}, infection is transmitted off the contact network via a pre-symptomatic, on-network intermediary, i \u2192 j = CS \u2192 k \u2208 {N A, N S}, or transmission is perpetuated by another asymptomatic node j \u2208 CA on the contact network. To account for these three possibilities, we can write down a self-consistent equation for p CA ,",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Mean-field estimates for the critical line"
+        },
+        {
+            "text": "which yields",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Mean-field estimates for the critical line"
+        },
+        {
+            "text": "The approximations of Eqs. (5), (7) , and (13) then imply",
+            "cite_spans": [
+                {
+                    "start": 32,
+                    "end": 35,
+                    "text": "(7)",
+                    "ref_id": "BIBREF6"
+                }
+            ],
+            "ref_spans": [],
+            "section": "C. Mean-field estimates for the critical line"
+        },
+        {
+            "text": "The critical thresholds R = 1 predicted by Eqs. (11) and (14) are almost indistinguishable on the phase diagrams with R 0 = 3. In Fig. 2 we show the critical curves predicted by Eq. (14) and find good agreement with numerical simulations.",
+            "cite_spans": [
+                {
+                    "start": 48,
+                    "end": 52,
+                    "text": "(11)",
+                    "ref_id": null
+                },
+                {
+                    "start": 57,
+                    "end": 61,
+                    "text": "(14)",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 182,
+                    "end": 186,
+                    "text": "(14)",
+                    "ref_id": "BIBREF13"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 130,
+                    "end": 136,
+                    "text": "Fig. 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "C. Mean-field estimates for the critical line"
+        },
+        {
+            "text": "These mean-field approaches therefore capture the approximate location of the critical curve (\u03c6, \u03b8 c (\u03c6)) (equivalently (\u03c6 c (\u03b8), \u03b8)), and thus the essential qualitative features of recursive contact tracing with non-symptomatic transmission.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "C. Mean-field estimates for the critical line"
+        },
+        {
+            "text": "We have introduced a simple branching-process model for early-stage epidemic spread, which both retains a degree of analytical and numerical tractability and is All rights reserved. No reuse allowed without permission. author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. DISCUSSION"
+        },
+        {
+            "text": "The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/2020.04.15.20066720 doi: medRxiv preprint sufficiently expressive to model complicated features of COVID-19 spreading and control, for example presymptomatic transmission, as distinct from asymptomatic transmission, and recursive contact tracing. Using this model we obtained predictions for realistic COVID-19 parameter values, finding that in order for a contact-tracing app to be effective, the fraction of app take-up among a given population would need to lie between 75% and 95%, depending on the frequency of asymptomatic transmission.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. DISCUSSION"
+        },
+        {
+            "text": "We now consider the practical applicability of our results to India, whose particular challenges provided the initial stimulus for this work. At first sight, India's overall smartphone coverage of around 40% [23] suggests that it might be difficult to attain \"digital herd immunity\" using solely app-based contact tracing [11] . However, smartphone-based measures could be combined with other tracing efforts to compensate for the limited availability of smartphones. Specifically, more traditional interview methods can still be used to reconstruct the location history of a newly diagnosed person. Systematic, random testing might also help in this regard [24] . As almost 90% [23] of Indians use some sort of wireless phone, alerts from people on the app-based network as well as interview-based alerts could be broadcast via SMS and combined with cell tower triangulation for spatial resolution in addition to the temporal resolution that would already be available. Major metropolitan areas, which include a number of COVID-19 hot-spots [25] , would be particularly well-suited to such a dual approach, since they exhibit both higher smartphone coverage and a higher density of cell-phone towers, allowing for more accurate triangulation [26] . Finally, it seems entirely possible to boost smartphone ownership for this purpose by the use of donated used phones and subsidized data provided to run the contact tracing app.",
+            "cite_spans": [
+                {
+                    "start": 208,
+                    "end": 212,
+                    "text": "[23]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 322,
+                    "end": 326,
+                    "text": "[11]",
+                    "ref_id": null
+                },
+                {
+                    "start": 658,
+                    "end": 662,
+                    "text": "[24]",
+                    "ref_id": "BIBREF23"
+                },
+                {
+                    "start": 679,
+                    "end": 683,
+                    "text": "[23]",
+                    "ref_id": "BIBREF22"
+                },
+                {
+                    "start": 1042,
+                    "end": 1046,
+                    "text": "[25]",
+                    "ref_id": "BIBREF24"
+                },
+                {
+                    "start": 1243,
+                    "end": 1247,
+                    "text": "[26]",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [],
+            "section": "III. DISCUSSION"
+        },
+        {
+            "text": "Several natural questions arise for future work. From a practical standpoint, one worthwhile extension of our model would be to allow for a degree of stochasticity in the basic reproduction number R 0 , for example, by simulating the branching-process model on small-world networks with varying degree per node, which are known to better reflect realistic human contact networks [27, 28] than networks with fixed degree. Indeed, network structure has previously been shown to influence the effectiveness of contact tracing [4, [29] [30] [31] . Meanwhile, an important open problem from the perspective of statistical physics is pinning down the universality class of the contact-tracing transition. Our study of the critical point along the line \u03b8 = 0 indicates that techniques from percolation theory are likely to be useful; on the other hand, the non-local character of recursive contact tracing distinguishes it from the percolation transitions that have arisen in related applications [20, 21, 32, 33] , and suggests that the critical exponents at the transition point differ from those of standard site percolation, even on the Bethe lattice. We leave a detailed exploration of these fascinating questions to subsequent studies.",
+            "cite_spans": [
+                {
+                    "start": 379,
+                    "end": 383,
+                    "text": "[27,",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 384,
+                    "end": 387,
+                    "text": "28]",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 523,
+                    "end": 526,
+                    "text": "[4,",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 527,
+                    "end": 531,
+                    "text": "[29]",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 532,
+                    "end": 536,
+                    "text": "[30]",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 537,
+                    "end": 541,
+                    "text": "[31]",
+                    "ref_id": "BIBREF30"
+                },
+                {
+                    "start": 990,
+                    "end": 994,
+                    "text": "[20,",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 995,
+                    "end": 998,
+                    "text": "21,",
+                    "ref_id": "BIBREF20"
+                },
+                {
+                    "start": 999,
+                    "end": 1002,
+                    "text": "32,",
+                    "ref_id": "BIBREF31"
+                },
+                {
+                    "start": 1003,
+                    "end": 1006,
+                    "text": "33]",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "III. DISCUSSION"
+        },
+        {
+            "text": "Solving Eqs. (A2) and (A3) simultaneously, we obtain the critical point \u03c6 = \u03c6 c , such that p N = p C = 0 for \u03c6 > \u03c6 c . We now illustrate the computation of \u03c6 c for a general R 0 = R. The probabilities p N and p C for this case can be written analogously to Eqs. (A2) and (A3) as",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. DISCUSSION"
+        },
+        {
+            "text": "Substituting Eq. (A5) in Eq. (A4), and using f C + f N = 1, we obtain",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. DISCUSSION"
+        },
+        {
+            "text": "Excluding the p N = 0 solution, we can simplify Eq. (A6) to read",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. DISCUSSION"
+        },
+        {
+            "text": "where we have used O(p N ) to denote a polynomial in p N with all terms having degree greater than or equal to 1.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. DISCUSSION"
+        },
+        {
+            "text": "Since the critical fraction \u03c6 c for a phase transition occurs at p N = 0, we substitute p N = 0, and the fractions f N and f C in Eq. (A7) to obtain",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "III. DISCUSSION"
+        },
+        {
+            "text": "where we have chosen the physical solution such that 0 \u2264 \u03c6 c \u2264 1. This result matches our numerical phase diagram to within the resolution of the plot, improving upon the mean-field prediction of the main text; see Fig. 2 for an example with R = 2.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 215,
+                    "end": 221,
+                    "text": "Fig. 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "III. DISCUSSION"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Coronavirus covid-19 (sars-cov-2)",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Auwaerter",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "The Johns Hopkins University",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Presymptomatic transmission of sars-cov-2 singapore",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Chiew",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yong",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Toh",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "MMWR Morb Mortal Wkly Rep",
+            "volume": "69",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.15585/mmwr.mm6914e1"
+                ]
+            }
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Factors that make an infectious disease outbreak controllable",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Fraser",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Riley",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ferguson",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Proceedings of the National Academy of Sciences",
+            "volume": "101",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.0307506101"
+                ]
+            }
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Contact tracing and disease control",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Eames",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Keeling",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Proceedings of the Royal Society of London. Series B: Biological Sciences",
+            "volume": "270",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rspb.2003.2554"
+                ]
+            }
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Quantifying sars-cov-2 transmission suggests epidemic control with digital contact tracing",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Ferretti",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wymant",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kendall",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhao",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nurtay",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Abeler-D\u00f6rner",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Parker",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Bonsall",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Fraser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.abb6936"
+                ]
+            }
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Proximity: a recipe to break the outbreak (2020)",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Faggian",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Urbani",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zanotto",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "arXiv": [
+                    "arXiv:2003.10222"
+                ]
+            }
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Apple and google partner on covid-19 contact tracing technology",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "A high-resolution human contact network for infectious disease transmission",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Salath\u00e9",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kazandjieva",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Lee",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Levis",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Feldman",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Jones",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Proceedings of the National Academy of Sciences",
+            "volume": "107",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1073/pnas.1009094108"
+                ]
+            }
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Epimap: Towards quantifying contact networks for understanding epidemiology in developing countries",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Yoneki",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Crowcroft",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Ad Hoc Networks",
+            "volume": "13",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.adhoc.2012.06.003"
+                ]
+            }
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Progress in Location-Based Services 2014 , Lecture Notes in Geoinformation and Cartography",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Gartner",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Feasibility of controlling covid-19 outbreaks by isolation of cases and contacts, The Lancet Global Health",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Hellewell",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Abbott",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Gimma",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Bosse",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "I"
+                    ],
+                    "last": "Jarvis",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Russell",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Munday",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Kucharski",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Edmunds",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S2214-109X(20)30074-7"
+                ]
+            }
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "More is different",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Anderson",
+                    "suffix": ""
+                }
+            ],
+            "year": 1972,
+            "venue": "Science",
+            "volume": "177",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1126/science.177.4047.393"
+                ]
+            }
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "On emergence from the perspective of physical science",
+            "authors": [
+                {
+                    "first": "J.-Y",
+                    "middle": [],
+                    "last": "Moon",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Larock",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "arXiv": [
+                    "arXiv:1705.11075"
+                ]
+            }
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Contact tracing in stochastic and deterministic epidemic models",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "M\u00fcller",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Kretzschmar",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Dietz",
+                    "suffix": ""
+                }
+            ],
+            "year": 2000,
+            "venue": "Mathematical biosciences",
+            "volume": "164",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S0025-5564(99)00061-9"
+                ]
+            }
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Exact and approximate formulas for contact tracing on random trees",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Okolie",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Mller",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Mathematical Biosciences",
+            "volume": "321",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/j.mbs.2020.108320"
+                ]
+            }
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "The effectiveness of contact tracing in emerging epidemics",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Klinkenberg",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Fraser",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Heesterbeek",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "PloS one",
+            "volume": "",
+            "issn": "1",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1371/journal.pone.0000012"
+                ]
+            }
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Early dynamics of transmission and control of covid-19: a mathematical modelling study",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Kucharski",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Russell",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Diamond",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Edmunds",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Funk",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Eggo",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Jit",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Munday",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "The Lancet Infectious Diseases",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/S1473-3099(20)30144-4"
+                ]
+            }
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "The novel coronavirus, 2019-ncov, is highly contagious and more infectious than initially estimated",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Sanche",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Romero-Severson",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Hengartner",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Ke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1101/2020.02.07.20021154"
+                ]
+            }
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "On the critical behavior of the general epidemic process and dynamical percolation",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Grassberger",
+                    "suffix": ""
+                }
+            ],
+            "year": 1983,
+            "venue": "Mathematical Biosciences",
+            "volume": "63",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0025-5564(82)90036-0"
+                ]
+            }
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Epidemic models and percolation",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Cardy",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Grassberger",
+                    "suffix": ""
+                }
+            ],
+            "year": 1985,
+            "venue": "Journal of Physics A: Mathematical and General",
+            "volume": "18",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1088/0305-4470/18/6/001"
+                ]
+            }
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Percolation, Die Grundlehren der mathematischen Wissenschaften in Einzeldarstellungen",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Grimmett",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Grimmett",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Chern",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Eckmann",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Hironaka",
+                    "suffix": ""
+                }
+            ],
+            "year": 1999,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Telecom subscription data",
+            "authors": [],
+            "year": 2020,
+            "venue": "Telecom Regulatory Authority of India",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Using random testing to manage a safe exit from the covid-19 lockdown",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Mller",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Derlet",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Mudry",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Aeppli",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "arXiv": [
+                    "arXiv:2004.04614"
+                ]
+            }
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Covid-19 india, Ministry of Health and Family Welfare",
+            "authors": [],
+            "year": 2020,
+            "venue": "Govt. of India",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Accuracy characterization of cell tower localization",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Varshavsky",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Gruteser",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Proceedings of the 12th ACM international conference on Ubiquitous computing",
+            "volume": "",
+            "issn": "",
+            "pages": "223--226",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Statistical mechanics of complex networks",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Albert",
+                    "suffix": ""
+                },
+                {
+                    "first": "A.-L",
+                    "middle": [],
+                    "last": "Barab\u00e1si",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Rev. Mod. Phys",
+            "volume": "74",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1103/RevModPhys.74.47"
+                ]
+            }
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Epidemic processes in complex networks",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Pastor-Satorras",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Castellano",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Van Mieghem",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Vespignani",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Rev. Mod. Phys",
+            "volume": "87",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1103/RevModPhys.87.925"
+                ]
+            }
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Contact tracing and epidemics control in social networks",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Huerta",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Tsimring",
+                    "suffix": ""
+                }
+            ],
+            "year": 2002,
+            "venue": "Physical Review E",
+            "volume": "66",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1103/PhysRevE.66.056115"
+                ]
+            }
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Disease contact tracing in random and clustered networks",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Kiss",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Green",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Kao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Proceedings of the Royal Society B: Biological Sciences",
+            "volume": "272",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rspb.2005.3092"
+                ]
+            }
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Infectious disease control using contact tracing in random and scale-free networks",
+            "authors": [
+                {
+                    "first": "I",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Kiss",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Green",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Kao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2005,
+            "venue": "Journal of The Royal Society Interface",
+            "volume": "3",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1098/rsif.2005.0079"
+                ]
+            }
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Self-organized critical forestfire model",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Drossel",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Schwabl",
+                    "suffix": ""
+                }
+            ],
+            "year": 1992,
+            "venue": "Phys. Rev. Lett",
+            "volume": "69",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1103/PhysRevLett.69.1629"
+                ]
+            }
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Forest-fire model with immune trees",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Drossel",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Schwabl",
+                    "suffix": ""
+                }
+            ],
+            "year": 1993,
+            "venue": "Physica A: Statistical Mechanics and its Applications",
+            "volume": "199",
+            "issn": "",
+            "pages": "",
+            "other_ids": {
+                "DOI": [
+                    "10.1016/0378-4371(93)90001-K"
+                ]
+            }
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": "The copyright holder for this preprint (which was not peer-reviewed) is the . https://doi.org/10.1101/2020.04.15.20066720 doi: medRxiv preprint",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "We would like to thank Professor K. VijayRaghavan for interesting us in this question and for discussions of India's Aarogya Setu contact tracing app, Professor Bryan Grenfell for sharing his wisdom regarding epidemiology at an extremely hectic time and Dr. Shoibal Chakravarty for continuing discussions on all aspect of India's COVID-19 challenges.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "ACKNOWLEDGMENTS"
+        },
+        {
+            "text": "In this Appendix, we show how to derive the critical point for the contact-tracing transition along the line \u03b8 = 0, using ideas from percolation theory. Let p N and p C denote the probabilities that an infinite infected cluster is connected to a node of type N and C respectively. We also write f C and f N for the fraction of the population respectively on and off the contact network, which, in the notation of the main text, readWe start by considering the case when R 0 = 2, which means that each infected individual goes on to infect two other people. The possible R 0 = 2 infections generated by an infected individual of typeFor each of these cases, we can write the contribution to the probability p N that the cluster starting from N extends to infinity in terms of p N , p C , f C , and f N aswhere the first term on the RHS is the contribution from the process N \u2192 {C, C}, the second from N \u2192 {N, N }, and the third from N \u2192 {N, C} and N \u2192 {C, N }. To understand Eq. (A2), consider the first term, which corresponds to the process N \u2192 {C, C}. It can be obtained in the following way: given an N infection, the probability of the process N \u2192 {C, C}, assuming independent and uniform distribution of individuals on the network, is given by f 2 C , and the probability that at least one subbranch gives rise to an infinite cluster is then given by 1 \u2212 (1 \u2212 p C ) 2 , since (1 \u2212 p C ) 2 is the probability that neither C generates an infinite cluster. The other terms in Eq. (A2) can be obtained similarly. Likewise, the possible R 0 = 2 infections starting from C are C \u2192 {N, N }, C \u2192 {N, C} and C \u2192 {C, N }. Note that C \u2192 C transmission is suppressed due to contact tracing. Therefore, the probability that a cluster from C extends to infinity is given by",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "annex"
+        }
+    ]
+}

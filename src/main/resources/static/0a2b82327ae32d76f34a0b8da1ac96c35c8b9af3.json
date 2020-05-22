@@ -1,0 +1,1006 @@
+{
+    "paper_id": "0a2b82327ae32d76f34a0b8da1ac96c35c8b9af3",
+    "metadata": {
+        "title": "Clinical Infectious Diseases BRIEF REPORT \u2022 cid 2020:XX (XX XXXX) \u2022 1 Clinical Infectious Diseases \u00ae 2020;XX(XX):1-3 Consistent Detection of 2019 Novel Coronavirus in Saliva",
+        "authors": [
+            {
+                "first": "K",
+                "middle": [
+                    "K"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "-W",
+                "middle": [
+                    "T"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "O",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "T.-Y",
+                "middle": [
+                    "T"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "C",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "C.-Y",
+                "middle": [
+                    "Y"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "K.-H",
+                "middle": [
+                    "C"
+                ],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Kelvin",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Kai-Wang",
+                "middle": [],
+                "last": "To",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "State Key Laboratory for Emerging Infectious Diseases",
+                    "institution": "The University of Hong Kong",
+                    "location": {
+                        "addrLine": "Carol Yu Centre for Infection"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Owen",
+                "middle": [],
+                "last": "Tak",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yin",
+                "middle": [],
+                "last": "Tsang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Hong Kong Special Administrative Region",
+                    "location": {
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Cyril",
+                "middle": [],
+                "last": "Chik-",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Yan",
+                "middle": [],
+                "last": "Yip",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "State Key Laboratory for Emerging Infectious Diseases",
+                    "institution": "The University of Hong Kong",
+                    "location": {
+                        "addrLine": "Carol Yu Centre for Infection"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kwok-Hung",
+                "middle": [],
+                "last": "Chan",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "State Key Laboratory for Emerging Infectious Diseases",
+                    "institution": "The University of Hong Kong",
+                    "location": {
+                        "addrLine": "Carol Yu Centre for Infection"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Tak-Chiu",
+                "middle": [],
+                "last": "Wu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Hong Kong Special Administrative Region",
+                    "location": {
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jacky Man-Chun",
+                "middle": [],
+                "last": "Chan",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Hong Kong Special Administrative Region",
+                    "location": {
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Wai-Shing",
+                "middle": [],
+                "last": "Leung",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Hong Kong Special Administrative Region",
+                    "location": {
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Thomas",
+                "middle": [],
+                "last": "Shiu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Hong",
+                "middle": [],
+                "last": "Chik",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Hong Kong Special Administrative Region",
+                    "location": {
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Chris Yau-Chung",
+                "middle": [],
+                "last": "Choi",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Hong Kong Special Administrative Region",
+                    "location": {
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Darshana",
+                "middle": [
+                    "H"
+                ],
+                "last": "Kandamby",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "Intensive Care Unit",
+                    "institution": "Hong Kong Special Administrative Region",
+                    "location": {
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "David",
+                "middle": [
+                    "Christopher"
+                ],
+                "last": "Lung",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Hong Kong Special Administrative Region",
+                    "location": {
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Anthony",
+                "middle": [
+                    "Raymond"
+                ],
+                "last": "Tam",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Hong Kong Special Administrative Region",
+                    "location": {
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Rosana",
+                "middle": [],
+                "last": "Wing",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Shan",
+                "middle": [],
+                "last": "Poon",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "State Key Laboratory for Emerging Infectious Diseases",
+                    "institution": "The University of Hong Kong",
+                    "location": {
+                        "addrLine": "Carol Yu Centre for Infection"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Agnes Yim-Fong",
+                "middle": [],
+                "last": "Fung",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "State Key Laboratory for Emerging Infectious Diseases",
+                    "institution": "The University of Hong Kong",
+                    "location": {
+                        "addrLine": "Carol Yu Centre for Infection"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ivan",
+                "middle": [],
+                "last": "Fan-Ngai",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "",
+                "middle": [],
+                "last": "Hung",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Hong Kong Special Administrative Region",
+                    "location": {
+                        "country": "China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Vincent",
+                "middle": [],
+                "last": "",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Chi-Chung",
+                "middle": [],
+                "last": "Cheng",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "State Key Laboratory for Emerging Infectious Diseases",
+                    "institution": "The University of Hong Kong",
+                    "location": {
+                        "addrLine": "Carol Yu Centre for Infection"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Jasper Fuk-Woo",
+                "middle": [],
+                "last": "Chan",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "State Key Laboratory for Emerging Infectious Diseases",
+                    "institution": "The University of Hong Kong",
+                    "location": {
+                        "addrLine": "Carol Yu Centre for Infection"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kwok-Yung",
+                "middle": [],
+                "last": "Yuen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "State Key Laboratory for Emerging Infectious Diseases",
+                    "institution": "The University of Hong Kong",
+                    "location": {
+                        "addrLine": "Carol Yu Centre for Infection"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "The 2019 novel coronavirus (2019-nCoV) was detected in the self-collected saliva of 91.7% (11/12) of patients. Serial saliva viral load monitoring generally showed a declining trend. Live virus was detected in saliva by viral culture. Saliva is a promising noninvasive specimen for diagnosis, monitoring, and infection control in patients with 2019-nCoV infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "The 2019 novel coronavirus (2019-nCoV) was detected in the self-collected saliva of 91.7% (11/12) of patients. Serial saliva viral load monitoring generally showed a declining trend. Live virus was detected in saliva by viral culture. Saliva is a promising noninvasive specimen for diagnosis, monitoring, and infection control in patients with 2019-nCoV infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Keywords. 2019 novel coronavirus; saliva; diagnostics; viral load; transmission; COVID-19.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In 2003, the severe acute respiratory syndrome coronavirus (SARS-CoV) caused a devastating global outbreak with a casefatality rate of 10% [1] . In December 2019, a SARS-CoV-like coronavirus, the 2019 novel coronavirus (2019-nCoV), has emerged in Hubei Province of China and has spread rapidly in mainland China and to other parts of the world [2, 3] . The 2019-nCoV belongs to Betacoronavirus genus lineage B, and is phylogenetically closely related to bat SARS-like coronaviruses [2] . However, the spike, ORF8, and ORF3b proteins differ significantly from other known SARS-like coronaviruses, which may confer differences in pathogenicity and transmissibility from SARS-CoV [4] . Similar to SARS-CoV, the 2019-nCoV can be efficiently transmitted between humans. Cases of familial clustering have been reported [2] .",
+            "cite_spans": [
+                {
+                    "start": 139,
+                    "end": 142,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 344,
+                    "end": 347,
+                    "text": "[2,",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 348,
+                    "end": 350,
+                    "text": "3]",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 482,
+                    "end": 485,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 677,
+                    "end": 680,
+                    "text": "[4]",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 813,
+                    "end": 816,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Rapid and accurate detection of 2019-nCoV is crucial in controlling the outbreak in the community and in hospitals. Nasopharyngeal and oropharyngeal swabs are the recommended upper respiratory tract specimen types for 2019-nCoV diagnostic testing. However, the collection of these specimen types requires close contact between healthcare workers and patients, which poses a risk of transmission of the virus to the healthcare workers. Furthermore, the collection of nasopharyngeal or oropharyngeal specimens causes discomfort and may cause bleeding, especially in patients with thrombocytopenia [2] . Hence, nasopharyngeal or oropharyngeal swabs are not desirable for serial monitoring of viral load. Sputum is a noninvasive lower respiratory tract specimen, but only 28% of patients with 2019-nCoV in 1 case series could produce sputum for diagnostic evaluation [3] .",
+            "cite_spans": [
+                {
+                    "start": 595,
+                    "end": 598,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 863,
+                    "end": 866,
+                    "text": "[3]",
+                    "ref_id": "BIBREF2"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Saliva specimens can be provided easily by asking patients to spit into a sterile bottle. Since no invasive procedures are required, the collection of saliva can greatly minimize the chance of exposing healthcare workers to 2019-nCoV. We have previously demonstrated that saliva has a high concordance rate of greater than 90% with nasopharyngeal specimens in the detection of respiratory viruses, including coronaviruses [5, 6] . In some patients, coronavirus was detected only in saliva but not in nasopharyngeal aspirate [5] . Saliva has also been used in screening respiratory viruses among hospitalized patients without fever or respiratory symptoms [7] . SARS-CoV can be detected in saliva at high titers [8] .",
+            "cite_spans": [
+                {
+                    "start": 422,
+                    "end": 425,
+                    "text": "[5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 426,
+                    "end": 428,
+                    "text": "6]",
+                    "ref_id": "BIBREF5"
+                },
+                {
+                    "start": 524,
+                    "end": 527,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 655,
+                    "end": 658,
+                    "text": "[7]",
+                    "ref_id": "BIBREF6"
+                },
+                {
+                    "start": 711,
+                    "end": 714,
+                    "text": "[8]",
+                    "ref_id": "BIBREF7"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Given the benefits of saliva testing, we have tested 2019-nCoV in saliva from patients with suspected 2019-nCoV infection based on clinical and epidemiological criteria as outlined by the Centre for Health Protection of Hong Kong. Here, we report the results of the saliva testing.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In Hong Kong, 2019-nCoV testing was performed by Public Health Laboratory Services Branch in Hong Kong for patients who fulfilled the reporting criteria or enhanced surveillance criteria [9] . A patient is considered to have laboratory-confirmed infection if 2019-nCoV was detected in their nasopharyngeal or sputum specimens.",
+            "cite_spans": [
+                {
+                    "start": 187,
+                    "end": 190,
+                    "text": "[9]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Patient Specimens"
+        },
+        {
+            "text": "Saliva was collected by asking the patient to cough out saliva from their throat into a sterile container, and 2 mL of viral transport medium was added as we described previously [5, 6] . This study was approved by the Institutional Review Board of the University of Hong Kong/Hospital Authority Hong Kong West Cluster (UW 13-372).",
+            "cite_spans": [
+                {
+                    "start": 179,
+                    "end": 182,
+                    "text": "[5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 183,
+                    "end": 185,
+                    "text": "6]",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Patient Specimens"
+        },
+        {
+            "text": "Saliva specimens were subjected to total nucleic acid extraction by NucliSENS easyMAG (BioMerieux) as we described previously [5] . Each specimen was mixed with lysis buffer. After extraction, the total nucleic acid was recovered using 55 \u03bcL of elution buffer. In-house 1-step real-time reverse transcription-quantitative polymerase chain reaction (RT-qPCR) assay targeting the S gene of 2019-nCoV was performed using QuantiNova SYBR Green RT-PCR Kit (Qiagen) in a LightCycler 480 Real-Time PCR System (Roche), as we described previously [2] .",
+            "cite_spans": [
+                {
+                    "start": 126,
+                    "end": 129,
+                    "text": "[5]",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 538,
+                    "end": 541,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Nucleic Acid Extraction and Real-time Reverse Transcription-Quantitative Polymerase Chain Reaction for 2019-nCoV"
+        },
+        {
+            "text": "Viral culture of 2019-nCoV was conducted in a biosafety level-3 facility. Vero E6 cells were seeded with 1 mL of minimum essential medium (MEM) at 2 \u00d7 10 5 cells/mL in culture tubes and incubated at 37\u00b0C in a carbon dioxide incubator for 1-2 days until confluence for inoculation. Each saliva specimen was inoculated in duplicate; 1 tube contained tosylsulfonyl phenylalanyl chloromethyl ketone-treated trypsin (0.5 \u03bcg/mL) in serum-free MEM and the other tube contained MEM with 1% fetal calf serum. Each tube was inoculated with 0.2 mL of saliva and was incubated in a slanted position so that the inoculum covered the monolayer for 60 minutes at 37\u00b0C. Then 1 mL of either MEM or trypsin MEM was added and incubated in a roller apparatus at a speed 12 to 15 revolutions per hour. Virus-induced cytopathic effect was examined daily for up to 7 days.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Viral Culture"
+        },
+        {
+            "text": "A total of 12 patients with laboratory-confirmed 2019-nCoV infection in Hong Kong were included. The median age was 62.5 years, ranging from 37 to 75 years. There were 5 female and 7 male patients. At the time of writing, all patients were still hospitalized. Saliva specimens were collected at a median of 2 days after hospitalization (range, 0-7 days) ( Figure 1 ).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 356,
+                    "end": 364,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF0"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "The 2019-nCoV was detected in the initial saliva specimens of 11 patients (91.7%). For patient K, the first saliva specimen collected on the day of hospital admission tested negative. The median viral load of the first available saliva specimens was 3.3 \u00d7 10 6 copies/mL (range, 9.9 \u00d7 10 2 to 1.2 \u00d7 10 8 copies/mL).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RESULTS"
+        },
+        {
+            "text": "Serial saliva specimens were available for 6 patients. The viral load was highest in the earliest available specimens for 5 patients (83.3%). For patient H, the viral load was slightly higher on day 1 after hospitalization (6.8 \u00d7 10 7 copies/mL) than on the day of hospital admission (5.7 \u00d7 10 7 copies/mL). For patient B, viral shedding in saliva was still detected on day 11 after hospitalization. In 33 patients whose nasopharyngeal specimens tested negative for 2019-nCoV, all saliva specimens also tested negative. At the time of writing, viral cultures were positive for 3 patients and negative for 2 patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "RESULTS"
+        },
+        {
+            "text": "In this study, we have demonstrated that 2019-nCoV could be detected in the saliva specimens of 11 of the 12 patients studied. Serial saliva specimens showed declines in salivary 2019-nCoV RNA levels after hospitalization. Viral culture demonstrated that live viruses were present in the saliva of 3 patients.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "There are several advantages in using saliva specimens for the diagnosis of 2019-nCoV. First, saliva specimens can be provided by the patient easily without any invasive procedures. Therefore, the use of saliva specimens could reduce the risk of nosocomial 2019-nCoV transmission. Cases of 2019-nCoV infection among healthcare workers have been found, with at least 1 reported death [10] . Second, the use of saliva will allow specimen collection outside the hospitals where airborne-infection isolation rooms are not available, such as in outpatient clinics or in the community. In the setting where a large number of individuals require screening, saliva would represent a practical noninvasive specimen type. Third, since healthcare workers are not required to collect saliva specimens, the use of saliva specimens will eliminate the waiting time for specimen collection, and hence the results would be available much sooner. This is especially important in busy clinical settings where the number of available staff is limited.",
+            "cite_spans": [
+                {
+                    "start": 383,
+                    "end": 387,
+                    "text": "[10]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Among patients with serial saliva specimens available, there was a general decline in viral load for most patients, but 1 patient had viral shedding in the saliva for at least 11 days after hospitalization. The use of saliva is preferred over nasopharyngeal or oropharyngeal specimens for serial viral load monitoring because this would reduce the discomfort to the patient and reduce the health hazards to healthcare workers during repeated sampling. Our experience with SARS in 2003 showed that viral load often peaked at day 10 after symptom onset. Thus, early detection and isolation of cases was strategic for infection control and provides the window of opportunity for antiviral therapy to decrease the peak viral load. The positive viral culture indicates that saliva contains live viruses that may allow transmission. Respiratory viruses are considered to be transmitted from person to person through direct or indirect contact, or via coarse or fine droplets. Saliva can be emitted through cough, and respiratory droplets containing influenza virus can be found even during normal breathing [11] . Therefore, 2019-nCoV may be transmitted via saliva directly or indirectly even among patients without coughing or other respiratory symptoms. Our findings reinforce the use of surgical masks as a control measure. SARS-CoV has been shown to infect epithelial cells in salivary gland ducts in rhesus macaques [12] . The presence of 2019-nCoV in patients' saliva suggests the possibility of salivary gland infection. However, it should be noted that saliva specimens not only contain saliva secreted from major or minor salivary glands but also contain secretions coming down from the nasopharynx or coming up from the lung via the action of cilia lining the airway. Further studies are required to delineate the sources of 2019-nCoV in saliva.",
+            "cite_spans": [
+                {
+                    "start": 1101,
+                    "end": 1105,
+                    "text": "[11]",
+                    "ref_id": "BIBREF10"
+                },
+                {
+                    "start": 1415,
+                    "end": 1419,
+                    "text": "[12]",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Our results have demonstrated the potential for saliva to be a noninvasive specimen type for the diagnosis and viral load monitoring of 2019-nCoV. Because saliva can be provided by patients without any invasive procedures, the use of saliva specimens will reduce the risk of nosocomial transmission of 2019-nCoV and is ideal for situations in which nasopharyngeal specimen collection may be contraindicated.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Coronavirus as a possible cause of severe acute respiratory syndrome",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Peiris",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Lai",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Poon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "SARS Study Group",
+            "volume": "361",
+            "issn": "",
+            "pages": "1319--1344",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kok",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Lancet",
+            "volume": "",
+            "issn": "20",
+            "pages": "30154--30163",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Clinical features of patients infected with 2019 novel coronavirus in Wuhan",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "China. Lancet",
+            "volume": "",
+            "issn": "20",
+            "pages": "30183--30188",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Genomic characterization of the 2019 novel human-pathogenic coronavirus isolated from a patient with atypical pneumonia after visiting Wuhan",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Kok",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "Emerg Microbes Infect",
+            "volume": "9",
+            "issn": "",
+            "pages": "221--257",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Additional molecular testing of saliva specimens improves the detection of respiratory viruses",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "To",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Yip",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Emerg Microbes Infect",
+            "volume": "6",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Saliva as a diagnostic specimen for testing respiratory virus by a point-of-care molecular assay: a diagnostic validity study",
+            "authors": [
+                {
+                    "first": "Kkw",
+                    "middle": [],
+                    "last": "To",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ccy",
+                    "middle": [],
+                    "last": "Yip",
+                    "suffix": ""
+                },
+                {
+                    "first": "Cyw",
+                    "middle": [],
+                    "last": "Lai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Clin Microbiol Infect",
+            "volume": "25",
+            "issn": "",
+            "pages": "372--380",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Respiratory virus infection among hospitalized adult patients with or without clinically apparent respiratory infection: a prospective cohort study",
+            "authors": [
+                {
+                    "first": "Kkw",
+                    "middle": [],
+                    "last": "To",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Chan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Ho",
+                    "suffix": ""
+                }
+            ],
+            "year": 2019,
+            "venue": "Clin Microbiol Infect",
+            "volume": "25",
+            "issn": "",
+            "pages": "1539--1584",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Detection of SARS-associated coronavirus in throat wash and saliva in early diagnosis",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "I",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2004,
+            "venue": "Emerg Infect Dis",
+            "volume": "10",
+            "issn": "",
+            "pages": "1213--1222",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Severe respiratory disease associated with a novel infectious agent-letters to doctors",
+            "authors": [],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Wuhan reports first doctor death from coronavirus",
+            "authors": [
+                {
+                    "first": "China",
+                    "middle": [],
+                    "last": "Daily",
+                    "suffix": ""
+                }
+            ],
+            "year": 2020,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "EMIT Consortium. Infectious virus in exhaled breath of symptomatic seasonal influenza cases from a college community",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Grantham",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Pantelic",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Proc Natl Acad Sci",
+            "volume": "115",
+            "issn": "",
+            "pages": "1081--1087",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Epithelial cells lining salivary gland ducts are early target cells of severe acute respiratory syndrome coronavirus infection in the upper respiratory tracts of rhesus macaques",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Wei",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Alvarez",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J Virol",
+            "volume": "85",
+            "issn": "",
+            "pages": "4025--4055",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": "Saliva viral load in patients with 2019 novel coronavirus infection. For this figure, specimens with undetected viral load were assigned a value of 10 1 .",
+            "latex": null,
+            "type": "figure"
+        }
+    },
+    "back_matter": []
+}

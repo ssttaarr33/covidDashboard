@@ -1,0 +1,262 @@
+{
+    "paper_id": "00a00d0edc750db4a0c299dd1ec0c6871f5a4f24",
+    "metadata": {
+        "title": "",
+        "authors": []
+    },
+    "abstract": [],
+    "body_text": [
+        {
+            "text": "This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/bync/4.0/) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Editorial"
+        },
+        {
+            "text": "The Middle East Respiratory Syndrome (MERS) crisis in Korea is coming to an end, but that's not the end of the story. The World Health Organization (WHO) has warned that the MERS crisis was a 'wakeup call. ' Like Severe Acute Respiratory Syndrome (SARS) in 2003 and swine flu in 2009, epidemic outbreaks will continue to happen anywhere. Korea was simply unlucky. In retrospect, it is regrettable to say that we could have done much better. Scholars and colleagues in the medical informatics field should take a moment and think hard about how we can work to fight against another epidemic invasion in the future.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "\u24d2 2015 The Korean Society of Medical Informatics"
+        },
+        {
+            "text": "The Ebola epidemic of 2013 is the largest such outbreak on record, influencing many nations in Africa as well as other countries [1] . The WHO expert panel has pointed out the inadequate emergency care response and has recommended more effective mechanisms for research and development. Others have strongly recommended WHO to innovate because recent Ebola outbreaks have been radically different from previous events, and they have tended to be simultaneous and parallel: \"Highly mobile populations, the spread of Ebola into densely populated cities ... made this epidemic of many outbreaks difficult to control [2] . \"",
+            "cite_spans": [
+                {
+                    "start": 129,
+                    "end": 132,
+                    "text": "[1]",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 613,
+                    "end": 616,
+                    "text": "[2]",
+                    "ref_id": "BIBREF1"
+                }
+            ],
+            "ref_spans": [],
+            "section": "\u24d2 2015 The Korean Society of Medical Informatics"
+        },
+        {
+            "text": "Other criticisms also include outdated therapeutic protocols, irrelevant information, untimely communication, delays in decision-making due to uncoordinated leadership, unreasonable social behavior, and so on. The recom- tems. The NEDSS can be called a medical informatics leader, which provides a standardized information infrastructure with HL7, LOINC, and SNOMED-CT. Highly useful information is well organized and ready to be used in the US-CDC [6] , so we don't have to reinvent the wheel. All we need is to find a conduit for connection. For example, the task of disease surveillance for MERS is relatively small compared to NEDSS. Using the cell phone data network, we can instantly establish a real-time patient tracking system to monitor 3-tuple data (time, location, temperature) in the country. Cell phone rental can help track down suspicious foreign visitors from arrival to departure. With the support of ISO standards, global healthcare networking is not a hard nut to crack.",
+            "cite_spans": [
+                {
+                    "start": 449,
+                    "end": 452,
+                    "text": "[6]",
+                    "ref_id": "BIBREF8"
+                }
+            ],
+            "ref_spans": [],
+            "section": "\u24d2 2015 The Korean Society of Medical Informatics"
+        },
+        {
+            "text": "When the MERS epidemic outbreak was on the headline news, many attempts were made to compare MERS with tuberculosis. That is, the mortality rate of MERS is far below that of tuberculosis, so it was argued that there was no need to worry about it. The point was clear, but the timing was not right. Have you ever got a thorn stuck under your fingernail? Saying that \"It's OK you're not bleeding\" or \"You won't die from it\" would not comfort anybody at all. I would venture to say that it is surely mistaken to compare the pain at present with a probable outcome yet to happen.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "What Digital Systems Should Do for Medicine"
+        },
+        {
+            "text": "When hospital visitors became MERS patients, a typical example of nosocomial infection was demonstrated. It was a surprise attack, and the whole country was shaken and panicked. The WHO experts reminded us that hospital shopping greatly contributed to the rapid spread of MERS in Korea. We have to understand why patients pursue hospital shopping. The death of professionalism may be an unexpected result of the fashionable social network services (SNS). Patients use SNSs to data-mine their own diagnosis and prescription and then seek medical advice to compare with their own ideas about their personal health. However, such patients suggesting their own diagnoses and treatments can be described as \"Jack of all trades, master of none\". Medical informatics leadership was nowhere to be found. When the MERS epidemic turned fatal, SNS was the only rescue. MERS was unknown to the general public, and the cure was uncertain, so chaos was bound to happen.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "What Digital Systems Should Do for Medicine"
+        },
+        {
+            "text": "In Korea medical informatics is on trial. We are standing in front of a river that runs medicine. IT has been trying to cross the river but has never been successful, especially in medical expert systems. The other side of the river is not the land of promise. Because the river of medicine eventu-ally runs into the ocean of the human race, why don't we go with the river instead? There is no doubt that doctors and nurses were the final frontiers in the MERS battle. Despite all the wonderful scientific accomplishments, the MERS crisis reminds us that clinical expertise is the most important value as clearly as ever. Technology can help medicine, not the other way around; that is the way medical informatics should go in between.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "What Digital Systems Should Do for Medicine"
+        },
+        {
+            "text": "Taoism states that dynamic balance can be obtained from two opposite powers competing with each other, unifying as a complete energy. Similarly, medical informatics should be able to balance between analog medicine and digital technology to create a new value. Medicine is composed of oldfashioned values, such as rapport, which is fading out slowly. Digital technology should help clinicians restore the humanistic flavor of medicine by eliminating managerial overload in healthcare settings. Technology can start from there. Neither Cyclops (the single-eyed monster in Homer's Odyssey) nor Argus (the 100-eyed giant in Greek mythology) is ideal to find the right path. Two-eyed medical informaticians must walk through the path on the mountain ridge, carefully looking at both sides of IT and medicine for balance.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "What Digital Systems Should Do for Medicine"
+        },
+        {
+            "text": "In 1347, the first biological warfare took place in the siege of Caffa (now Feodosia in Ukraine) on the Black Sea coast. The Mongol army with bubonic plague catapulted corpse of those who had died from the Black Death over the city walls. Fleeing from central trading ports along the coast, infected inhabitants and rats may have carried the disease throughout Europe [7] (The plague might have killed more than 25 million people). A few regions survived. They simply closed their ports of entry and isolated patients in remote places. The same principle still applies. When in doubt, isolate an infection until it's clear. Time goes by, technology advances, but the basic principle never changes. Medicine should stay analog with a little hint of digital. That's all it takes to fight against any epidemic or pandemic attack in the future.",
+            "cite_spans": [
+                {
+                    "start": 368,
+                    "end": 371,
+                    "text": "[7]",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "What Digital Systems Should Do for Medicine"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Report of the Ebola Interim Assessment Panel",
+            "authors": [],
+            "year": 2015,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "What we've learned about fighting Ebola",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Dhillon",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Srikrishna",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "Harvard Business Review; c2015",
+            "authors": [
+                {
+                    "first": "(",
+                    "middle": [],
+                    "last": "Boston",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Ma)",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "The next epidemic: lessons from Ebola",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Gates",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "N Engl J Med",
+            "volume": "372",
+            "issn": "15",
+            "pages": "1381--1385",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "US Centers for Disease Control and Prevention. National Notifiable Diseases Surveillance System (NNDSS)",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Centers for Disease Control and Prevention; c2015",
+            "authors": [],
+            "year": 2015,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Digital disease detection: harnessing the Web for public health surveillance",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Brownstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Freifeld",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "C"
+                    ],
+                    "last": "Madoff",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "N Engl J Med",
+            "volume": "360",
+            "issn": "21",
+            "pages": "2153--2160",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "History of biological warfare and bioterrorism",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Barras",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Greub",
+                    "suffix": ""
+                }
+            ],
+            "year": 2014,
+            "venue": "Clin Microbiol Infect",
+            "volume": "20",
+            "issn": "6",
+            "pages": "497--502",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "TABREF0": {
+            "text": "Hune Cho http://dx.doi.org/10.4258/hir.2015.21.3.141",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": []
+}

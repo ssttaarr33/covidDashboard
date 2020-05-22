@@ -1,0 +1,2015 @@
+{
+    "paper_id": "0a1b57b58a4f85beb910c49de95a52fd2b15096e",
+    "metadata": {
+        "title": "Response to the first wave of pandemic (H1N1) 2009: Experiences and lessons learnt from China",
+        "authors": [
+            {
+                "first": "W",
+                "middle": [],
+                "last": "Liang",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Ministry of Health",
+                    "location": {
+                        "settlement": "Beijing",
+                        "country": "People's Republic of China, China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "L",
+                "middle": [],
+                "last": "Feng",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "C",
+                "middle": [],
+                "last": "Xu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "N",
+                "middle": [],
+                "last": "Xiang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Y",
+                "middle": [],
+                "last": "Zhang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Y",
+                "middle": [],
+                "last": "Shu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "H",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "H",
+                "middle": [],
+                "last": "Luo",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "H",
+                "middle": [],
+                "last": "Yu",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "X",
+                "middle": [],
+                "last": "Liang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "D",
+                "middle": [],
+                "last": "Li",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "C.-K",
+                "middle": [],
+                "last": "Lee",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Z",
+                "middle": [],
+                "last": "Feng",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Y",
+                "middle": [],
+                "last": "Hou",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Y",
+                "middle": [],
+                "last": "Wang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            },
+            {
+                "first": "Z",
+                "middle": [],
+                "last": "Chen",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Ministry of Health",
+                    "location": {
+                        "settlement": "Beijing",
+                        "country": "People's Republic of China, China"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "W",
+                "middle": [],
+                "last": "Yang",
+                "suffix": "",
+                "affiliation": {},
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "China Lessons s u m m a r y More than 2 years after the start of pandemic H1N1, the world is fortunate that the impact, to date, has been moderate. An evaluation of the global response to the first wave of the pandemic is still ongoing. The results of an analysis of the situation in China is presented in order to gain a better understanding of the episode; to summarize the experiences in preparedness, control and mitigation of the pandemic; and to identify issues for further consideration and investigation in order to improve the response to possible next waves of the pandemic. China's response shows how a huge challenge can be transformed into an opportunity, and may offer some valuable lessons to face another wave of the pandemic or other potential public health emergencies in the future, not only for China but also for the international community.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "2009 will be remembered as the year of pandemic influenza, the first of its kind in over 40 years. However, an evaluation of the global response to the first wave of the pandemic is still ongoing. This paper presents the results of an analysis of the situation in China in order to gain a better understanding of the episode; to summarize the experiences in preparedness, control and mitigation of the pandemic; and to identify issues for further consideration and investigation in order to improve the response to possible next waves of the pandemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Introduction"
+        },
+        {
+            "text": "Pandemic (H1N1) 2009 virus, which originated in swine, was first detected in North America in Spring 2009. 1, 2 In June, its widespread transmission led the World Health Organization (WHO) to declare pandemic influenza Phase 6 under the International Health Regulations (IHR) mechanism. 3 As of 6 August 2010, the global number of reported laboratoryconfirmed fatalities reached at least 18,449. 4 The actual fatality of the pandemic could be much higher, and pandemic (H1N1) 2009 affected a disproportionate number of children and young adults. 5, 6 The possible impact of such a pandemic on the public health system, particularly on that of developing countries, was a large concern at the onset of the outbreak. This was especially true for China, a country with 1.3 billion people. With limited stockpiles of antiviral drugs, the absence of a vaccine in China, and little pre-existing immunity to the new virus in the aged population compared with those in Western countries, 7e9 the situation could have been devastating. Moreover, some Western provinces and many rural areas of the country have insufficient health facilities and therefore lack the optimal capacity to respond to the new virus.",
+            "cite_spans": [
+                {
+                    "start": 107,
+                    "end": 109,
+                    "text": "1,",
+                    "ref_id": "BIBREF0"
+                },
+                {
+                    "start": 110,
+                    "end": 111,
+                    "text": "2",
+                    "ref_id": "BIBREF1"
+                },
+                {
+                    "start": 287,
+                    "end": 288,
+                    "text": "3",
+                    "ref_id": "BIBREF2"
+                },
+                {
+                    "start": 396,
+                    "end": 397,
+                    "text": "4",
+                    "ref_id": "BIBREF3"
+                },
+                {
+                    "start": 546,
+                    "end": 548,
+                    "text": "5,",
+                    "ref_id": "BIBREF4"
+                },
+                {
+                    "start": 549,
+                    "end": 550,
+                    "text": "6",
+                    "ref_id": "BIBREF5"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Pandemic (H1N1) 2009 as a public health event of global impact viewed by China"
+        },
+        {
+            "text": "On the other hand, the response to the evolving pandemic was also an opportunity for China. The nation that experienced severe acute respiratory syndrome (SARS) in 2003 will never drop its guard against emerging infectious diseases. Since then, there has been substantial progress in the construction of a national public health system and hospitals for infectious diseases. 10 The web-based direct disease reporting system which allowed the Ministry of Health (MOH) to get information on public health emergencies directly from grassroots-level health professionals may be considered as a demonstration of an enhanced surveillance system. In addition, when the first human case of avian influenza was reported in 2005, 11 the influenza surveillance system was expanded to include 197 sentinel hospitals and 63 public health laboratories in all provinces. These efforts in recent years have laid an important foundation for the country to weather the current pandemic.",
+            "cite_spans": [
+                {
+                    "start": 375,
+                    "end": 377,
+                    "text": "10",
+                    "ref_id": "BIBREF9"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Pandemic (H1N1) 2009 as a public health event of global impact viewed by China"
+        },
+        {
+            "text": "Shortly after China learned about the H1N1 influenza outbreak in North America, the first step was to establish a command and control mechanism, the National Response Planning Committee (NRPC), with leadership at the highest levels (Table 1) . Under the direction of the State Council, the NRPC was led by the MOH, with the involvement of 33 different ministries. Eight task forces were formed to oversee all prevention and response strategies for the emerging pandemic. These types of intersectoral collaboration were also mirrored at provincial and local levels. Importantly, a special scientific advisory committee (SAC) was set up to provide technical support for evidence-based policy-making. In answering the call of the MOH, scientists from the Chinese Center for Disease Control and Prevention (Chinese CDC) succeeded in establishing real-time polymerase chain reaction (PCR)-based diagnostic kits within 72 h of the genetic sequence being provided by the US Centers of Disease Control and Prevention.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 232,
+                    "end": 241,
+                    "text": "(Table 1)",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "Initial public health response in China"
+        },
+        {
+            "text": "The second major step was containment. China's initial approach to the new virus differed from that of North America, as the Chinese Government sought to limit importation and to prevent influenza from spreading too quickly beyond the initial cases. In late April, H1N1 was categorized as a notifiable and quarantinable disease. Subsequently, controls and entry screening were tightened at national borders. The first confirmed case (a traveller from North America returning to Sichuan province) was reported on 11 May 2009. 12 All close contacts of that case on the same flight were immediately informed and put under medical observation for 7 days. The same approach was taken for other 'imported' cases, although this meant a huge amount of work at certain cost. All suspected cases were admitted to designated hospitals for respiratory isolation and laboratory confirmation.",
+            "cite_spans": [
+                {
+                    "start": 525,
+                    "end": 527,
+                    "text": "12",
+                    "ref_id": "BIBREF11"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Initial public health response in China"
+        },
+        {
+            "text": "According to Chinese law on the prevention and treatment of infectious diseases, cases and contacts of H1N1 were obliged to follow quarantine and medical measures. However, there were difficulties in persuading cases and close contacts to comply with the quarantine policy due to their lack of understanding of the rationale. This was overcome by communication and health education campaigns.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Initial public health response in China"
+        },
+        {
+            "text": "The pandemic had a slow start in China. Between 30 April and 23 August 2009, more than 56 million individuals were scanned at border entries, 17,909 febrile patients were identified and 757 (4.2%) were subsequently confirmed. 13 Among the 9938 close contacts under medical observation, 551 (5.5%) were confirmed to have acquired the H1N1 infection. Such large-scale implementation of strong measures was supported by technological advances, including the distribution of PCR diagnostic kits to all public health and port-of-entry laboratory networks in early May. Beijing's experiences of these containment strategies were also shown to detect the H1N1 cases efficiently, with a considerable usage of resources. 14 The absence of large clusters until early June also suggests that the system succeeded in preventing sustained chains of transmission from the initial imported cases and in delaying the spread of the pandemic. The first 'local' cluster of 50 confirmed and 69 suspected cases without any clear links to international travel was reported in Guangdong province on 18 June, 38 days after the detection of the first 'imported' case. 15 A discussion was organized by the SAC on a possible adjustment of the control strategy. Given that the 'local' transmission was still quite limited and the schools in China would soon start the summer break, the SAC suggested that the containment strategy should be continued until July, which would significantly reduce the speed and scale of community outbreak. This suggestion was endorsed by the MOH and then at the level of the NRPC. To support this decision, the Ministry of Education decided to start the summer break at the beginning of July, approximately 10 days ahead of the usual schedule, and asked schools to cancel all unnecessary group activities during the summer holidays. This decision, together with the public health campaign at the community and public transport level, might allow China to experience 2 additional months of low pandemic activity. From May to August, a total number of 3779 cases were reported in China, and 885 were 'imported' cases ( Fig. 1 ). Mathematical modelling estimated that a reduction of 93% of new cases was achieved by the containment strategy during the first 90 days. 16 Thus, by delaying the inevitable acceleration of the pandemic until autumn, containment efforts were considered to win more time for other measures and preparations, such as improving the surveillance system, training health professionals for diagnosis and treatment of pandemic patients (especially in the low-income western provinces), and developing and licensing antiviral medicines and vaccines.",
+            "cite_spans": [
+                {
+                    "start": 226,
+                    "end": 228,
+                    "text": "13",
+                    "ref_id": "BIBREF12"
+                },
+                {
+                    "start": 712,
+                    "end": 714,
+                    "text": "14",
+                    "ref_id": "BIBREF13"
+                },
+                {
+                    "start": 1143,
+                    "end": 1145,
+                    "text": "15",
+                    "ref_id": "BIBREF14"
+                },
+                {
+                    "start": 2268,
+                    "end": 2270,
+                    "text": "16",
+                    "ref_id": "BIBREF15"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 2121,
+                    "end": 2127,
+                    "text": "Fig. 1",
+                    "ref_id": "FIGREF1"
+                }
+            ],
+            "section": "Initial public health response in China"
+        },
+        {
+            "text": "Direct financial expenditure of 5 billion Yuan (732 million US$ at 2009 exchange rates) by central government plus provincial funding were earmarked for the H1N1 response, including 660 million Yuan (96.6 million US$) for quarantine and early containment. 17 The huge financial and socio-economic (the negative impact on the domestic pork industry as well as tourism and international trade) costs of China's tough measures will have to be evaluated formally to see their cost-effectiveness. Additional factors, such as the summer heat and the fact that most schools were out of session at the time, need to be considered when evaluating the effectiveness of the actions.",
+            "cite_spans": [
+                {
+                    "start": 256,
+                    "end": 258,
+                    "text": "17",
+                    "ref_id": "BIBREF16"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Initial public health response in China"
+        },
+        {
+            "text": "In early July, several clusters of H1N1 cases of significant size were reported in the south-east provinces, which have a high volume of international travel. As the virus continued to spread, the containment strategy became too resourceintensive and costly to maintain. Meanwhile, a large body of clinical data from China and abroad showed that most H1N1 cases were mild. The NRPC thus shifted its strategy from containment to mitigation, with an emphasis on reducing the pandemic impact. On 10 July, the Government removed H1N1 from its list of quarantinable diseases. Accordingly, on 30th September, the MOH decided on a major policy change in disease reporting: case-based surveillance of all H1N1 cases was replaced by sentinel surveillance of patients with influenza-like-illness (ILI), event-based surveillance of clusters of ILI, and case-based surveillance of laboratoryconfirmed hospitalized cases.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "From containment to mitigation"
+        },
+        {
+            "text": "More importantly, with the expansion of the sentinel surveillance system to 556 sentinel hospitals and 411 virology laboratories across the country, the number of people with ILI who sought treatment was closely monitored and provided an essential indicator of pandemic activity. As shown in Fig. 2 , viral transmission accelerated in the autumn, after the school term started in September and the National Day holidays in early October when many Chinese nationals travelled back to their hometowns. Also, there was a dramatic change with regard to the percentage of pandemic H1N1 strains isolated from ILI cases. Meanwhile, reports of school outbreaks gradually spread from the coastal cities to the rural areas and western provinces after October. Class or school closure measures were conducted in those schools with interrupted teaching activities due to large number of cases of H1N1 infection.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 292,
+                    "end": 298,
+                    "text": "Fig. 2",
+                    "ref_id": null
+                }
+            ],
+            "section": "From containment to mitigation"
+        },
+        {
+            "text": "Clinical treatment in the healthcare system, with enhanced surge capacity, is one of the most important responses to mitigate the pandemic's impact. In the containment phase, limited numbers of imported cases were detected. In the hope of slowing the spread of disease, all patients with confirmed infection e despite the fact that the majority had mild illness e were treated in the designated hospitals. 18, 19 Antivirals were distributed into the designated hospitals from the national and local stockpiles, and were used to treat the confirmed or clinically diagnosed H1N1 cases. Antivirals were also provided to high-risk close contacts, including pregnant women, persons with severe chronic medical conditions, children aged <5 years, elderly people aged 65 years, and healthcare workers. During the initial 2 months, 82.3% of confirmed H1N1 mild cases were administered oseltamivir (72.4% within 48 h of the onset of illness). 18 Since July, when the mitigation phase started, China focused on managing and treating patients with severe illness (Table 2) . Antiviral production and distribution were accelerated to prepare for the pandemic's peak. Patients were treated in designated hospitals to make optimal use of healthcare resources. Antivirals were recommended to those with severe or high-risk infections. 20 Other innovative treatments, such as Chinese traditional medicine and antiserum therapy, were also introduced. The use of Chinese traditional medicine treatment was recommended in the Chinese guidelines for the treatment of H1N1. In a prospective multicentre clinical trial leaded by Chen Wang and Bin Cao, the efficacy and safety of a Chinese traditional therapy, Maxing-shiganeYinqiaosan, in the treatment of H1N1 was evaluated in 2009. The results showed that the Chinese herb mixture reduced fever as well as oseltamivir in mild cases of H1N1. 21 In addition, the Chinese Government strengthened the treatment capacity of low-income provinces through additional investments in medical facilities and stockpiles.",
+            "cite_spans": [
+                {
+                    "start": 406,
+                    "end": 409,
+                    "text": "18,",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 410,
+                    "end": 412,
+                    "text": "19",
+                    "ref_id": "BIBREF18"
+                },
+                {
+                    "start": 934,
+                    "end": 936,
+                    "text": "18",
+                    "ref_id": "BIBREF17"
+                },
+                {
+                    "start": 1320,
+                    "end": 1322,
+                    "text": "20",
+                    "ref_id": "BIBREF19"
+                },
+                {
+                    "start": 1871,
+                    "end": 1873,
+                    "text": "21",
+                    "ref_id": "BIBREF20"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 1052,
+                    "end": 1061,
+                    "text": "(Table 2)",
+                    "ref_id": "TABREF1"
+                }
+            ],
+            "section": "Treatment and healthcare response"
+        },
+        {
+            "text": "With extensive H1N1 infections, there was a sharp increase in the number of people presenting to the health services. Outpatient attendance peaked in OctobereNovember 2009, and the outpatient and emergency services of the healthcare system was overwhelmed, especially in many major cities in the northern provinces (Fig. 3 ). To cope with the increased demand for emergency and critical care services, the MOH mobilized surge capacity by training doctors in H1N1 treatment, increasing the number of designated hospitals and back-up hospitals, triaging and prioritizing services to manage the surge in case numbers, and establishing counterpart support mechanisms between provinces and hospitals. These responses optimized treatment with limited resources, and played a key role in decreasing the number of deaths caused by H1N1 infection. (23) p u b l i c h e a l t h 1 2 6 ( 2 0 1 2 ) 4 2 7 e4 3 6",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 315,
+                    "end": 322,
+                    "text": "(Fig. 3",
+                    "ref_id": null
+                }
+            ],
+            "section": "Treatment and healthcare response"
+        },
+        {
+            "text": "While treatment is crucial in the fight against H1N1, the most potent countermeasure is vaccination. The rapid development and deployment of the H1N1 vaccine represents a major achievement in China's response. However, the initial situation for China was far from satisfactory. Only one Chinese vaccine company, Sinovac in Beijing, China, acquired a licence to produce 'pre-pandemic' vaccine for H5N1 in 2008, 22 Before 1 October 2009, her 60th National Day, China became the first nation to begin mass-vaccinating highpriority groups. 26, 27 The timing was critical since national celebration ceremonies were planned. The vaccination campaign offered vaccines free of charge for all recipients and was voluntary. The campaign was first started among doctors, nurses, border staff and 200,000 performers taking part in the official celebrations. Subsequently, the campaign was extended to the priority population according to the MOH guideline for vaccination against pandemic H1N1. The priority group included healthcare workers, frontline public servants, schoolchildren and people with chronic diseases, particularly in the badly affected regions. When the vaccine became more abundant, the campaign was extended to any interested persons aged 3 years old. 27 On 11 December 2009 and 7 January 2010, the vaccination campaign was extended to pregnant women and children aged 6e35 months. Children aged 6e35 months were eligible for two doses of the vaccine, each with 7.5 mg of haemaglutinin. Vaccination was offered at the routine childhood immunization sites and also at the provisional sites for mass vaccination. All vaccine recipients or their guardians provided written informed consent and completed a brief medical history to identify persons at higher risk or with contraindications. 28 Pandemic vaccine production and inoculation may not only have prevented millions of people from getting H1N1 infection and protected those highrisk vaccinees from severe complications or death, but also contributed to social stability and prevention of public panic to a degree. In Beijing, 72% of schoolchildren, 60% of healthcare workers and other high-risk groups were immunized as of March 2010, and the high vaccine effectiveness of 87% in school-age children 28 showed that mass vaccination formed an immune barrier in the Beijing population and lessened school outbreaks.",
+            "cite_spans": [
+                {
+                    "start": 410,
+                    "end": 412,
+                    "text": "22",
+                    "ref_id": "BIBREF21"
+                },
+                {
+                    "start": 536,
+                    "end": 539,
+                    "text": "26,",
+                    "ref_id": "BIBREF25"
+                },
+                {
+                    "start": 540,
+                    "end": 542,
+                    "text": "27",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 1260,
+                    "end": 1262,
+                    "text": "27",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 1795,
+                    "end": 1797,
+                    "text": "28",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 2263,
+                    "end": 2265,
+                    "text": "28",
+                    "ref_id": "BIBREF27"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Vaccination"
+        },
+        {
+            "text": "Three information systems, arguably the largest worldwide, were established to support the campaign. They seek to monitor the vaccine supply and the condition of the vaccinees, especially those who reported adverse events following immunization (AEFI). By 14 April 2010, 151.5 million doses of vaccine had been released by SFDA, and 97.2 million people, representing 7.3% of the population, had been vaccinated against the H1N1 virus. 29 Through the AEFI surveillance system established for the H1N1 vaccination, the reported rate of suspected adverse events has been comparable to that of seasonal influenza. 27, 28 Given the health authorities' limited experience because of the low uptake rate of seasonal influenza vaccine (estimated at 2%), 30 this massive pandemic vaccination campaign, implemented in such a short time span, has proved to be highly successful. However, vaccination uptake was variable in different occupational groups. Cross-sectional surveys undertaken by the Chinese CDC showed that farmers had lower vaccination uptake compared with healthcare workers, students, teachers and office staff in urban areas. 31 Barriers to the uptake of the pandemic vaccine included concerns about the vaccine's side-effects and effectiveness in the general population and among healthcare workers, lack of knowledge about the national strategy, and scepticism of the necessity of vaccination, especially when the number of cases decreased during the later stages of the pandemic. 31,32",
+            "cite_spans": [
+                {
+                    "start": 435,
+                    "end": 437,
+                    "text": "29",
+                    "ref_id": "BIBREF28"
+                },
+                {
+                    "start": 610,
+                    "end": 613,
+                    "text": "27,",
+                    "ref_id": "BIBREF26"
+                },
+                {
+                    "start": 614,
+                    "end": 616,
+                    "text": "28",
+                    "ref_id": "BIBREF27"
+                },
+                {
+                    "start": 746,
+                    "end": 748,
+                    "text": "30",
+                    "ref_id": "BIBREF29"
+                },
+                {
+                    "start": 1132,
+                    "end": 1134,
+                    "text": "31",
+                    "ref_id": "BIBREF30"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Vaccination"
+        },
+        {
+            "text": "Throughout the pandemic, the Chinese health authority has regularly shared information through press conferences, press releases and regular updates on its official website. A hotline '12320' was introduced to respond to individual enquiries related to the pandemic. Health education campaigns touching on good hygiene practices and social distancing have been implemented in hospitals, schools, local communities and through mass media.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Risk communication and international cooperation"
+        },
+        {
+            "text": "Looking beyond national borders, China has also strengthened international collaboration. Of note, the task force for international collaboration helped a lot in further strengthening the working relationship with WHO and the public health authorities and institutions in many countries. MOH communicates on the latest developments with WHO through the IHR and with the Mexican Ministry of Health, US Centers for Disease Control and Prevention and European Centre for Disease Prevention and Control. All these institutions have communicated important scientific information to China, which greatly facilitated research into, and implementation of, control measures of the pandemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Risk communication and international cooperation"
+        },
+        {
+            "text": "China has actively participated in H1N1-related international meetings and conferences, and has hosted training and provided PCR diagnostic kits for the Asia-Pacific Economic Cooperation (APEC) countries. On 20e21 August 2009, a scientific symposium was organized by MOH with the support of WHO and The Lancet Infectious Diseases. The Chinese CDC took the opportunity to announce the safety and efficacy of the pandemic vaccine. 26 Result of the response and pandemic impact Strongly supported by the Government at all levels and the different circles of society, the Chinese public health and medical body made a great effort to fight against the first waves of pandemic. As of 21 March 2010, China had reported 127,533 laboratory-confirmed H1N1 cases, including 7511 severe or critical cases and 799 deaths (Fig. 4) . The focus group discussion conducted in five provinces in January 2010 also showed that clinical experts and epidemiologists at provincial and prefecture level believed that hospitalization and intensive care unit (ICU) admissions associated with respiratory infection did not surge particularly in Winter 2009.",
+            "cite_spans": [
+                {
+                    "start": 429,
+                    "end": 431,
+                    "text": "26",
+                    "ref_id": "BIBREF25"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 809,
+                    "end": 817,
+                    "text": "(Fig. 4)",
+                    "ref_id": "FIGREF4"
+                }
+            ],
+            "section": "Risk communication and international cooperation"
+        },
+        {
+            "text": "To estimate the extent of infection, a nationwide serological survey was conducted in January 2010 in 11 provinces among 50,111 residents including those who had received prior pandemic vaccination. The results showed that, in the first wave, 207.7 million individuals (15.9%) experienced H1N1 infection from May 2009. 33 These serological data supported the conclusion that most of these cases were mild and did not approach healthcare facilities.",
+            "cite_spans": [
+                {
+                    "start": 319,
+                    "end": 321,
+                    "text": "33",
+                    "ref_id": "BIBREF32"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Risk communication and international cooperation"
+        },
+        {
+            "text": "In terms of social impact, the public did not show excessive concern about pandemic influenza. The H1N1-related '12320' hotline calls peaked in OctobereNovember 2009, coinciding with the peak in reported H1N1 cases, and a period of widespread community transmission in China (Fig. 5) . Public attention on this issue has declined to the baseline in January 2010. Internet Google searches on keywords related to pandemic influenza showed a similar trend. A web-based survey conducted by China Youth Daily in December 2009 showed that 85.2% of the 19,345 interviewees were satisfied with China's response to the pandemic. 34 Unlike SARS, when gross domestic product (GDP) growth dropped (from 10% in Quarter 1 2003 to 6.3% in Quarter 2 2003 when SARS was widely reported), the pandemic has had very limited impact on China's growth. Even with the international financial crisis, GDP grew by 9.2% in 2009, compared with 9.6% in 2008. 35 Similarly, there were around 126 million incoming ",
+            "cite_spans": [
+                {
+                    "start": 620,
+                    "end": 622,
+                    "text": "34",
+                    "ref_id": "BIBREF33"
+                },
+                {
+                    "start": 931,
+                    "end": 933,
+                    "text": "35",
+                    "ref_id": "BIBREF34"
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 275,
+                    "end": 283,
+                    "text": "(Fig. 5)",
+                    "ref_id": "FIGREF6"
+                }
+            ],
+            "section": "Risk communication and international cooperation"
+        },
+        {
+            "text": "More than a year has passed, but pandemic influenza remains a challenge for every country. China's response shows how a huge challenge can be transformed into an opportunity, and may offer some valuable lessons not only for China but also for the international community. First, the country was able to act quickly and decisively thanks to the strong command and control structure established right from the beginning. It put in place a multisector coordination mechanism, clear chains of command and division of responsibilities to ensure an integrated approach that covered all potentially affected areas while avoiding duplication. To cope with challenges in coordinating between the 33 different ministries and improving intercommunication, information was shared through periodic meetings, videoconferences, regular reports and using web-based information systems. It is recommended that a similar mechanism should be defined in the updated National Influenza Pandemic Preparedness Plan.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Lessons learnt"
+        },
+        {
+            "text": "Second, science and technology played a key role in ensuring the effective control and mitigation of the pandemic and evidence-based decision making. The national influenza surveillance network was expanded and the laboratory testing of influenza and other respiratory viruses was strengthened. Rapid and cross-sectional serological investigations were also performed at different stages of the pandemic. These combined efforts provided a scientific basis for epidemiological evaluation, trend projection and adjustments in control and prevention measures. Third, advances were made in the treatment of cases through the use of traditional Chinese medicine and antiserum therapy. Vulnerable groups such as ethnic minorities and people in rural areas were ensured access to medical relief and social security systems.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Lessons learnt"
+        },
+        {
+            "text": "Fourth, China was among the first countries in the world that developed, tested and issued a licence for the pandemic vaccine. This was made possible through active government participation, multisectoral support and coordination by the scientific research units. To solve the bottleneck problem of lacking availability of WHO reference standards and challenges in shortening each process of vaccine development and approval, a 'Research and Development, Production Coordination and Linkage Mechanism on Pandemic H1N1 Vaccine' was established by the authorities and vaccine manufacturers in early June. An alternative method for viral antigen quantification was developed by the National Institutes for Food and Drug Control prior to the arrival of the WHO reference standards which enabled vaccine approval 1 month earlier, 23 and a fast-track for vaccine approval was opened by the SFDA. Free and voluntary immunization helped to protect those high-risk people, and to reduce social panic and potential disruption to the economy.",
+            "cite_spans": [
+                {
+                    "start": 825,
+                    "end": 827,
+                    "text": "23",
+                    "ref_id": "BIBREF22"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Lessons learnt"
+        },
+        {
+            "text": "The fifth lesson learnt is the importance of communication. Throughout the course of the pandemic, the MOH has provided the public with regular information on the latest developments and preventive measures. This has helped to prevent public panic and to promote personal protection against infection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Lessons learnt"
+        },
+        {
+            "text": "Sixth, the pandemic was a showcase for international cooperation during public health emergencies. China has contributed by sharing information in a timely manner, providing technical support to developing countries, and convening global expertise on the pandemic.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Lessons learnt"
+        },
+        {
+            "text": "In addition, under the framework of IHR, China benefited greatly from information sharing, technique and viral strains exchange, and core capacity building, especially in pandemic preparedness from WHO and other member states.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Lessons learnt"
+        },
+        {
+            "text": "For all its achievements on the domestic and international front, there is still room for China to improve its pandemic response.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Lessons learnt"
+        },
+        {
+            "text": "First, the national preparedness plan should be further developed to be more operational, not just for the current pandemic, but also for other potential public health emergencies. To this end, it would be useful to include scenarios based on the transmission ability of the pandemic, the virulence of the causing virus, and susceptibility among affected people.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Lessons learnt"
+        },
+        {
+            "text": "Second, epidemiological capacity including surveillance and research should be strengthened to conduct risk assessments and to inform decision making. A classification of the pandemic (or stages of a pandemic) based on risk assessment, geographical factors aside, would be useful for more rational mobilization and use of the limited human resources and supplies.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Lessons learnt"
+        },
+        {
+            "text": "Third, more and timely public communications and health education are needed, such as the need for vaccination of high-risk groups, and the safety and effectiveness of the pandemic vaccine. In addition, coverage of the seasonal influenza vaccine should be enhanced to increase the public's immunity and to build the domestic industry's capacity to produce influenza vaccines. Also, the capacity of vaccine and antiviral distribution should be enhanced, especially for timely access to remote regions.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Lessons learnt"
+        },
+        {
+            "text": "More than 2 years after the start of pandemic H1N1, the world is fortunate that the impact has been moderate. China has emerged from this test with valuable experiences, and is well positioned to face another wave of the pandemic or other potential public health emergencies in the future.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Lessons learnt"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "Swine influenza A (H1N1) infection in two children e Southern California, MarcheApril",
+            "authors": [],
+            "year": 2009,
+            "venue": "Centers for Disease Control and Prevention",
+            "volume": "58",
+            "issn": "",
+            "pages": "400--402",
+            "other_ids": {}
+        },
+        "BIBREF1": {
+            "ref_id": "b1",
+            "title": "Antigenic and genetic characteristics of swine-origin 2009 A(H1N1) influenza viruses circulating in humans",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Garten",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Davis",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Russell",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Shu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Lindstrom",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Balish",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Science",
+            "volume": "325",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF2": {
+            "ref_id": "b2",
+            "title": "World now at the start of 2009 influenza pandemic. Geneva: World Health Organization",
+            "authors": [],
+            "year": 2009,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Pandemic (H1N1) 2009dupdate 112. Geneva: World Health Organization",
+            "authors": [],
+            "year": 2010,
+            "venue": "World Health Organization",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Centers for Disease Control and Prevention. CDC estimates of 2009 H1N1 influenza cases, hospitalizations and deaths in the United States",
+            "authors": [],
+            "year": 2009,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Preliminary estimates of mortality and years of life lost associated with the 2009 A/H1N1 pandemic in the US and past influenza seasons",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Viboud",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [],
+                    "last": "Olson",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Osterholm",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Simonsen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "PLoS Curr",
+            "volume": "2",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF6": {
+            "ref_id": "b6",
+            "title": "Serologic survey of pandemic (H1N1) 2009 virus",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Dong",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Fan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Emerg Infect Dis",
+            "volume": "15",
+            "issn": "",
+            "pages": "1849--50",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Cross-reactive antibody responses to the 2009 pandemic H1N1 influenza virus",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hancock",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "Veguilla",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Zhong",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Butler",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Sun",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "N Engl J Med",
+            "volume": "361",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "Incidence of 2009 pandemic influenza A H1N1 infection in England: a cross-sectional serological study",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Miller",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [],
+                    "last": "Hoschler",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Hardelid",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Stanford",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Andrews",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Zambon",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Lancet",
+            "volume": "375",
+            "issn": "",
+            "pages": "1100--1108",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Emergence and control of infectious diseases in China",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jin",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Chin",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Koplan",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Lancet",
+            "volume": "372",
+            "issn": "",
+            "pages": "1598--605",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "The first confirmed human case of avian influenza A (H5N1) in Mainland China",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Shu",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Hu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Lancet",
+            "volume": "367",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF11": {
+            "ref_id": "b11",
+            "title": "Clinical and epidemiologic characteristics of 3 early cases of influenza A pandemic (H1N1) 2009 virus infection, People's Republic of China",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Shu",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Jiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Chen",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Emerg Infect Dis",
+            "volume": "15",
+            "issn": "",
+            "pages": "1418--1440",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "General Administration of Quality Supervision, Inspection and Quarantine of People's Republic of China. 757 confirmed cases with 2009 (H1N1) influenza infection were detected through border entry screening",
+            "authors": [],
+            "year": 2009,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "The characteristics of imported cases and the effectiveness of outbreak control strategies of pandemic influenza A (H1N1) in China",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Liyanage",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Seale",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Deng",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Pang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Asia Pac J Public Health",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "A primary school outbreak of pandemic 2009 influenza A (H1N1) in China",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Huai",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Varma",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Peng",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "He",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Cheng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Influenza Other Respi Virus",
+            "volume": "4",
+            "issn": "",
+            "pages": "259--66",
+            "other_ids": {}
+        },
+        "BIBREF15": {
+            "ref_id": "b15",
+            "title": "Pattern on the spread of novel influenza A (H1N1) and quantitative assessment of containment in mainland China",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Qian",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Zhong Hua Liu Xing Bing Xue Za Zhi",
+            "volume": "30",
+            "issn": "",
+            "pages": "1106--1116",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Chinese government earmarked 5 billion Yuan on H1N1 response",
+            "authors": [],
+            "year": 2009,
+            "venue": "Beijing: China News Service",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Clinical features of the initial cases of 2009 pandemic influenza A (H1N1) virus infection in China",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Mao",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Chen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "N Engl J Med",
+            "volume": "361",
+            "issn": "",
+            "pages": "2507--2524",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "Effectiveness of oseltamivir on disease progression and viral RNA shedding in patients with mild pandemic 2009 influenza A H1N1: opportunistic retrospective study of medical charts in China",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Liao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Xiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Huai",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "BMJ",
+            "volume": "341",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Risk factors for severe illness with 2009 pandemic influenza A (H1N1) virus infection in China",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Uyeki",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Liao",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Zhou",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Clin Infect Dis",
+            "volume": "52",
+            "issn": "",
+            "pages": "457--65",
+            "other_ids": {}
+        },
+        "BIBREF20": {
+            "ref_id": "b20",
+            "title": "Oseltamivir compared the Chinese traditional therapy MaxingshiganeYinqiaosan in the treatment of H1N1 influenza. A randomized trial",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "Cao",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "Q"
+                    ],
+                    "last": "Zou",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Gu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Ann Intern Med",
+            "volume": "155",
+            "issn": "",
+            "pages": "217--242",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "The 5th WHO meeting on evaluation of pandemic influenza prototype vaccines in clinical trials",
+            "authors": [],
+            "year": 2009,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Application of deglycosylation and electrophoresis to the quantification of influenza viral hemagglutinins facilitating the production of 2009 pandemic influenza (H1N1) vaccines at multiple manufacturing sites in China",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Shao",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Cui",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Song",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Yuan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Biologicals",
+            "volume": "38",
+            "issn": "",
+            "pages": "284--293",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "A novel influenza A (H1N1) vaccine in various age groups",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "N Engl J Med",
+            "volume": "361",
+            "issn": "",
+            "pages": "2414--2437",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Safety and immunogenicity of 2009 pandemic influenza A H1N1 vaccines in China: a multicentre, double-blind, randomised, placebocontrolled trial",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Fang",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Lancet",
+            "volume": "375",
+            "issn": "",
+            "pages": "56--66",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Swine flu outbreak. China first to vaccinate against novel H1N1 virus",
+            "authors": [
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Stone",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Science",
+            "volume": "325",
+            "issn": "",
+            "pages": "1482--1485",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Safety of influenza A (H1N1) vaccine in postmarketing surveillance in China",
+            "authors": [
+                {
+                    "first": "X",
+                    "middle": [
+                        "F"
+                    ],
+                    "last": "Liang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Li",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Zhu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "N Engl J Med",
+            "volume": "364",
+            "issn": "",
+            "pages": "638--685",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Safety and effectiveness of a 2009 H1N1 vaccine in Beijing",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Wu",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Lu",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Miao",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Gao",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "N Engl J Med",
+            "volume": "363",
+            "issn": "",
+            "pages": "2416--2439",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Briefing reports on pandemic (H1N1) 2009 influenza vaccination in China",
+            "authors": [],
+            "year": 2010,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF29": {
+            "ref_id": "b29",
+            "title": "Seasonal influenza vaccine supply and target vaccinated population in China",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Mounts",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Luo",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Feng",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Vaccine",
+            "volume": "28",
+            "issn": "",
+            "pages": "6778--82",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Knowledge, attitudes and practices (KAP) related to the pandemic (H1N1) 2009 among Chinese general population: a telephone survey",
+            "authors": [
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Lin",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Huang",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Nie",
+                    "suffix": ""
+                },
+                {
+                    "first": "Z",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Yan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "BMC Infect Dis",
+            "volume": "11",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Acceptance of a vaccine against pandemic influenza A (H1N1) virus amongst healthcare workers in Beijing, China",
+            "authors": [
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Seale",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Kaur",
+                    "suffix": ""
+                },
+                {
+                    "first": "Q",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Zhang",
+                    "suffix": ""
+                },
+                {
+                    "first": "X",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Vaccine",
+            "volume": "29",
+            "issn": "",
+            "pages": "1605--1615",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "The seroprevalence of pandemic influenza H1N1 (2009) virus in China",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [],
+                    "last": "Bai",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Iuliano",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Wang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Yang",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Wen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "PLoS One",
+            "volume": "6",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Over 80% of Chinese were satisfied with pandemic H1N1 influenza response",
+            "authors": [
+                {
+                    "first": "China Youth",
+                    "middle": [],
+                    "last": "Daily",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Statistical data by quarter. Beijing: National Bureau of Statistics of People's Republic of China",
+            "authors": [],
+            "year": 2010,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "National Tourism Administration of People's Republic of China. Summary of incomming travellers. Beijing: National Tourism Administration of People's Republic of China",
+            "authors": [],
+            "year": 2010,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF1": {
+            "text": "Epidemic curve of confirmed pandemic (H1N1) 2009 cases in China, May 2009e21 March 2010. (1) 11 May 2009: first imported case; (2) 18 June 2009: first school outbreak; (3) 8 July 2009: adjustment of the measures for prevention and control. Close contacts: medical observation in the home; mild cases: isolation and treatment in the home; (4) 10 Julye31 August 2009: school summer holidays; (5) 1e8 October 2009: National Day holidays; (6) 11e17 January 2010: influenza B virus became the predominant strain. (7) 14 February 2010: Chinese New Year.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Number and percentage of specimens positive for influenza reported from 411 network laboratories, June 2009Number of outpatient attendances for all causes in the surveillance departments of 197 influenza-like-illness (ILI) sentinel hospitals, 2006e2009. (A) Ninety-eight ILI sentinel hospitals in Northern China. (B) Ninety-nine ILI sentinel hospitals in Southern China.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "and all 10 vaccine companies capable of manufacturing influenza vaccines are of small-or medium-size. To solve the problem, the MOH decided in late MayeJune to (i) set up a close collaboration between the Chinese vaccine industry and WHO, as well as its reference laboratories involved in pandemic vaccine research and development; (ii) boost the capacity for pandemic H1N1 vaccine research, development, manufacture and quality control by standardizing and applying technical procedures to all the domestic companies; (iii) speed up vaccine preparation through research on the standards by local Chinese institutions, while waiting for standards for key viral antigen quantification from the WHO reference laboratories 23 ; (iv) organize one centralized clinical trial of the products from the 10 vaccine companies by the Chinese CDC; and (v) boost the capacity of the vaccine industry to provide vaccine coverage of at least 5% of China's population by the end of 2009. With all five objectives reached, on 22 July 2009, China launched a multicentre, double-blind, randomized, placebocontrolled trial in seven provinces, recruiting 12,691 people aged 3 years. Through this, one dose of non-adjuvant splitvirion vaccine containing 15 mg haemaglutinin was recommended as the formulation of choice against pandemic (H1N1) 2009 for adolescents and adults. 24,25 Soon after, on 23 August 2009, the State Food and Drug Administration of China (SFDA) approved the pandemic H1N1 vaccine.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "Spatial distribution of severe and death cases in mainland China, May 2009e21 March 2010. Numbers indicate number of severe cases and number of death cases, respectively.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF5": {
+            "text": "2009, compared with 130 million in 2008, the year of the Olympic Games in Beijing and before the global recession.36",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF6": {
+            "text": "'12320' public health hotline calls regarding to pandemic (H1N1) 2009 in China, May 2009e21 March 2010. (A) Nationwide. (B) Beijing and Shanghai.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Timeline of response to pandemic (H1N1) 2009 influenza in China.",
+            "latex": null,
+            "type": "table"
+        },
+        "TABREF1": {
+            "text": "Demographic characteristics of confirmed cases, hospitalized cases and deaths with pandemic (H1N1) 2009 in China, May 2009e21 March 2010.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "The authors wish to thank all the healthcare workers, epidemiological investigators and community members who contributed to clinical management and disease control of pandemic (H1N1) 2009 in China.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Acknowledgements"
+        },
+        {
+            "text": "None sought.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Ethical approval"
+        },
+        {
+            "text": "None declared.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Funding"
+        },
+        {
+            "text": "None declared.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Competing interests"
+        }
+    ]
+}

@@ -1,5 +1,13 @@
 version: 0.0
 os: linux
 files:
-  - source: ./covidDashboard-1.0-SNAPSHOT.jar
+  - source: ./demo-0.0.1-SNAPSHOT.jar
     destination: /srv
+  - source: ./start
+    destination: /srv
+Hooks:
+  AfterInstall:
+    - location: /srv/start
+      timeout: 60
+      runas: root
+

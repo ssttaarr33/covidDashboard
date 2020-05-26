@@ -16,9 +16,7 @@ import org.springframework.util.ResourceUtils;
 
 public class DataLoader {
 
-    List<String> exclusions = List.of("(", ")", "*", "+", ",", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9");
-
-    public void loadDataFromFile() throws IOException, ParseException {
+    public Map<String, Integer> loadDataFromFile() throws IOException, ParseException {
         List<JSONObject> jsonObjectList = new ArrayList<>();
         Map<String, Integer> words = new HashMap<String, Integer>();
         File[] listOfFiles = getResourceFolderFiles();
@@ -34,10 +32,9 @@ public class DataLoader {
         for (JSONObject obj : jsonObjectList) {
             extractDataFromBody((List) obj.get("body_text"), words);
         }
-        System.out.println(words.size());
         removeSeveralStuff(words);
-        System.out.println(words.size());
 
+        return words;
     }
 
     private void extractDataFromBody(List<JSONObject> bodyLines, Map<String, Integer> words) {
@@ -68,7 +65,7 @@ public class DataLoader {
         // remove quadruple numeric
         words.keySet().removeIf(key -> key.matches("^[0-9]{4}$"));
         // remove single occurences
-        words.values().removeIf(value -> value == 1);
+        words.values().removeIf(value -> value < 30);
         // remove stopwords
         for(String stopWord : Stopwords.stopWordsofwordnet){
             words.keySet().removeIf(key -> stopWord.contains(key));

@@ -5,6 +5,7 @@ import java.util.Map;
 
 import com.example.demo.model.RestResponse;
 import com.example.demo.service.DataService;
+import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -19,15 +20,16 @@ import io.swagger.annotations.ApiOperation;
 import static org.springframework.http.MediaType.APPLICATION_JSON_VALUE;
 
 @Slf4j
+@AllArgsConstructor
 @RestController
-@RequestMapping(path = "/data-api", produces = APPLICATION_JSON_VALUE)
+@RequestMapping(path = "${app.endpoint.api}", produces = APPLICATION_JSON_VALUE)
 public class DataController {
 
     @Autowired
-    DataService dataService;
+    private final DataService dataService;
 
     @CrossOrigin(origins = "http://localhost:4200")
-    @GetMapping(value = "/dashboard")
+    @GetMapping("${app.endpoint.uploadFiles}")
     @ResponseStatus(HttpStatus.OK)
     @ApiOperation("Get data for dashboard")
     public RestResponse<Map<String, Integer>> getBonusState() {

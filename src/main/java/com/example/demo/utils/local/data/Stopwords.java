@@ -1,4 +1,4 @@
-package com.example.demo.utils;
+package com.example.demo.utils.local.data;
 
 public class Stopwords {
     public static String[] stopWordsofwordnet = {

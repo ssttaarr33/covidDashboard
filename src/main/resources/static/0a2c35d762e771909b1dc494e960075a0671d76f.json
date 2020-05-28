@@ -1,0 +1,2875 @@
+{
+    "paper_id": "0a2c35d762e771909b1dc494e960075a0671d76f",
+    "metadata": {
+        "title": "Clinical Infectious Diseases Vancomycin Monotherapy May Be Insufficient to Treat Methicillin-resistant Staphylococcus aureus Coinfection in Children With Influenza-related Critical Illness ; for the Pediatric Intensive Care Influenza Investigators from the Pediatric Acute Lung Injury and Sepsis Investigator's Network",
+        "authors": [
+            {
+                "first": "Adrienne",
+                "middle": [
+                    "G"
+                ],
+                "last": "Randolph",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Boston Children's Hospital",
+                    "location": {}
+                },
+                "email": ""
+            },
+            {
+                "first": "Ruifei",
+                "middle": [],
+                "last": "Xu",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Boston Children's Hospital",
+                    "location": {}
+                },
+                "email": ""
+            },
+            {
+                "first": "Tanya",
+                "middle": [],
+                "last": "Novak",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Boston Children's Hospital",
+                    "location": {}
+                },
+                "email": ""
+            },
+            {
+                "first": "Margaret",
+                "middle": [
+                    "M"
+                ],
+                "last": "Newhams",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Boston Children's Hospital",
+                    "location": {}
+                },
+                "email": ""
+            },
+            {
+                "first": "Juliane",
+                "middle": [
+                    "Bubeck"
+                ],
+                "last": "Wardenburg",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "St. Louis Children's Hospital",
+                    "location": {
+                        "region": "Missouri"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Scott",
+                "middle": [
+                    "L"
+                ],
+                "last": "Weiss",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Children's Hospital of Philadelphia",
+                    "location": {
+                        "settlement": "Pennsylvania"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Ronald",
+                "middle": [
+                    "C"
+                ],
+                "last": "Sanders",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Arkansas Children's Hospital",
+                    "location": {
+                        "settlement": "Little Rock"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Neal",
+                "middle": [
+                    "J"
+                ],
+                "last": "Thomas",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Penn State Hershey Children's Hospital",
+                    "location": {
+                        "region": "Pennsylvania"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Mark",
+                "middle": [
+                    "W"
+                ],
+                "last": "Hall",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Nationwide Children's Hospital",
+                    "location": {
+                        "settlement": "Columbus",
+                        "region": "Ohio"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Keiko",
+                "middle": [
+                    "M"
+                ],
+                "last": "Tarquinio",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Emory University School of Medicine",
+                    "location": {
+                        "country": "Georgia"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Natalie",
+                "middle": [],
+                "last": "Cvijanovich",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Benioff Children's Hospital Oakland",
+                    "location": {}
+                },
+                "email": ""
+            },
+            {
+                "first": "Rainer",
+                "middle": [
+                    "G"
+                ],
+                "last": "Gedeit",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Children's Hospital of Wisconsin",
+                    "location": {
+                        "settlement": "Milwaukee"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Edward",
+                "middle": [
+                    "J"
+                ],
+                "last": "Truemper",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "University of Nebraska Medical Center",
+                    "location": {
+                        "settlement": "Omaha",
+                        "region": "Nebraska"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Barry",
+                "middle": [],
+                "last": "Markovitz",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Children's Hospital Los Angeles",
+                    "location": {
+                        "region": "California"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Mary",
+                "middle": [
+                    "E"
+                ],
+                "last": "Hartman",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "St. Louis Children's Hospital",
+                    "location": {
+                        "region": "Missouri"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kate",
+                "middle": [
+                    "G"
+                ],
+                "last": "Ackerman",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Golisano Children's Hospital",
+                    "location": {
+                        "settlement": "Rochester",
+                        "region": "New York"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "John",
+                "middle": [
+                    "S"
+                ],
+                "last": "Giuliano",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Yale-New Haven Children's Hospital",
+                    "location": {
+                        "settlement": "Connecticut"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Steven",
+                "middle": [
+                    "L"
+                ],
+                "last": "Shein",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Rainbow Babies and Children's Hospital",
+                    "location": {
+                        "settlement": "Cleveland",
+                        "region": "Ohio"
+                    }
+                },
+                "email": ""
+            },
+            {
+                "first": "Kristin",
+                "middle": [
+                    "L"
+                ],
+                "last": "Moffitt",
+                "suffix": "",
+                "affiliation": {
+                    "laboratory": "",
+                    "institution": "Harvard Medical School",
+                    "location": {
+                        "settlement": "Boston",
+                        "region": "Massachusetts"
+                    }
+                },
+                "email": ""
+            }
+        ]
+    },
+    "abstract": [
+        {
+            "text": "Staphylococcus aureus (MRSA) causes life-threatening necrotizing pneumonia in children. Sporadic incidence precludes evaluation of antimicrobial efficacy. We assessed the clinical characteristics and outcomes of critically ill children with influenza-MRSA pneumonia and evaluated antibiotic use.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Methods. We enrolled children (<18 years) with influenza infection and respiratory failure across 34 pediatric intensive care units 11/2008-5/2016. We compared baseline characteristics, clinical courses, and therapies in children with MRSA coinfection, non-MRSA bacterial coinfection, and no bacterial coinfection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Results. We enrolled 170 children (127 influenza A, 43 influenza B). Children with influenza-MRSA pneumonia (N = 30, 87% previously healthy) were older than those with non-MRSA (N = 61) or no (N = 79) bacterial coinfections. Influenza-MRSA was associated with increased leukopenia, acute lung injury, vasopressor use, extracorporeal life support, and mortality than either group (P \u2264 .0001). Influenza-related mortality was 40% with MRSA compared to 4.3% without (relative risk [RR], 9.3; 95% confidence interval [CI], 3.8-22.9). Of 29/30 children with MRSA who received vancomycin within the first 24 hours of hospitalization, mortality was 12.5% (N = 2/16) if treatment also included a second anti-MRSA antibiotic compared to 69.2% (N = 9/13) with vancomycin monotherapy (RR, 5.5; 95% CI, 1.4, 21.3; P = .003). Vancomycin dosing did not influence initial trough levels; 78% were <10 \u00b5g/mL.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        },
+        {
+            "text": "Conclusions. Influenza-MRSA coinfection is associated with high fatality in critically ill children. These data support early addition of a second anti-MRSA antibiotic to vancomycin in suspected severe cases.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Abstract"
+        }
+    ],
+    "body_text": [
+        {
+            "text": "previously healthy children. Rigorous evaluation of optimal antimicrobial and other therapeutic strategies to improve the clinical outcomes of this devastating combination is impeded by its sporadic occurrence and fulminant course. Although 838 children with confirmed or suspected 2009 pH1N1 were identified across 35 US pediatric intensive care units (PICUs) in 2009, only 34 cases of MRSA coinfection were reported [5] .",
+            "cite_spans": [
+                {
+                    "start": 418,
+                    "end": 421,
+                    "text": "[5]",
+                    "ref_id": "BIBREF35"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Intravenous vancomycin or clindamycin are recommended as the mainstay of therapy for treatment of hospitalized children with community-acquired (CA) pneumonia (CAP) if MRSA is suspected [6] . The addition of a second anti-MRSA agent is controversial [7] , partly because some combinations of commonly used antibiotics for MRSA, such as linezolid with vancomycin, have shown antagonistic effects in animal models of invasive MRSA infection [8] and in experimental in vitro assays [9] . Studies in animals [10] [11] [12] [13] and observational data M A J O R A R T I C L E in humans [14, 15] show that S. aureus toxins likely are driving systemic inflammation, immune suppression, and lung necrosis. Therapies targeted at specific S. aureus toxins are currently being evaluated in randomized trials but are not yet clinically available. Staphylococcus aureus antivirulence effects have been reported in vitro for clindamycin, reducing staphylococcal protein A expression 3.5-fold [16] , Panton-Valentine leukocidin expression 2.5-fold [17] , and alpha hemolysin expression 2.4-to 20-fold [18] in CA-MRSA and other clinical S. aureus strains. Beta-lactam antibiotics were associated with increased S. aureus toxin expression in vitro [18, 19] , and vancomycin had negligible effect.",
+            "cite_spans": [
+                {
+                    "start": 186,
+                    "end": 189,
+                    "text": "[6]",
+                    "ref_id": "BIBREF36"
+                },
+                {
+                    "start": 250,
+                    "end": 253,
+                    "text": "[7]",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 439,
+                    "end": 442,
+                    "text": "[8]",
+                    "ref_id": "BIBREF38"
+                },
+                {
+                    "start": 479,
+                    "end": 482,
+                    "text": "[9]",
+                    "ref_id": "BIBREF39"
+                },
+                {
+                    "start": 504,
+                    "end": 508,
+                    "text": "[10]",
+                    "ref_id": "BIBREF40"
+                },
+                {
+                    "start": 509,
+                    "end": 513,
+                    "text": "[11]",
+                    "ref_id": "BIBREF41"
+                },
+                {
+                    "start": 514,
+                    "end": 518,
+                    "text": "[12]",
+                    "ref_id": "BIBREF42"
+                },
+                {
+                    "start": 519,
+                    "end": 523,
+                    "text": "[13]",
+                    "ref_id": "BIBREF43"
+                },
+                {
+                    "start": 581,
+                    "end": 585,
+                    "text": "[14,",
+                    "ref_id": "BIBREF44"
+                },
+                {
+                    "start": 586,
+                    "end": 589,
+                    "text": "15]",
+                    "ref_id": "BIBREF45"
+                },
+                {
+                    "start": 978,
+                    "end": 982,
+                    "text": "[16]",
+                    "ref_id": "BIBREF46"
+                },
+                {
+                    "start": 1033,
+                    "end": 1037,
+                    "text": "[17]",
+                    "ref_id": "BIBREF47"
+                },
+                {
+                    "start": 1086,
+                    "end": 1090,
+                    "text": "[18]",
+                    "ref_id": "BIBREF48"
+                },
+                {
+                    "start": 1231,
+                    "end": 1235,
+                    "text": "[18,",
+                    "ref_id": "BIBREF48"
+                },
+                {
+                    "start": 1236,
+                    "end": 1239,
+                    "text": "19]",
+                    "ref_id": "BIBREF49"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "In the absence of clinical trials, data from observational studies of real-world practice may give insights to guide therapy [20] . Therefore, in a multicenter observational study of critically ill children with confirmed influenza infection from the Pediatric Intensive Care Influenza (PICFLU) Study, we characterized the clinical presentation, immune response, and clinical outcomes of those with influenza-MRSA respiratory coinfection, comparing them to critically ill children with influenza and coinfection with non-MRSA bacteria and to those with no diagnosis of bacterial coinfection. We also aimed to examine use of antimicrobial therapy in children with influenza-MRSA coinfection and hypothesized that variability would be high and would be associated with mortality.",
+            "cite_spans": [
+                {
+                    "start": 125,
+                    "end": 129,
+                    "text": "[20]",
+                    "ref_id": "BIBREF50"
+                }
+            ],
+            "ref_spans": [],
+            "section": ""
+        },
+        {
+            "text": "Patients (aged <18 years) with confirmed CA influenza infection and respiratory failure receiving invasive mechanical ventilation admitted to a PICU that was voluntarily participating in the PICFLU Study were prospectively enrolled from December 2008 to May 2016 from 34 sites in the Pediatric Acute Lung Injury and Sepsis Investigator's Network (PALISI). Detailed methods of the PICFLU study have been reported [21] [22] [23] . We excluded patients with preexisting lung disorders; immune compromise; mitochondrial, genetic, or neurologic disorders; and/or preexisting cardiac diseases that increase the risk of infection or respiratory failure [24] . Patients with non-subtypable influenza A were also excluded. The institutional review board at each site gave study approval, and informed consent was obtained from a parent or guardian.",
+            "cite_spans": [
+                {
+                    "start": 412,
+                    "end": 416,
+                    "text": "[21]",
+                    "ref_id": "BIBREF51"
+                },
+                {
+                    "start": 417,
+                    "end": 421,
+                    "text": "[22]",
+                    "ref_id": "BIBREF52"
+                },
+                {
+                    "start": 422,
+                    "end": 426,
+                    "text": "[23]",
+                    "ref_id": "BIBREF53"
+                },
+                {
+                    "start": 646,
+                    "end": 650,
+                    "text": "[24]",
+                    "ref_id": "BIBREF54"
+                }
+            ],
+            "ref_spans": [],
+            "section": "METHODS"
+        },
+        {
+            "text": "Throughout the study period, sites were encouraged to follow the recommendations published by the CDC to screen all symptomatic patients admitted to the PICU for influenza and to test all intubated patients for secondary bacterial infection with Gram stain and culture of endotracheal secretions [25] . Patient management was at the clinician's discretion. The first study samples were taken as soon as possible after PICU admission, including respiratory samples from the nasopharynx and from the endotracheal tube (ETT).",
+            "cite_spans": [
+                {
+                    "start": 296,
+                    "end": 300,
+                    "text": "[25]",
+                    "ref_id": "BIBREF55"
+                }
+            ],
+            "ref_spans": [],
+            "section": "METHODS"
+        },
+        {
+            "text": "Viral test results included those from the clinical site, which could have been performed prior to or after PICU admission, as well as additional study testing done at the Marshfield Clinic Research Foundation (Marshfield, WI). Influenza and other viral testing methods have been previously reported [26, 27] . Viruses tested included respiratory syncytial virus; human metapneumovirus; human rhinovirus; parainfluenza virus; influenza A and B including A subtypes H1, H3, and 2009 pH1N1; coronavirus; and adenovirus [26] .",
+            "cite_spans": [
+                {
+                    "start": 300,
+                    "end": 304,
+                    "text": "[26,",
+                    "ref_id": "BIBREF57"
+                },
+                {
+                    "start": 305,
+                    "end": 308,
+                    "text": "27]",
+                    "ref_id": "BIBREF58"
+                },
+                {
+                    "start": 517,
+                    "end": 521,
+                    "text": "[26]",
+                    "ref_id": "BIBREF57"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Viral and Bacterial Testing and Diagnoses"
+        },
+        {
+            "text": "Bacterial coinfection was defined as a diagnosis at the clinical site with microbiologic identification of the pathogen within 72 hours prior to or after PICU admission (to rule out hospital-acquired infection). Cultures had to come from a sterile site (endotracheal or bronchoscopic specimen, bloodstream, or pleural fluid). Positive tests from MRSA colonization screening alone were insufficient to determine bacterial coinfection.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Viral and Bacterial Testing and Diagnoses"
+        },
+        {
+            "text": "Race and ethnicity were captured through a parent interview. The pediatric risk of mortality III acute physiology (PRISM III) score [28] measured severity of illness within 24 hours of PICU admission. Invasive mechanical ventilation was via an ETT. Acute lung injury (ALI) and acute respiratory distress syndrome (ARDS) were acute onset of respiratory distress, hypoxia (PaO 2 /FiO 2 ratio of \u2264300 for ALI and \u2264200 for ARDS), bilateral infiltrates on chest radiograph, and no evidence of left heart failure [29] . Shock requiring vasopressor support was use of a dopamine infusion >5 \u00b5g/kg/min or any epinephrine, norepinephrine, or phenylephrine infusion to maintain blood pressure. Mortality was death during the index hospitalization.",
+            "cite_spans": [
+                {
+                    "start": 132,
+                    "end": 136,
+                    "text": "[28]",
+                    "ref_id": "BIBREF59"
+                },
+                {
+                    "start": 507,
+                    "end": 511,
+                    "text": "[29]",
+                    "ref_id": "BIBREF60"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Definitions"
+        },
+        {
+            "text": "Site investigators collected data on baseline demographic information, illness duration, presenting symptoms, initial PICU admission findings, and selected clinical events and outcomes (hospital and at PICU discharge). Data were then entered into a REDCap electronic case report form [30] hosted on a secure server at Boston Children's Hospital. Recorded baseline values for laboratory results, vital signs, vasoactive-inotropic dosing, chest radiograph results, and oxygenation were the first recorded values in the PICU. If these values were unavailable, the values closest to admission (from transport, the emergency department, or referral hospital) were used. Data were collected as close to 08:00 as possible; data were considered missing if no values were available. Final outcome (survival/death) was tracked to initial PICU discharge date in all patients and up to hospital discharge in patients transferred to the ward.",
+            "cite_spans": [
+                {
+                    "start": 284,
+                    "end": 288,
+                    "text": "[30]",
+                    "ref_id": "BIBREF61"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Data and Sample Management"
+        },
+        {
+            "text": "Data on antibiotics given in the first 24 hours of PICU admission or prior to PICU admission were collected prospectively. In children with influenza-MRSA coinfection, sites collected information on timing of all antibiotics prior to and after PICU admission as well as vancomycin trough levels, vancomycin dosing, and antibiotic susceptibility testing results retrospectively.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Data and Sample Management"
+        },
+        {
+            "text": "Samples of blood and endotracheal aspirates (if intubated) were taken at enrollment (most within 24 hours of PICU admission) and 3, 7, and 14 days later if still in the PICU. ETT aspirate was kept on ice until centrifugation; then, the ETT supernatant was aliquoted and stored at \u221280\u00b0C. Concentrations of cytokines were measured in duplicate by the University of Minnesota Cytokine Reference Laboratory using standard enzyme-linked immunosorbent assay as well as bead-based Luminex multiplex assays (Luminex 200 platform, Austin, TX) as described in detail in a recent publication [22] .",
+            "cite_spans": [
+                {
+                    "start": 581,
+                    "end": 585,
+                    "text": "[22]",
+                    "ref_id": "BIBREF52"
+                }
+            ],
+            "ref_spans": [],
+            "section": "Data and Sample Management"
+        },
+        {
+            "text": "Statistical analysis was performed using SAS software version 9.4 (Cary, NC). Categorical variables were compared using the Fisher exact test and Mann-Whitney U test. Continuous variables were analyzed using Spearman correlation and Kruskal-Wallis test with Dunn test for post-hoc analyses. Logistic regression, adjusting for age and PRISM III score, was used to confirm the association between mortality and early vancomycin monotherapy vs additional early anti-MRSA antibiotic groups.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Statistical Methods"
+        },
+        {
+            "text": "We enrolled 170 children who met the inclusion and exclusion criteria across 34 sites between November 2008 and May 2016. As shown in Table 1 Table 1 for details), and 79 (46.5%) had no clinical diagnosis of bacterial coinfection. All children with MRSA coinfection had 1 or more positive MRSA cultures from endotracheal aspirate, pleural fluid, and/or lung tissue, and 4 also had MRSA bacteremia.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 134,
+                    "end": 141,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 142,
+                    "end": 149,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "The demographic characteristics, underlying health conditions, clinical course, and outcomes of these 3 groups of children are shown in Table 1 . Children with MRSA were on average 2 times older than children in both non-MRSA groups (P < .001). They were more likely to be previously healthy (P = .002) than children with influenza alone. The children with influenza-MSSA coinfection overall had baseline characteristics and clinical outcomes similar to those with influenza who were coinfected with non-S. aureus bacteria (details shown in Supplementary Table 1 ; all P > .05 except that, on average, they were older).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 136,
+                    "end": 143,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                },
+                {
+                    "start": 541,
+                    "end": 562,
+                    "text": "Supplementary Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "As depicted in Figure 1 , more than 90% of children with MRSA coinfection had acute lung injury or vasopressor use for shock compared to approximately half of the non-MRSA comparison groups (all P \u2264 .001). More than 70% of MRSA patients received extracorporeal membrane oxygenation (ECMO) support compared to less than 9% of the other groups; P \u2264 .001). Influenza-related mortality was 40% with MRSA coinfection compared to 4.3% without MRSA (relative risk [RR], 9.3; 95% confidence interval [CI], 3.8-22.9). One child with severe lung necrosis was supported on ECMO for 6 months and died soon after receiving a lung transplant. Autopsy results were available for 4 MRSA patients, 3 of whom died on ECMO support. All showed extensive areas of hemorrhagic infarction, abscess formation, necrosis, and emboli in the lung with pleural adhesions and effusions.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 15,
+                    "end": 23,
+                    "text": "Figure 1",
+                    "ref_id": "FIGREF2"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "Death in the MRSA-coinfected patients was associated with older age (P = .01) and higher PRISM III score (P = .02) but not with type of influenza virus infection (see Supplementary Table 2 ), site of MRSA culture, or bacteremia (Supplementary Table 3 ). Although not statistically significant (P = .15), of the 11 children who died, 6 (54.5%) reportedly were vaccinated against influenza that season (4 not vaccinated, 1 unavailable) compared to 3/18 (16.7%) survivors (11 not vaccinated, 4 unavailable) . Time between first symptom onset and PICU admission was available from parental interview starting in the fall of 2010; for 8/11 (72.7%) children who died and 13/18 (72.2%) who survived, median days to PICU presentation was 4 (interquartile range [IQR], 3.3, 4.8) vs 2 (IQR, 2, 3), respectively (P = .02).",
+            "cite_spans": [
+                {
+                    "start": 469,
+                    "end": 503,
+                    "text": "(11 not vaccinated, 4 unavailable)",
+                    "ref_id": null
+                }
+            ],
+            "ref_spans": [
+                {
+                    "start": 167,
+                    "end": 188,
+                    "text": "Supplementary Table 2",
+                    "ref_id": null
+                },
+                {
+                    "start": 243,
+                    "end": 250,
+                    "text": "Table 3",
+                    "ref_id": null
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "As shown in Figure 2 , influenza-MRSA-coinfected children had markedly suppressed white blood cell (WBC) counts in the first 24 hours of PICU admission compared to the non-MRSA influenza groups (P < .0001). The MSSA-coinfected children had admission-day WBC values similar to those who were coinfected with other bacteria (Supplementary Table 1 ). Not all children had a differential available, but profound neutropenia was com- ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 12,
+                    "end": 20,
+                    "text": "Figure 2",
+                    "ref_id": "FIGREF4"
+                },
+                {
+                    "start": 337,
+                    "end": 344,
+                    "text": "Table 1",
+                    "ref_id": "TABREF0"
+                }
+            ],
+            "section": "RESULTS"
+        },
+        {
+            "text": "Choice of early (within the first 24 hours of PICU admission) anti-MRSA antibiotic administration in children with influenza-MRSA coinfection varied. One child who died received early clindamycin monotherapy. Early vancomycin was given to 96.7% of patients (N = 29/30). Figure 3 shows whether additional early anti-MRSA antibiotics were received in these 29 patients, stratifying these children by hospital survival. Although 43.3% (N = 13/29) received vancomycin monotherapy, 51.7% (N = 15/29) received additional therapies, most commonly clindamycin (4 children received a third early anti-MRSA antibiotic, 3 received ceftaroline, 1 received linezolid, and 1 received ceftaroline plus vancomycin).",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 270,
+                    "end": 278,
+                    "text": "Figure 3",
+                    "ref_id": "FIGREF3"
+                }
+            ],
+            "section": "Antimicrobial Use and Association With Mortality"
+        },
+        {
+            "text": "Age, gender, PRISM III score, type of influenza infection, and influenza vaccination did not significantly differ between the early vancomycin monotherapy and the additional early anti-MRSA antibiotic groups (see Supplementary Table 4 ). Mortality was 69.2% (N = 9/13) in those who received early vancomycin monotherapy compared to 12.5% (N = 2/16) in those who received vancomycin and a second anti-MRSA agent within the first 24 hours (RR, 5.5; 95% CI 1.4, 21.3; P = .003); the estimated number needed to treat with more than 1 anti-MRSA agent to prevent 1 death would be 2 (95% CI, 1.2, 3.7). This finding remained significant (P = .01) after adjusting for illness severity in the first 24 hours (PRISM III score) and age. The majority of children who survived (11/18, 61.1%) and all 11 who died received extracorporeal life support.",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 213,
+                    "end": 234,
+                    "text": "Supplementary Table 4",
+                    "ref_id": null
+                }
+            ],
+            "section": "Antimicrobial Use and Association With Mortality"
+        },
+        {
+            "text": "For children with data available on time to presentation, 7/13 (53.8%) who received vancomycin monotherapy and 14/16 (87.5%) with additional anti-MRSA therapy reported median time between symptom onset and presentation of 4 days (IQR, 2, 5) vs 3 days (IQR, 2, 4), respectively (P = .18). Even with imputation of the 75th and 25th percentiles, respectively, for time to presentation for missing data (5 days for deaths and 2 days for survivors), time to presentation would not have reached statistical significance between the 2 groups (3/6 children in the vancomycin-only group with missing data were survivors).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Antimicrobial Use and Association With Mortality"
+        },
+        {
+            "text": "All tested MRSA isolates were susceptible to clindamycin (N = 28, 2 MRSA isolates not tested). The minimum inhibitory concentration (MIC) of tested MRSA isolates to vancomycin was \u22641 \u00b5g/mL in 56% of the 30 children, 1-2 \u00b5g/mL in 13.3%, and not reported in 30.0%. We were able to obtain the first vancomycin trough levels from 28/29 children with MRSA who received vancomycin in the first 24 hours. We excluded 2 patients with acute renal failure on admission whose vancomycin dosing required adjustment. As shown in Figure 4A , 78% of initial vancomycin trough levels were <10 \u00b5g/mL. Vancomycin dosing was not associated with vancomycin trough levels ( Figure 4B ). ",
+            "cite_spans": [],
+            "ref_spans": [
+                {
+                    "start": 516,
+                    "end": 525,
+                    "text": "Figure 4A",
+                    "ref_id": null
+                },
+                {
+                    "start": 653,
+                    "end": 662,
+                    "text": "Figure 4B",
+                    "ref_id": null
+                }
+            ],
+            "section": "Antimicrobial Use and Association With Mortality"
+        },
+        {
+            "text": "Children with influenza-related acute respiratory failure in this multicenter PICU cohort who had MRSA coinfection were more severely ill than children coinfected with other bacteria or with no bacterial coinfection and they were 9 times more likely to die. Anti-MRSA antibiotics given within 24 hours of PICU admission were associated with hospital outcomes. Children who received early vancomycin as their sole anti-MRSA agent had a 5.5 times higher risk of mortality than children who received early vancomycin plus the early addition of another anti-MRSA agent. Choice of antimicrobial therapy was mostly empiric, as bacterial diagnosis usually takes longer than 24 hours. Some factors distinguished influenza-MRSA-coinfected children. The majority of them were in adolescence and were previously healthy. They usually developed leukopenia on their first PICU day, frequently had neutropenia (despite a higher GCSF serum level), and most often were cannulated for ECMO support. Early recognition of this patient profile could guide choice of empiric therapy. Difficulty in reaching therapeutic levels of vancomycin in pediatric patients with good renal clearance is common [31, 32] and not consistently improved by the addition of a vancomycin loading dose [33] . The area-under-the-curve (AUC):MIC ratio has been posited as a potentially better predictor of vancomycin efficacy than vancomycin trough levels [34, 35] . However, clinical outcomes are not reported to be improved even with adequate AUC:MIC early in invasive MRSA infections [35] . Investigators who systematically reviewed available studies concluded that vancomycin poorly penetrates lung tissue. Compared to simultaneous plasma levels, concentrations in lung epithelial lining fluid ranged from 5% to 25%, and concentrations in whole homogenized lung tissues ranged from 24% to 41% [36] .",
+            "cite_spans": [
+                {
+                    "start": 1177,
+                    "end": 1181,
+                    "text": "[31,",
+                    "ref_id": "BIBREF62"
+                },
+                {
+                    "start": 1182,
+                    "end": 1185,
+                    "text": "32]",
+                    "ref_id": "BIBREF63"
+                },
+                {
+                    "start": 1261,
+                    "end": 1265,
+                    "text": "[33]",
+                    "ref_id": "BIBREF64"
+                },
+                {
+                    "start": 1413,
+                    "end": 1417,
+                    "text": "[34,",
+                    "ref_id": "BIBREF65"
+                },
+                {
+                    "start": 1418,
+                    "end": 1421,
+                    "text": "35]",
+                    "ref_id": "BIBREF66"
+                },
+                {
+                    "start": 1544,
+                    "end": 1548,
+                    "text": "[35]",
+                    "ref_id": "BIBREF66"
+                },
+                {
+                    "start": 1854,
+                    "end": 1858,
+                    "text": "[36]",
+                    "ref_id": "BIBREF67"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "MRSA susceptibility to clindamycin, the second most commonly prescribed anti-MRSA agent, was near universal in this cohort. Unfortunately, the susceptibility of S. aureus to clindamycin may be declining in US children [37] . Via a mechanism of protein synthesis inhibition not present in vancomycin, clindamycin has antitoxin effects in vitro [18] . Although data from in vitro models also suggest antagonism exists when vancomycin is combined with clindamycin or linezolid [7] , there is poor agreement between animal and human models of antibiotic antagonism or synergy when treating MRSA [38] . Ultimately, the choice of a second anti-MRSA agent should be influenced by local MRSA antibiograms [34] . Ceftaroline is clinically approved for MRSA-CAP and skin and soft tissue infections and was used in 4 surviving patients as an adjunct antibiotic with vancomycin. Rigorous pharmacokinetic and outcome data for ceftaroline treatment in intubated children with MRSA pneumonia are lacking [39] .",
+            "cite_spans": [
+                {
+                    "start": 218,
+                    "end": 222,
+                    "text": "[37]",
+                    "ref_id": "BIBREF68"
+                },
+                {
+                    "start": 343,
+                    "end": 347,
+                    "text": "[18]",
+                    "ref_id": "BIBREF48"
+                },
+                {
+                    "start": 474,
+                    "end": 477,
+                    "text": "[7]",
+                    "ref_id": "BIBREF37"
+                },
+                {
+                    "start": 591,
+                    "end": 595,
+                    "text": "[38]",
+                    "ref_id": "BIBREF69"
+                },
+                {
+                    "start": 697,
+                    "end": 701,
+                    "text": "[34]",
+                    "ref_id": "BIBREF65"
+                },
+                {
+                    "start": 989,
+                    "end": 993,
+                    "text": "[39]",
+                    "ref_id": "BIBREF70"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "The strengths of this study include prospective enrollment, rigorous data collection, and sensitive influenza testing. Clinical care was not controlled, revealing high practice variability across centers in empiric choice, dosing and timing of vancomycin, and use of additional anti-MRSA antibiotics.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "This study has numerous limitations. The design is observational and the cohort of MRSA patients is relatively small, including only 30 MRSA-coinfected patients and 11 MRSA-related deaths, despite involvement of 34 large PICUs for 8 years. Children with severe comorbid health conditions that predisposed them to influenza infection were excluded, limiting generalizability but decreasing potential confounding. Duration of symptoms prior to initial presentation was not available early in the study. Our analysis of the available data on time to presentation and our sensitivity analysis show that although longer time from symptom onset to PICU admission was associated with increased fatality, it was unlikely to explain the association between vancomycin monotherapy and death. We did not collect data on antimicrobial-related adverse events, which would have been difficult given the high rate of multiorgan failure on PICU admission in the MRSA-coinfected children. It is important to note that MRSA coinfection can occur with other viruses. Because our focus was on influenza virus infection, we could not determine if the clinical course and outcomes of MRSA coinfection in noninfluenza viral infection were similar.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Although limited, this \"real-world evidence\" [20] on antibiotic efficacy in pediatric influenza-MRSA coinfection, a sporadic and fulminant disease with high fatality, indicates that vancomycin alone is insufficient therapy for children in the PICU with acute respiratory failure. Because results of diagnostic tests for MRSA and influenza can be delayed by more than 24 hours, empiric therapy may be needed to optimize clinical outcomes. Older age and prior good health, as well as leukopenia and shock requiring vasopressor support on presentation, were associated with MRSA coinfection. Thus, patients who present with acute respiratory distress and similar features during influenza season should prompt consideration of an additional anti-MRSA antibiotic while further diagnostic studies are pending. Although addition of clindamycin to vancomycin appears prudent in cases with high clinical suspicion of influenza-MRSA coinfection, clindamycin resistance must be monitored. A national ongoing registry of these fatal pediatric coinfections, with antimicrobial susceptibility, antibiotic management, and collection of clinical samples, could help guide care. Addition of adjunct therapies, such as antibodies targeted at S. aureus toxins, may decrease mortality in children with MRSA coinfection.",
+            "cite_spans": [
+                {
+                    "start": 45,
+                    "end": 49,
+                    "text": "[20]",
+                    "ref_id": "BIBREF50"
+                }
+            ],
+            "ref_spans": [],
+            "section": "DISCUSSION"
+        },
+        {
+            "text": "Supplementary materials are available at Clinical Infectious Diseases online. Consisting of data provided by the authors to benefit the reader, the posted materials are not copyedited and are the sole responsibility of the authors, so questions or comments should be addressed to the corresponding author.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Supplementary Data"
+        },
+        {
+            "text": "Notes and Marita Thompson (University of Texas Southwestern Medical Center at Dallas); Laura L. Loftis and Nancy Jaimon (Texas Children's Hospital, Houston); Douglas F. Wilson (University of Virginia Children's Hospital, Charlottesville); Rainer G. Gedeit, Kathy Murkowski, and Katherine Siegel (Children's Hospital of Wisconsin, Milwaukee); and Marc-Andr\u00e9 Dugas (Centre Hospitalier de l'Universit\u00e9 Laval, Quebec, Canada).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Supplementary Data"
+        },
+        {
+            "text": "Disclaimer. This work represents the findings of the authors and not necessarily the views of the National Institutes of Health (NIH) or the US Centers for Disease Control and Prevention (CDC).",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Supplementary Data"
+        },
+        {
+            "text": "Financial support. This work was supported by the NIH National Institute of Allergy and Infectious Diseases (R01AI084011 to A.G.R.) and the CDC (to A.G.R.). K.M. acknowledges support from the Boston Childrens' Hospital Translational Research Program and from the Charles Hood Foundation.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Supplementary Data"
+        },
+        {
+            "text": "Potential conflicts of interest. A.R. reports consultancy fees from Bristol Myers Squibb, La Jolla Pharmaceuticals, and Genentech Inc. M.H. reports consultancy fees form Bristol Myers Squibb and grants from the NIH. S.W. reports consultancy fees from Bristol Myers Squibb, grants from the Society of Critical Care Medicine, travel accommodations from ThermoFisher Scientific, and royalties from Up-To-Date. N.T. reports consultancy fees from Therabron, Care Fusion, and Gene Fluidics. The other authors report no potential conflicts of interest. All authors have submitted the ICMJE Form for Disclosure of Potential Conflicts of Interest. Conflicts that the editors consider relevant to the content of the manuscript have been disclosed.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "Supplementary Data"
+        }
+    ],
+    "bib_entries": {
+        "BIBREF0": {
+            "ref_id": "b0",
+            "title": "PALISI PICFLU study site investigators included the following: Michele Kong (Children's of",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF3": {
+            "ref_id": "b3",
+            "title": "Katri Typpo (Diamond Children's Medical Center",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF4": {
+            "ref_id": "b4",
+            "title": "Children's Hospital",
+            "authors": [
+                {
+                    "first": "Barry",
+                    "middle": [],
+                    "last": "Markovitz",
+                    "suffix": ""
+                },
+                {
+                    "first": "Rica",
+                    "middle": [],
+                    "last": "Sharon",
+                    "suffix": ""
+                },
+                {
+                    "first": "P",
+                    "middle": [],
+                    "last": "Morzov",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF5": {
+            "ref_id": "b5",
+            "title": "Children's Hospital Central California",
+            "authors": [
+                {
+                    "first": "Ana",
+                    "middle": [
+                        "Lia"
+                    ],
+                    "last": "Graciano",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Madera",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF7": {
+            "ref_id": "b7",
+            "title": "Children's Hospital of Orange County",
+            "authors": [
+                {
+                    "first": "Nick",
+                    "middle": [],
+                    "last": "Anas",
+                    "suffix": ""
+                },
+                {
+                    "first": "Adam",
+                    "middle": [],
+                    "last": "Schwarz",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ofelia",
+                    "middle": [],
+                    "last": "Vargas-Shiraishi",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF8": {
+            "ref_id": "b8",
+            "title": "UCSF Benioff Children's Hospital",
+            "authors": [
+                {
+                    "first": "Patrick",
+                    "middle": [],
+                    "last": "Mcquillen",
+                    "suffix": ""
+                },
+                {
+                    "first": "Anil",
+                    "middle": [],
+                    "last": "Sapru",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF9": {
+            "ref_id": "b9",
+            "title": "Children's Hospital Colorado",
+            "authors": [
+                {
+                    "first": "Peter",
+                    "middle": [],
+                    "last": "Mourani",
+                    "suffix": ""
+                },
+                {
+                    "first": "Angela",
+                    "middle": [],
+                    "last": "Czaja",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Aurora",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF10": {
+            "ref_id": "b10",
+            "title": "Connecticut Children's Medical Center",
+            "authors": [
+                {
+                    "first": "Christopher",
+                    "middle": [],
+                    "last": "Carroll",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "Hartford",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF12": {
+            "ref_id": "b12",
+            "title": "Holtz Children's Hospital",
+            "authors": [
+                {
+                    "first": "Gwenn",
+                    "middle": [],
+                    "last": "Mclaughlin",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF13": {
+            "ref_id": "b13",
+            "title": "Children's Healthcare of Atlanta at",
+            "authors": [
+                {
+                    "first": "Matthew",
+                    "middle": [],
+                    "last": "Paden",
+                    "suffix": ""
+                },
+                {
+                    "first": "Keiko",
+                    "middle": [],
+                    "last": "Tarquinio",
+                    "suffix": ""
+                },
+                {
+                    "first": "Cheryl",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Stone",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF14": {
+            "ref_id": "b14",
+            "title": "Children's Hospital of",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bria",
+                    "suffix": ""
+                },
+                {
+                    "first": "&amp;",
+                    "middle": [],
+                    "last": "Coates ; Ann",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Robert",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Lurie",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF16": {
+            "ref_id": "b16",
+            "title": "Children's Hospital",
+            "authors": [
+                {
+                    "first": "Janice",
+                    "middle": [],
+                    "last": "Sullivan",
+                    "suffix": ""
+                },
+                {
+                    "first": "Vicki",
+                    "middle": [],
+                    "last": "Montgomery",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF17": {
+            "ref_id": "b17",
+            "title": "Tanya Novak, and Margaret M. Newhams (Boston Children's Hospital",
+            "authors": [
+                {
+                    "first": "Adrienne",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Randolph",
+                    "suffix": ""
+                },
+                {
+                    "first": "Ruifei",
+                    "middle": [],
+                    "last": "Xu",
+                    "suffix": ""
+                },
+                {
+                    "first": "Anna",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Agan",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF18": {
+            "ref_id": "b18",
+            "title": "John's Hopkins Children's Center",
+            "authors": [
+                {
+                    "first": "Melania",
+                    "middle": [],
+                    "last": "Bembea",
+                    "suffix": ""
+                },
+                {
+                    "first": "Sapna",
+                    "middle": [],
+                    "last": "Kudchadkar",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF19": {
+            "ref_id": "b19",
+            "title": "Children's Hospital and Clinics of",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Stephen",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Kurachek",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF21": {
+            "ref_id": "b21",
+            "title": "Children's Hospital of",
+            "authors": [
+                {
+                    "first": "Edward",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Truemper",
+                    "suffix": ""
+                },
+                {
+                    "first": "Sidharth",
+                    "middle": [],
+                    "last": "Mahapatra",
+                    "suffix": ""
+                },
+                {
+                    "first": "Machelle",
+                    "middle": [],
+                    "last": "Dawson",
+                    "suffix": ""
+                },
+                {
+                    "first": "Lucinda",
+                    "middle": [],
+                    "last": "Kustka",
+                    "suffix": ""
+                },
+                {
+                    "first": "Kristin",
+                    "middle": [],
+                    "last": "Malone",
+                    "suffix": ""
+                },
+                {
+                    "first": "Melanie",
+                    "middle": [],
+                    "last": "Schrack",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF22": {
+            "ref_id": "b22",
+            "title": "Chhavi Katyal (Children's Hospital at Montefiore",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF23": {
+            "ref_id": "b23",
+            "title": "Golisano Children's Hospital",
+            "authors": [
+                {
+                    "first": "Kate",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Ackerman",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "Eugene"
+                    ],
+                    "last": "Daugherty",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF24": {
+            "ref_id": "b24",
+            "title": "Rainbow Babies and Children's Hospital",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Steven",
+                    "suffix": ""
+                },
+                {
+                    "first": "Eloise",
+                    "middle": [],
+                    "last": "Shein",
+                    "suffix": ""
+                },
+                {
+                    "first": "Kathryn",
+                    "middle": [],
+                    "last": "Lemon",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Defrancesco",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF25": {
+            "ref_id": "b25",
+            "title": "Nationwide Children's Hospital",
+            "authors": [
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Mark",
+                    "suffix": ""
+                },
+                {
+                    "first": "Lisa",
+                    "middle": [],
+                    "last": "Hall",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Steele",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF26": {
+            "ref_id": "b26",
+            "title": "Penn State Hershey's Children's Hospital",
+            "authors": [
+                {
+                    "first": "Neal",
+                    "middle": [],
+                    "last": "Thomas",
+                    "suffix": ""
+                },
+                {
+                    "first": "Debra",
+                    "middle": [],
+                    "last": "Spear",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF27": {
+            "ref_id": "b27",
+            "title": "Children's Hospital of",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Scott",
+                    "suffix": ""
+                },
+                {
+                    "first": "Julie",
+                    "middle": [],
+                    "last": "Weiss",
+                    "suffix": ""
+                },
+                {
+                    "first": "Jenny",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Fitzgerald",
+                    "suffix": ""
+                },
+                {
+                    "first": "Kathryn",
+                    "middle": [],
+                    "last": "Bush",
+                    "suffix": ""
+                },
+                {
+                    "first": "",
+                    "middle": [],
+                    "last": "Graham",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF28": {
+            "ref_id": "b28",
+            "title": "Monroe Carrell Jr. Children's Hospital at Vanderbilt",
+            "authors": [
+                {
+                    "first": "Frederick",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Barr",
+                    "suffix": ""
+                }
+            ],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF30": {
+            "ref_id": "b30",
+            "title": "Initial vancomycin trough levels (prior to the fourth dose) of methicillin-resistant Staphylococcus aureus patients (78.5% of initial trough levels were less than 10 \u00b5g/mL). (B) Vancomycin dosing and initial trough level. Initial trough levels were not associated with initial vancomycin dose (Spearman's correlation, P = .6). Abbreviation: PICU",
+            "authors": [],
+            "year": null,
+            "venue": "",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF31": {
+            "ref_id": "b31",
+            "title": "Infection with community-onset Staphylococcus aureus and influenza virus in hospitalized children",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Reed",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Kallen",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Patton",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Pediatr Infect Dis J",
+            "volume": "28",
+            "issn": "",
+            "pages": "572--578",
+            "other_ids": {}
+        },
+        "BIBREF32": {
+            "ref_id": "b32",
+            "title": "Severe methicillin-resistant Staphylococcus aureus community-acquired pneumonia associated with influenza-Louisiana and Georgia",
+            "authors": [],
+            "year": 2006,
+            "venue": "Centers for Disease Control and Prevention",
+            "volume": "56",
+            "issn": "",
+            "pages": "325--334",
+            "other_ids": {}
+        },
+        "BIBREF33": {
+            "ref_id": "b33",
+            "title": "Influenza-associated pediatric mortality in the United States: increase of Staphylococcus aureus coinfection",
+            "authors": [
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Finelli",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Fiore",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Dhara",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Pediatrics",
+            "volume": "122",
+            "issn": "",
+            "pages": "805--816",
+            "other_ids": {}
+        },
+        "BIBREF34": {
+            "ref_id": "b34",
+            "title": "Critical illness from 2009 pandemic influenza A virus and bacterial coinfection in the United States",
+            "authors": [
+                {
+                    "first": "T",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Rice",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [],
+                    "last": "Rubinson",
+                    "suffix": ""
+                },
+                {
+                    "first": "T",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Uyeki",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "Crit Care Med",
+            "volume": "40",
+            "issn": "",
+            "pages": "1487--98",
+            "other_ids": {}
+        },
+        "BIBREF35": {
+            "ref_id": "b35",
+            "title": "Critically ill children during the 2009-2010 influenza pandemic in the United States",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Randolph",
+                    "suffix": ""
+                },
+                {
+                    "first": "F",
+                    "middle": [],
+                    "last": "Vaughn",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Sullivan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Pediatrics",
+            "volume": "128",
+            "issn": "",
+            "pages": "1450--1458",
+            "other_ids": {}
+        },
+        "BIBREF36": {
+            "ref_id": "b36",
+            "title": "Pediatric Infectious Diseases Society and the Infectious Diseases Society of America. The management of community-acquired pneumonia in infants and children older than 3 months of age: clinical practice guidelines by the Pediatric Infectious Diseases Society and the Infectious Diseases Society of America",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Bradley",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Byington",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Shah",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Clin Infect Dis",
+            "volume": "53",
+            "issn": "",
+            "pages": "25--76",
+            "other_ids": {}
+        },
+        "BIBREF37": {
+            "ref_id": "b37",
+            "title": "Vancomycin in combination with other antibiotics for the treatment of serious methicillin-resistant Staphylococcus aureus infections",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Deresinski",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Clin Infect Dis",
+            "volume": "49",
+            "issn": "",
+            "pages": "1072--1081",
+            "other_ids": {}
+        },
+        "BIBREF38": {
+            "ref_id": "b38",
+            "title": "Efficacy of linezolid alone or in combination with vancomycin for treatment of experimental endocarditis due to methicillin-resistant Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "F",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Chiang",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Climo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "Antimicrob Agents Chemother",
+            "volume": "47",
+            "issn": "",
+            "pages": "3002--3006",
+            "other_ids": {}
+        },
+        "BIBREF39": {
+            "ref_id": "b39",
+            "title": "In vitro activity of linezolid alone and in combination with gentamicin, vancomycin or rifampicin against methicillin-resistant Staphylococcus aureus by time-kill curve methods",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Jacqueline",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Caillon",
+                    "suffix": ""
+                },
+                {
+                    "first": "Le",
+                    "middle": [],
+                    "last": "Mabecque",
+                    "suffix": ""
+                },
+                {
+                    "first": "V",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2003,
+            "venue": "J Antimicrob Chemother",
+            "volume": "51",
+            "issn": "",
+            "pages": "857--64",
+            "other_ids": {}
+        },
+        "BIBREF40": {
+            "ref_id": "b40",
+            "title": "Surface proteins and exotoxins are required for the pathogenesis of Staphylococcus aureus pneumonia",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bubeck Wardenburg",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Patel",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Schneewind",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "Infect Immun",
+            "volume": "75",
+            "issn": "",
+            "pages": "1040--1044",
+            "other_ids": {}
+        },
+        "BIBREF41": {
+            "ref_id": "b41",
+            "title": "Anti-alpha-hemolysin monoclonal antibodies mediate protection against Staphylococcus aureus pneumonia",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Ragle",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Bubeck Wardenburg",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Infect Immun",
+            "volume": "77",
+            "issn": "",
+            "pages": "2712--2720",
+            "other_ids": {}
+        },
+        "BIBREF42": {
+            "ref_id": "b42",
+            "title": "Comparative analysis of USA300 virulence determinants in a rabbit model of skin and soft tissue infection",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "D"
+                    ],
+                    "last": "Kobayashi",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Malachowa",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Whitney",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "J Infect Dis",
+            "volume": "204",
+            "issn": "",
+            "pages": "937--978",
+            "other_ids": {}
+        },
+        "BIBREF43": {
+            "ref_id": "b43",
+            "title": "Staphylococcus aureus \u03b1-toxin: nearly a century of intrigue",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Berube",
+                    "suffix": ""
+                },
+                {
+                    "first": "Bubeck",
+                    "middle": [],
+                    "last": "Wardenburg",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Toxins (Basel)",
+            "volume": "5",
+            "issn": "",
+            "pages": "1140--66",
+            "other_ids": {}
+        },
+        "BIBREF44": {
+            "ref_id": "b44",
+            "title": "Pediatric Acute Lung Injury and Sepsis Investigators (PALISI) PICFlu Study Group. Staphylococcus aureus \u03b1-toxin response distinguishes respiratory virus-methicillin-resistant S. aureus coinfection in children",
+            "authors": [
+                {
+                    "first": "K",
+                    "middle": [
+                        "O"
+                    ],
+                    "last": "Yu",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Randolph",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Agan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "J Infect Dis",
+            "volume": "214",
+            "issn": "",
+            "pages": "1638--1684",
+            "other_ids": {}
+        },
+        "BIBREF45": {
+            "ref_id": "b45",
+            "title": "Pathogenesis of Staphylococcus aureus necrotizing pneumonia: the role of PVL and an influenza coinfection",
+            "authors": [
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "L\u00f6ffler",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Niemann",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Ehrhardt",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Expert Rev Anti Infect Ther",
+            "volume": "11",
+            "issn": "",
+            "pages": "1041--51",
+            "other_ids": {}
+        },
+        "BIBREF46": {
+            "ref_id": "b46",
+            "title": "Community-acquired meticillin-resistant Staphylococcus aureus strain USA300 resists staphylococcal protein A modulation by antibiotics and antimicrobial peptides",
+            "authors": [
+                {
+                    "first": "Cardot",
+                    "middle": [],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Michel",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Raynal",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [],
+                    "last": "",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Int J Antimicrob Agents",
+            "volume": "45",
+            "issn": "",
+            "pages": "19--24",
+            "other_ids": {}
+        },
+        "BIBREF47": {
+            "ref_id": "b47",
+            "title": "Effect of antibiotics, alone and in combination, on Panton-Valentine leukocidin production by a Staphylococcus aureus reference strain",
+            "authors": [
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Dumitrescu",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Badiou",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [],
+                    "last": "Bes",
+                    "suffix": ""
+                }
+            ],
+            "year": 2008,
+            "venue": "Clin Microbiol Infect",
+            "volume": "14",
+            "issn": "",
+            "pages": "384--392",
+            "other_ids": {}
+        },
+        "BIBREF48": {
+            "ref_id": "b48",
+            "title": "Effects of subinhibitory concentrations of antibiotics on virulence factor expression by community-acquired methicillin-resistant Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "P"
+                    ],
+                    "last": "Otto",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Martin",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Badiou",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "J Antimicrob Chemother",
+            "volume": "68",
+            "issn": "",
+            "pages": "1524--1556",
+            "other_ids": {}
+        },
+        "BIBREF49": {
+            "ref_id": "b49",
+            "title": "Impact of antibiotics on expression of virulence-associated exotoxin genes in methicillin-sensitive and methicillin-resistant Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Stevens",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Ma",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "B"
+                    ],
+                    "last": "Salmi",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Mcindoo",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Wallace",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Bryant",
+                    "suffix": ""
+                }
+            ],
+            "year": 2007,
+            "venue": "J Infect Dis",
+            "volume": "195",
+            "issn": "",
+            "pages": "202--213",
+            "other_ids": {}
+        },
+        "BIBREF50": {
+            "ref_id": "b50",
+            "title": "Good practices for real-world data studies of treatment and/or comparative effectiveness: recommendations from the joint ISPOR-ISPE Special Task Force on real-world evidence in health care decision making",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Berger",
+                    "suffix": ""
+                },
+                {
+                    "first": "H",
+                    "middle": [],
+                    "last": "Sox",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Willke",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Pharmacoepidemiol Drug Saf",
+            "volume": "26",
+            "issn": "",
+            "pages": "1033--1042",
+            "other_ids": {}
+        },
+        "BIBREF51": {
+            "ref_id": "b51",
+            "title": "Pediatric Acute Lung Injury and Sepsis Investigators Network PICFlu Study Investigators. Innate immune function and mortality in critically ill children with influenza: a multicenter study",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Hall",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Geyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "C",
+                    "middle": [
+                        "Y"
+                    ],
+                    "last": "Guo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Crit Care Med",
+            "volume": "41",
+            "issn": "",
+            "pages": "224--260",
+            "other_ids": {}
+        },
+        "BIBREF52": {
+            "ref_id": "b52",
+            "title": "Cytokine profiles of severe influenza virus-related complications in children",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Fiore-Gartland",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Panoskaltsis-Mortari",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Agan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Front Immunol",
+            "volume": "8",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF53": {
+            "ref_id": "b53",
+            "title": "Evaluation of IFITM3 rs12252 association with severe pediatric influenza infection",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Randolph",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Yip",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Allen",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "J Infect Dis",
+            "volume": "216",
+            "issn": "",
+            "pages": "14--21",
+            "other_ids": {}
+        },
+        "BIBREF54": {
+            "ref_id": "b54",
+            "title": "Advisory Committee on Immunization Practices Centers for Disease Control and Prevention",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [
+                        "T"
+                    ],
+                    "last": "Kroger",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Atkinson",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Marcuse",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "K"
+                    ],
+                    "last": "Pickering",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "General recommendations on immunization: recommendations of the Advisory Committee on Immunization Practices (ACIP)",
+            "volume": "55",
+            "issn": "",
+            "pages": "1--48",
+            "other_ids": {}
+        },
+        "BIBREF55": {
+            "ref_id": "b55",
+            "title": "Official CDC Health Advisory: Influenza-associated pediatric mortality and Staphylococcus aureus co-infection",
+            "authors": [],
+            "year": null,
+            "venue": "Centers for Disease Control and Prevention",
+            "volume": "",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF56": {
+            "ref_id": "b56",
+            "title": "GA: Department of Health and Human Services (US)",
+            "authors": [],
+            "year": 2008,
+            "venue": "Atlanta",
+            "volume": "",
+            "issn": "",
+            "pages": "1--2",
+            "other_ids": {}
+        },
+        "BIBREF57": {
+            "ref_id": "b57",
+            "title": "Effectiveness of influenza vaccine against life-threatening RT-PCR-confirmed influenza illness in US children",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Ferdinands",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Olsho",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Agan",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "J Infect Dis",
+            "volume": "210",
+            "issn": "",
+            "pages": "674--83",
+            "other_ids": {}
+        },
+        "BIBREF58": {
+            "ref_id": "b58",
+            "title": "Comparison of the GenMark Diagnostics eSensor respiratory viral panel to real-time PCR for detection of respiratory viruses in children",
+            "authors": [
+                {
+                    "first": "V",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Pierce",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Hodinka",
+                    "suffix": ""
+                }
+            ],
+            "year": 2012,
+            "venue": "J Clin Microbiol",
+            "volume": "50",
+            "issn": "",
+            "pages": "3458--65",
+            "other_ids": {}
+        },
+        "BIBREF59": {
+            "ref_id": "b59",
+            "title": "PRISM III: an updated pediatric risk of mortality score",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Pollack",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Patel",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Ruttimann",
+                    "suffix": ""
+                }
+            ],
+            "year": 1996,
+            "venue": "Crit Care Med",
+            "volume": "24",
+            "issn": "",
+            "pages": "743--52",
+            "other_ids": {}
+        },
+        "BIBREF60": {
+            "ref_id": "b60",
+            "title": "The American-European Consensus Conference on ARDS. Definitions, mechanisms, relevant outcomes, and clinical trial coordination",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Bernard",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Artigas",
+                    "suffix": ""
+                },
+                {
+                    "first": "K",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Brigham",
+                    "suffix": ""
+                }
+            ],
+            "year": 1994,
+            "venue": "Am J Respir Crit Care Med",
+            "volume": "149",
+            "issn": "",
+            "pages": "818--842",
+            "other_ids": {}
+        },
+        "BIBREF61": {
+            "ref_id": "b61",
+            "title": "Research electronic data capture (REDCap)-a metadata-driven methodology and workflow process for providing translational research informatics support",
+            "authors": [
+                {
+                    "first": "P",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Harris",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Taylor",
+                    "suffix": ""
+                },
+                {
+                    "first": "R",
+                    "middle": [],
+                    "last": "Thielke",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [],
+                    "last": "Payne",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Gonzalez",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "G"
+                    ],
+                    "last": "Conde",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "J Biomed Inform",
+            "volume": "42",
+            "issn": "",
+            "pages": "377--81",
+            "other_ids": {}
+        },
+        "BIBREF62": {
+            "ref_id": "b62",
+            "title": "Current recommended dosing of vancomycin for children with invasive methicillin-resistant Staphylococcus aureus infections is inadequate",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Frymoyer",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Hersh",
+                    "suffix": ""
+                },
+                {
+                    "first": "L",
+                    "middle": [
+                        "Z"
+                    ],
+                    "last": "Benet",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Guglielmo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2009,
+            "venue": "Pediatr Infect Dis J",
+            "volume": "28",
+            "issn": "",
+            "pages": "398--402",
+            "other_ids": {}
+        },
+        "BIBREF63": {
+            "ref_id": "b63",
+            "title": "An evaluation of vancomycin dosing for complicated infections in pediatric patients",
+            "authors": [
+                {
+                    "first": "S",
+                    "middle": [
+                        "H"
+                    ],
+                    "last": "Durham",
+                    "suffix": ""
+                },
+                {
+                    "first": "M",
+                    "middle": [
+                        "L"
+                    ],
+                    "last": "Simmons",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "W"
+                    ],
+                    "last": "Mulherin",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Foland",
+                    "suffix": ""
+                }
+            ],
+            "year": 2015,
+            "venue": "Hosp Pediatr",
+            "volume": "5",
+            "issn": "",
+            "pages": "276--81",
+            "other_ids": {}
+        },
+        "BIBREF64": {
+            "ref_id": "b64",
+            "title": "A randomized controlled trial of a vancomycin loading dose in children",
+            "authors": [
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Demirjian",
+                    "suffix": ""
+                },
+                {
+                    "first": "Y",
+                    "middle": [],
+                    "last": "Finkelstein",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Nava-Ocampo",
+                    "suffix": ""
+                }
+            ],
+            "year": 2013,
+            "venue": "Pediatr Infect Dis J",
+            "volume": "32",
+            "issn": "",
+            "pages": "1217--1240",
+            "other_ids": {}
+        },
+        "BIBREF65": {
+            "ref_id": "b65",
+            "title": "Clinical practice guidelines by the Infectious Diseases Society of America for the treatment of methicillin-resistant Staphylococcus aureus infections in adults and children: executive summary",
+            "authors": [
+                {
+                    "first": "C",
+                    "middle": [],
+                    "last": "Liu",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Bayer",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Cosgrove",
+                    "suffix": ""
+                }
+            ],
+            "year": 2011,
+            "venue": "Clin Infect Dis",
+            "volume": "52",
+            "issn": "",
+            "pages": "285--92",
+            "other_ids": {}
+        },
+        "BIBREF66": {
+            "ref_id": "b66",
+            "title": "Predictors of mortality for methicillin-resistant Staphylococcus aureus health-care-associated pneumonia: specific evaluation of vancomycin pharmacokinetic indices",
+            "authors": [
+                {
+                    "first": "M",
+                    "middle": [
+                        "N"
+                    ],
+                    "last": "Jeffres",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Isakow",
+                    "suffix": ""
+                },
+                {
+                    "first": "J",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Doherty",
+                    "suffix": ""
+                }
+            ],
+            "year": 2006,
+            "venue": "Chest",
+            "volume": "130",
+            "issn": "",
+            "pages": "947--55",
+            "other_ids": {}
+        },
+        "BIBREF67": {
+            "ref_id": "b67",
+            "title": "The importance of tissue penetration in achieving successful antimicrobial treatment of nosocomial pneumonia and complicated skin and soft-tissue infections caused by methicillin-resistant Staphylococcus aureus: vancomycin and linezolid",
+            "authors": [
+                {
+                    "first": "G",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Stein",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Wells",
+                    "suffix": ""
+                }
+            ],
+            "year": 2010,
+            "venue": "Curr Med Res Opin",
+            "volume": "26",
+            "issn": "",
+            "pages": "571--88",
+            "other_ids": {}
+        },
+        "BIBREF68": {
+            "ref_id": "b68",
+            "title": "Changing susceptibility of Staphylococcus aureus in a US pediatric population",
+            "authors": [
+                {
+                    "first": "D",
+                    "middle": [
+                        "E"
+                    ],
+                    "last": "Sutter",
+                    "suffix": ""
+                },
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Milburn",
+                    "suffix": ""
+                },
+                {
+                    "first": "U",
+                    "middle": [],
+                    "last": "Chukwuma",
+                    "suffix": ""
+                },
+                {
+                    "first": "N",
+                    "middle": [],
+                    "last": "Dzialowy",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [
+                        "M"
+                    ],
+                    "last": "Maranich",
+                    "suffix": ""
+                },
+                {
+                    "first": "D",
+                    "middle": [
+                        "R"
+                    ],
+                    "last": "Hospenthal",
+                    "suffix": ""
+                }
+            ],
+            "year": 2016,
+            "venue": "Pediatrics",
+            "volume": "137",
+            "issn": "",
+            "pages": "",
+            "other_ids": {}
+        },
+        "BIBREF69": {
+            "ref_id": "b69",
+            "title": "The role of antibiotics in modulating virulence in Staphylococcus aureus",
+            "authors": [
+                {
+                    "first": "E",
+                    "middle": [],
+                    "last": "Hodille",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [],
+                    "last": "Rose",
+                    "suffix": ""
+                },
+                {
+                    "first": "B",
+                    "middle": [
+                        "A"
+                    ],
+                    "last": "Diep",
+                    "suffix": ""
+                },
+                {
+                    "first": "S",
+                    "middle": [],
+                    "last": "Goutelle",
+                    "suffix": ""
+                },
+                {
+                    "first": "G",
+                    "middle": [],
+                    "last": "Lina",
+                    "suffix": ""
+                },
+                {
+                    "first": "O",
+                    "middle": [],
+                    "last": "Dumitrescu",
+                    "suffix": ""
+                }
+            ],
+            "year": 2017,
+            "venue": "Clin Microbiol Rev",
+            "volume": "30",
+            "issn": "",
+            "pages": "887--917",
+            "other_ids": {}
+        },
+        "BIBREF70": {
+            "ref_id": "b70",
+            "title": "Ceftaroline for suspected of confirmed invasive methicillin-resistant Staphylococcus aureus: a pharmacokinetic case series",
+            "authors": [
+                {
+                    "first": "J",
+                    "middle": [
+                        "J"
+                    ],
+                    "last": "Cies",
+                    "suffix": ""
+                },
+                {
+                    "first": "W",
+                    "middle": [
+                        "S"
+                    ],
+                    "last": "Moore",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Enache",
+                    "suffix": ""
+                },
+                {
+                    "first": "A",
+                    "middle": [],
+                    "last": "Chopra",
+                    "suffix": ""
+                }
+            ],
+            "year": 2018,
+            "venue": "Pediatr Crit Care Med",
+            "volume": "19",
+            "issn": "",
+            "pages": "292--301",
+            "other_ids": {}
+        }
+    },
+    "ref_entries": {
+        "FIGREF0": {
+            "text": ", 30 (17.6%) were diagnosed with MRSA respiratory coinfection, 61 (35.9%) had a diagnosis of non-MRSA bacterial coinfection (31 methicillin-susceptible S. aureus [MSSA], 10 pneumococcus, and 20 other; see Supplementary",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF1": {
+            "text": "mon in patients with influenza-MRSA (n = 27; median absolute neutrophil count [ANC], 360; IQR, 120-1190; Supplementary Figure 1) compared to patients with influenza and other bacterial coinfection (n = 51; median ANC, 5610; IQR, 1410-10 100; P < .0001) or influenza patients without bacterial coinfection (n = 69; median ANC, 8900; IQR, 4670-14 710; both P < .0001). Serum cytokine analysis results were available prior to 2016 (105/170 patients including 21/30 patients with MRSA). Granulocyte-colony stimulating factor (GCSF), interleukin (IL)-6, IL-8, IL-10, and tumor necrosis factor-alpha were markedly elevated in the children with influenza-MRSA coinfection (P \u2264 .001; Supplementary Figure 2) compared to children with no bacterial coinfection and with other bacterial coinfection.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF2": {
+            "text": "Clinical course and outcomes of critically ill children with influenza virus-methicillin-resistant Staphylococcus aureus (N = 30) compared to influenza with other bacteria identified (N = 61) and influenza with no bacteria identified (N = 79). Abbreviations: ECMO, extracorporeal membrane oxygenation; MRSA, methicillin-resistant Staphylococcus aureus.*P \u2264 .05, **P \u2264 .001, ***P < .0001. Comparisons were made using Mann-Whitney U test with the ends of the bars showing the groups compared.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF3": {
+            "text": "Comparison of vancomycin only to vancomycin with additional anti-methicillin-resistant Staphylococcus aureus agent(s) within the first 24 hours of pediatric intensive care unit admission stratified by survival The relative risk (RR) of mortality in the vancomycin only group was 5.54 (95% confidence interval, 1.4-21.3). Abbreviation: MRSA, methicillin-resistant Staphylococcus aureus.",
+            "latex": null,
+            "type": "figure"
+        },
+        "FIGREF4": {
+            "text": "White blood cell (WBC) counts of children with influenza virus infection within first 24 hours of pediatric intensive care unit admission. WBC counts were available for all 30 influenza-methicillin-resistant Staphylococcus aureus patients, 56/61 influenza-other bacteria patients, and 78/79 influenza-no bacteria patients. Abbreviation: MRSA, methicillin-resistant Staphylococcus aureus. *P \u2264 .05, **P \u2264 .001, ***P < .0001. Comparisons were made using Mann-Whitney U test with the ends of the bars identifying the groups compared.",
+            "latex": null,
+            "type": "figure"
+        },
+        "TABREF0": {
+            "text": "Characteristics and Clinical Course of 170 Children With Influenza Critical Illness With and Without Bacterial Coinfection Abbreviation: IQR, interquartile range. a By Fisher exact test for categorical variables and Kruskal-Wallis test for continuous variables. b P < .001 compared to influenza-methicillin-resistant Staphylococcus aureus. c P \u2264 .0001, compared to influenza-methicillin-resistant Staphylococcus aureus. Some patients identified with more than 1 in this category. e P < .01 compared to influenza-methicillin-resistant Staphylococcus aureus.",
+            "latex": null,
+            "type": "table"
+        }
+    },
+    "back_matter": [
+        {
+            "text": "Acknowledgments. The authors gratefully acknowledge the collaboration and support of PALISI PICFLU study site investigators who enrolled patients and made other major contributions to this study.",
+            "cite_spans": [],
+            "ref_spans": [],
+            "section": "acknowledgement"
+        }
+    ]
+}

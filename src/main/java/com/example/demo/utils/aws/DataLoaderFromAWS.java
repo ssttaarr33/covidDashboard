@@ -28,22 +28,15 @@ public class DataLoaderFromAWS extends DataLoader implements DataLoaderInterface
     private AmazonS3 amazonS3Client;
 
     @Override
-    public Map<String, Integer> loadData() {
+    public Map<String, Long> loadData() {
         try {
             log.info("Listing objects");
-            // maxKeys is set to 2 to demonstrate the use of
-            // ListObjectsV2Result.getNextContinuationToken()
-            ListObjectsV2Request req = new ListObjectsV2Request().withBucketName(applicationProperties.getAwsServices().getBucketName()).withMaxKeys(2000);
-            helper.processData(jsonObjectList, words, amazonS3Client, req, applicationProperties.getAwsServices().getBucketName());
+            helper.processDataAwsV2(jsonObjectList, words, amazonS3Client, applicationProperties.getAwsServices().getBucketName());
 
             return words;
         } catch (AmazonServiceException e) {
             e.printStackTrace();
         } catch (SdkClientException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            e.printStackTrace();
-        } catch (ParseException e) {
             e.printStackTrace();
         }
         return null;

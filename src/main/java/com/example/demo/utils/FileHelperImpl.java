@@ -4,13 +4,16 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
+import java.util.function.Function;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
+import java.util.stream.StreamSupport;
 
 import com.amazonaws.services.s3.AmazonS3;
-import com.amazonaws.services.s3.model.ListObjectsV2Request;
-import com.amazonaws.services.s3.model.ListObjectsV2Result;
-import com.amazonaws.services.s3.model.S3Object;
+import com.amazonaws.services.s3.iterable.S3Objects;
 import com.amazonaws.services.s3.model.S3ObjectSummary;
 import com.amazonaws.util.IOUtils;
 import com.example.demo.utils.aws.AWSRepositoryImpl;
@@ -19,7 +22,6 @@ import lombok.extern.slf4j.Slf4j;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
-import org.springframework.util.ResourceUtils;
 
 @Slf4j
 public class FileHelperImpl implements FileHelper {
@@ -27,74 +29,35 @@ public class FileHelperImpl implements FileHelper {
     AWSRepositoryImpl awsRepository = new AWSRepositoryImpl();
 
     JSONParser parser = new JSONParser();
-    private static final String LOCAL_RESOURCE_FILE_LOCATION = "classpath:static/";
     private static final String BODY_KEY = "body_text";
 
     @Override
-    public void extractDataFromBody(List<JSONObject> bodyLines, Map<String, Integer> words) {
-        for (JSONObject line : bodyLines) {
-            String[] splitted = line.get("text").toString().split(Regex.SPACE.getRegex());
-            for (String word : splitted) {
-                word = word.replaceAll(Regex.PUNCTUATION.getRegex(), "");
-                if (words.containsKey(word)) {
-                    words.put(word, words.get(word) + 1);
-                } else {
-                    words.put(word, 1);
-                }
-            }
-        }
-    }
-
-    @Override
-    public void removeSeveralStuff(Map<String, Integer> words) {
-        // remove single characters
-        words.keySet().removeIf(key -> key.matches(Regex.SINGLE_CHARACTER.getRegex()));
-        // remove single alphanumeric
-        words.keySet().removeIf(key -> key.matches(Regex.ALPHANUMERIC.getRegex()));
-        // remove single digit
-        words.keySet().removeIf(key -> key.matches(Regex.SINGLE_DIGIT.getRegex()));
-        // remove double digit
-        words.keySet().removeIf(key -> key.matches(Regex.DOUBLE_DIGIT.getRegex()));
-        // remove triple digit
-        words.keySet().removeIf(key -> key.matches(Regex.TRIPLE_DIGIT.getRegex()));
-        // remove quadruple digit
-        words.keySet().removeIf(key -> key.matches(Regex.QUADRUPLE_DIGIT.getRegex()));
+    public void removeSeveralStuffV2(Map<String, Long> words) {
+        Arrays.stream(Regex.values()).forEach(regex -> words.keySet().removeIf(key -> key.matches(regex.getRegex())));
         // remove single occurrences
         words.values().removeIf(value -> value < 30);
         // remove stopwords
-        removeStopWords(words);
+        removeStopWordsV2(words);
     }
 
     @Override
-    public void parseJsonObjects(List<JSONObject> jsonObjectList, Map<String, Integer> words) {
-        for (JSONObject obj : jsonObjectList) {
-            extractDataFromBody((List) obj.get(BODY_KEY), words);
-        }
+    public Map<String, Long> parseJsonObjectsV2(List<JSONObject> jsonObjectList) {
+
+        return jsonObjectList.stream()
+                             .map(jsonObject -> jsonObject.get(BODY_KEY))
+                             .map(line -> ((JSONObject) line).get("text").toString().split(Regex.SPACE.getRegex()))
+                             .flatMap(stringArray -> Arrays.stream(stringArray))
+                             .map(word -> word.replaceAll(Regex.PUNCTUATION.getRegex(), ""))
+                             .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
+
     }
 
-    public void createJsonObjectList(File[] listOfFiles, List<JSONObject> jsonObjectList) throws IOException, ParseException {
-        for (int i = 0; i < listOfFiles.length; i++) {
-            if (listOfFiles[i].isFile()) {
-                jsonObjectList.add(fileToJSONObject(listOfFiles[i]));
-            } else if (listOfFiles[i].isDirectory()) {
-                log.info("Directory " + listOfFiles[i].getName());
-            }
-        }
-    }
-
-    private void removeStopWords(Map<String, Integer> words) {
-        for (String stopWord : Stopwords.stopWordsofwordnet) {
-            words.keySet().removeIf(key -> stopWord.contains(key));
-        }
+    private void removeStopWordsV2(Map<String, Long> words) {
+        Arrays.stream(Stopwords.stopWordsofwordnet).map(stopWord -> words.keySet().removeIf(key -> stopWord.contains(key)));
     }
 
     private JSONParser getParser() {
         return parser;
-    }
-
-    @Override
-    public JSONObject fileToJSONObject(File file) throws IOException, ParseException {
-        return (JSONObject) getParser().parse(new BufferedReader(new FileReader(file)));
     }
 
     @Override
@@ -103,49 +66,30 @@ public class FileHelperImpl implements FileHelper {
     }
 
     @Override
-    public File[] getResourceFolderFiles() throws IOException {
-        File file = ResourceUtils.getFile(LOCAL_RESOURCE_FILE_LOCATION);
-        return file.listFiles();
+    public void processDataAwsV2(List<JSONObject> jsonObjectList, Map<String, Long> words, AmazonS3 amazonS3Client,
+                                 String bucketName) {
+        jsonObjectList = createJsonObjectListV2(amazonS3Client, bucketName, jsonObjectList);
+        words = parseJsonObjectsV2(jsonObjectList);
+        removeSeveralStuffV2(words);
     }
 
     @Override
-    public void processData(List<JSONObject> jsonObjectList, Map<String, Integer> words, File[] listOfFiles) throws IOException, ParseException {
-        createJsonObjectList(listOfFiles, jsonObjectList);
-        parseJsonObjects(jsonObjectList, words);
-        removeSeveralStuff(words);
-    }
+    public List<JSONObject> createJsonObjectListV2(AmazonS3 amazonS3Client, String bucketName, List<JSONObject> jsonObjectList) {
+        long start = System.currentTimeMillis();
+        Iterable<S3ObjectSummary> objectSummaries = S3Objects.inBucket(amazonS3Client, bucketName);
+        Stream<S3ObjectSummary> objectSummaryStream = StreamSupport.stream(objectSummaries.spliterator(), true);
+        jsonObjectList = objectSummaryStream.map(s3ObjectSummary -> awsRepository.downloadFileFromS3Bucket(s3ObjectSummary.getKey(), bucketName,
+                                                                                                           amazonS3Client))
+                                            .map(Either.liftWithValue(object -> IOUtils.toString(object.getObjectContent())))
+                                            .filter(option -> option.isRight())
+                                            .map(Either.liftWithValue(fileContent -> stringToJSONObject(fileContent.getRight().toString())))
+                                            .filter(option -> option.isRight())
+                                            .map(option -> (JSONObject) option.getRight())
+                                            .collect(Collectors.toList());
 
-    @Override
-    public void processData(List<JSONObject> jsonObjectList, Map<String, Integer> words, AmazonS3 amazonS3Client, ListObjectsV2Request req,
-                            String bucketName) throws IOException, ParseException {
-        createJsonObjectList(amazonS3Client, req, bucketName, jsonObjectList);
-        parseJsonObjects(jsonObjectList, words);
-        removeSeveralStuff(words);
-    }
+        log.info("Time: {} seconds", (System.currentTimeMillis() - start) / 1000);
 
-    @Override
-    public void createJsonObjectList(AmazonS3 amazonS3Client, ListObjectsV2Request req, String bucketName, List<JSONObject> jsonObjectList) throws IOException
-            , ParseException {
-        ListObjectsV2Result result;
-        do {
-            long start = System.currentTimeMillis();
-            result = amazonS3Client.listObjectsV2(req);
-            S3Object object;
-            String fileContent;
-            for (S3ObjectSummary objectSummary : result.getObjectSummaries()) {
-//                log.info(" - %s (size: %d)\n", objectSummary.getKey(), objectSummary.getSize());
-                object = awsRepository.downloadFileFromS3Bucket(objectSummary.getKey(), bucketName, amazonS3Client);
-                fileContent = IOUtils.toString(object.getObjectContent());
-                jsonObjectList.add(stringToJSONObject(fileContent));
-            }
-            // If there are more than maxKeys keys in the bucket, get a continuation token
-            // and list the next objects.
-            String token = result.getNextContinuationToken();
-//            log.info("Next Continuation Token: " + token);
-            req.setContinuationToken(token);
-            log.info("Time: {} seconds", (System.currentTimeMillis() - start)/1000);
-        } while (result.isTruncated());
+        return jsonObjectList;
     }
-
 
 }

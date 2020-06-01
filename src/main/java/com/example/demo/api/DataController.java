@@ -28,11 +28,11 @@ public class DataController {
     @Autowired
     private final DataService dataService;
 
-    @CrossOrigin(origins = "http://localhost:4200")
+    @CrossOrigin(origins = "${app.allowed.origin.localhost}")
     @GetMapping("${app.endpoint.uploadFiles}")
     @ResponseStatus(HttpStatus.OK)
     @ApiOperation("Get data for dashboard")
-    public RestResponse<Map<String, Integer>> getBonusState() {
+    public RestResponse<Map<String, Long>> getBonusState() {
         log.info("Get data for dashboard");
         return RestResponse.ok(dataService.loadData());
     }

@@ -11,5 +11,5 @@ public class DataLoader {
 
     public FileHelperImpl helper = new FileHelperImpl();
     public List<JSONObject> jsonObjectList = new ArrayList<>();
-    public Map<String, Integer> words = new HashMap<String, Integer>();
+    public Map<String, Long> words = new HashMap<>();
 }

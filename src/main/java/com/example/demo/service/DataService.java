@@ -12,19 +12,8 @@ public class DataService {
     @Autowired
     private DataLoaderFromAWS dataLoaderService;
 
-    public Map<String, Integer> loadData() {
+    public Map<String, Long> loadData() {
         return dataLoaderService.loadData();
     }
 
-    //
-//    public Map<String, Integer> loadData() {
-//        try {
-//            return new DataLoaderFromLocal().loadData();
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        } catch (ParseException e) {
-//            e.printStackTrace();
-//        }
-//        return null;
-//    }
 }

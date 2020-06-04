@@ -11,8 +11,8 @@ import org.json.simple.parser.ParseException;
 import org.springframework.stereotype.Service;
 
 @Slf4j
+@Service
 public class DataLoaderFromLocal extends DataLoader implements DataLoaderInterface {
-
 
     @Override
     public Map<String, Integer> loadData() throws IOException, ParseException {

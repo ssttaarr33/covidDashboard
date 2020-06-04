@@ -7,13 +7,6 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Map;
 
-import com.amazonaws.services.s3.AmazonS3;
-import com.amazonaws.services.s3.model.ListObjectsV2Request;
-import com.amazonaws.services.s3.model.ListObjectsV2Result;
-import com.amazonaws.services.s3.model.S3Object;
-import com.amazonaws.services.s3.model.S3ObjectSummary;
-import com.amazonaws.util.IOUtils;
-import com.example.demo.utils.aws.AWSRepositoryImpl;
 import com.example.demo.utils.local.data.Stopwords;
 import lombok.extern.slf4j.Slf4j;
 import org.json.simple.JSONObject;
@@ -23,8 +16,6 @@ import org.springframework.util.ResourceUtils;
 
 @Slf4j
 public class FileHelperImpl implements FileHelper {
-
-    AWSRepositoryImpl awsRepository = new AWSRepositoryImpl();
 
     JSONParser parser = new JSONParser();
     private static final String LOCAL_RESOURCE_FILE_LOCATION = "classpath:static/";
@@ -114,38 +105,4 @@ public class FileHelperImpl implements FileHelper {
         parseJsonObjects(jsonObjectList, words);
         removeSeveralStuff(words);
     }
-
-    @Override
-    public void processData(List<JSONObject> jsonObjectList, Map<String, Integer> words, AmazonS3 amazonS3Client, ListObjectsV2Request req,
-                            String bucketName) throws IOException, ParseException {
-        createJsonObjectList(amazonS3Client, req, bucketName, jsonObjectList);
-        parseJsonObjects(jsonObjectList, words);
-        removeSeveralStuff(words);
-    }
-
-    @Override
-    public void createJsonObjectList(AmazonS3 amazonS3Client, ListObjectsV2Request req, String bucketName, List<JSONObject> jsonObjectList) throws IOException
-            , ParseException {
-        ListObjectsV2Result result;
-        do {
-            long start = System.currentTimeMillis();
-            result = amazonS3Client.listObjectsV2(req);
-            S3Object object;
-            String fileContent;
-            for (S3ObjectSummary objectSummary : result.getObjectSummaries()) {
-//                log.info(" - %s (size: %d)\n", objectSummary.getKey(), objectSummary.getSize());
-                object = awsRepository.downloadFileFromS3Bucket(objectSummary.getKey(), bucketName, amazonS3Client);
-                fileContent = IOUtils.toString(object.getObjectContent());
-                jsonObjectList.add(stringToJSONObject(fileContent));
-            }
-            // If there are more than maxKeys keys in the bucket, get a continuation token
-            // and list the next objects.
-            String token = result.getNextContinuationToken();
-//            log.info("Next Continuation Token: " + token);
-            req.setContinuationToken(token);
-            log.info("Time: {} seconds", (System.currentTimeMillis() - start)/1000);
-        } while (result.isTruncated());
-    }
-
-
 }

@@ -1,8 +1,10 @@
 package com.example.demo.service;
 
+import java.io.IOException;
 import java.util.Map;
 
-import com.example.demo.utils.aws.DataLoaderFromAWS;
+import com.example.demo.utils.local.data.DataLoaderFromLocal;
+import org.json.simple.parser.ParseException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -10,21 +12,9 @@ import org.springframework.stereotype.Service;
 public class DataService {
 
     @Autowired
-    private DataLoaderFromAWS dataLoaderService;
+    private DataLoaderFromLocal dataLoaderService;
 
-    public Map<String, Integer> loadData() {
+    public Map<String, Integer> loadData() throws IOException, ParseException {
         return dataLoaderService.loadData();
     }
-
-    //
-//    public Map<String, Integer> loadData() {
-//        try {
-//            return new DataLoaderFromLocal().loadData();
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        } catch (ParseException e) {
-//            e.printStackTrace();
-//        }
-//        return null;
-//    }
 }

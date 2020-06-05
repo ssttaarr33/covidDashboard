@@ -1,7 +1,8 @@
 package com.example.demo.utils.local.data;
 
-import java.io.File;
 import java.io.IOException;
+import java.nio.file.Path;
+import java.util.List;
 import java.util.Map;
 
 import com.example.demo.utils.DataLoader;
@@ -17,7 +18,7 @@ public class DataLoaderFromLocal extends DataLoader implements DataLoaderInterfa
     @Override
     public Map<String, Integer> loadData() throws IOException, ParseException {
 
-        File[] listOfFiles = helper.getResourceFolderFiles();
+        List<Path> listOfFiles = helper.getResourceFolderFiles();
         helper.processData(jsonObjectList, words, listOfFiles);
 
         return words;

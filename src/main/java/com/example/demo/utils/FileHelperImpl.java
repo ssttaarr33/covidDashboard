@@ -4,22 +4,35 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.List;
 import java.util.Map;
+import java.util.stream.Collectors;
 
 import com.example.demo.utils.local.data.Stopwords;
+import io.micrometer.core.annotation.Timed;
 import lombok.extern.slf4j.Slf4j;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
-import org.springframework.util.ResourceUtils;
 
 @Slf4j
 public class FileHelperImpl implements FileHelper {
 
     JSONParser parser = new JSONParser();
-    private static final String LOCAL_RESOURCE_FILE_LOCATION = "classpath:static/";
+    private static final String LOCAL_RESOURCE_FILE_LOCATION = "${app.file.location}";
     private static final String BODY_KEY = "body_text";
+
+
+    @Override
+    @Timed(description = "Time to load files from jar", value="dataloader.load")
+    public void processData(List<JSONObject> jsonObjectList, Map<String, Integer> words, List<Path> listOfFiles) throws IOException, ParseException {
+        createJsonObjectList(listOfFiles, jsonObjectList);
+        parseJsonObjects(jsonObjectList, words);
+        removeSeveralStuff(words);
+    }
 
     @Override
     public void extractDataFromBody(List<JSONObject> bodyLines, Map<String, Integer> words) {
@@ -63,13 +76,9 @@ public class FileHelperImpl implements FileHelper {
         }
     }
 
-    public void createJsonObjectList(File[] listOfFiles, List<JSONObject> jsonObjectList) throws IOException, ParseException {
-        for (int i = 0; i < listOfFiles.length; i++) {
-            if (listOfFiles[i].isFile()) {
-                jsonObjectList.add(fileToJSONObject(listOfFiles[i]));
-            } else if (listOfFiles[i].isDirectory()) {
-                log.info("Directory " + listOfFiles[i].getName());
-            }
+    public void createJsonObjectList(List<Path> listOfFiles, List<JSONObject> jsonObjectList) throws IOException, ParseException {
+        for (int i = 0; i < listOfFiles.size(); i++) {
+            jsonObjectList.add(fileToJSONObject(listOfFiles.get(i).toFile()));
         }
     }
 
@@ -85,24 +94,16 @@ public class FileHelperImpl implements FileHelper {
 
     @Override
     public JSONObject fileToJSONObject(File file) throws IOException, ParseException {
-        return (JSONObject) getParser().parse(new BufferedReader(new FileReader(file)));
+        BufferedReader fileReader = new BufferedReader(new FileReader(file));
+        JSONObject jsonObject = (JSONObject) getParser().parse(fileReader);
+        fileReader.close();
+        return jsonObject;
     }
 
     @Override
-    public JSONObject stringToJSONObject(String content) throws ParseException {
-        return (JSONObject) getParser().parse(content);
-    }
-
-    @Override
-    public File[] getResourceFolderFiles() throws IOException {
-        File file = ResourceUtils.getFile(LOCAL_RESOURCE_FILE_LOCATION);
-        return file.listFiles();
-    }
-
-    @Override
-    public void processData(List<JSONObject> jsonObjectList, Map<String, Integer> words, File[] listOfFiles) throws IOException, ParseException {
-        createJsonObjectList(listOfFiles, jsonObjectList);
-        parseJsonObjects(jsonObjectList, words);
-        removeSeveralStuff(words);
+    public List<Path> getResourceFolderFiles() throws IOException {
+        String relativePath = LOCAL_RESOURCE_FILE_LOCATION;
+        Path staticPath = Paths.get(relativePath);
+        return Files.list(staticPath).collect(Collectors.toList());
     }
 }

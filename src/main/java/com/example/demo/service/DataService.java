@@ -4,17 +4,17 @@ import java.io.IOException;
 import java.util.Map;
 
 import com.example.demo.utils.local.data.DataLoaderFromLocal;
+import lombok.AllArgsConstructor;
 import org.json.simple.parser.ParseException;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 @Service
+@AllArgsConstructor
 public class DataService {
 
-    @Autowired
-    private DataLoaderFromLocal dataLoaderService;
+    private DataLoaderFromLocal dataLoader;
 
     public Map<String, Integer> loadData() throws IOException, ParseException {
-        return dataLoaderService.loadData();
+        return dataLoader.loadData();
     }
 }

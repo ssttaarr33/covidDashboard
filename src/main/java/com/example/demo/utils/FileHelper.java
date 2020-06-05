@@ -2,6 +2,7 @@ package com.example.demo.utils;
 
 import java.io.File;
 import java.io.IOException;
+import java.nio.file.Path;
 import java.util.List;
 import java.util.Map;
 
@@ -15,13 +16,11 @@ public interface FileHelper {
 
     void parseJsonObjects(List<JSONObject> jsonObjectList, Map<String, Integer> words);
 
-    void createJsonObjectList(File[] listOfFiles, List<JSONObject> jsonObjectList) throws IOException, ParseException;
+    void createJsonObjectList(List<Path> listOfFiles, List<JSONObject> jsonObjectList) throws IOException, ParseException;
 
     JSONObject fileToJSONObject(File file) throws IOException, ParseException;
 
-    JSONObject stringToJSONObject(String content) throws ParseException;
+    List<Path> getResourceFolderFiles() throws IOException;
 
-    File[] getResourceFolderFiles() throws IOException;
-
-    void processData(List<JSONObject> jsonObjectList, Map<String, Integer> words, File[] listOfFiles) throws IOException, ParseException;
+    void processData(List<JSONObject> jsonObjectList, Map<String, Integer> words, List<Path> listOfFiles) throws IOException, ParseException;
 }

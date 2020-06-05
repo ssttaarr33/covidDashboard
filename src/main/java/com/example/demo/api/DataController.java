@@ -33,7 +33,7 @@ public class DataController {
     private final DataService dataService;
 
     @CrossOrigin(origins = "http://localhost:4200")
-    @GetMapping("${app.endpoint.uploadFiles}")
+    @GetMapping("${app.endpoint.get.data}")
     @ResponseStatus(HttpStatus.OK)
     @ApiOperation("Get data for dashboard")
     public RestResponse<Map<String, Integer>> getDataForDashboard() {

@@ -4,20 +4,17 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
-import java.util.stream.StreamSupport;
 
-import com.amazonaws.services.s3.AmazonS3;
-import com.amazonaws.services.s3.iterable.S3Objects;
-import com.amazonaws.services.s3.model.S3ObjectSummary;
-import com.amazonaws.util.IOUtils;
-import com.example.demo.utils.aws.AWSRepositoryImpl;
 import com.example.demo.utils.local.data.Stopwords;
+import io.micrometer.core.annotation.Timed;
 import lombok.extern.slf4j.Slf4j;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
@@ -26,10 +23,18 @@ import org.json.simple.parser.ParseException;
 @Slf4j
 public class FileHelperImpl implements FileHelper {
 
-    AWSRepositoryImpl awsRepository = new AWSRepositoryImpl();
-
     JSONParser parser = new JSONParser();
+    private static final String LOCAL_RESOURCE_FILE_LOCATION = "/opt/static";
     private static final String BODY_KEY = "body_text";
+
+    @Override
+    @Timed(description = "Time to load files from jar", value="dataloader.load")
+    public void processData(List<JSONObject> jsonObjectList, Map<String, Long> words, List<Path> listOfFiles) throws IOException, ParseException {
+        jsonObjectList = createJsonObjectList(listOfFiles, jsonObjectList);
+        words = parseJsonObjectsV2(jsonObjectList);
+        removeSeveralStuffV2(words);
+    }
+
 
     @Override
     public void removeSeveralStuffV2(Map<String, Long> words) {
@@ -52,6 +57,16 @@ public class FileHelperImpl implements FileHelper {
 
     }
 
+    @Override
+    public List<JSONObject> createJsonObjectList(List<Path> listOfFiles, List<JSONObject> jsonObjectList) throws IOException, ParseException {
+        return listOfFiles.stream()
+                     .map(Either.liftWithValue(path -> fileToJSONObject(path.toFile())))
+                     .filter(option -> option.isRight())
+                     .map(option -> (JSONObject) option.getRight())
+                     .collect(Collectors.toList());
+
+    }
+
     private void removeStopWordsV2(Map<String, Long> words) {
         Arrays.stream(Stopwords.stopWordsofwordnet).map(stopWord -> words.keySet().removeIf(key -> stopWord.contains(key)));
     }
@@ -61,35 +76,17 @@ public class FileHelperImpl implements FileHelper {
     }
 
     @Override
-    public JSONObject stringToJSONObject(String content) throws ParseException {
-        return (JSONObject) getParser().parse(content);
+    public JSONObject fileToJSONObject(File file) throws IOException, ParseException {
+        BufferedReader fileReader = new BufferedReader(new FileReader(file));
+        JSONObject jsonObject = (JSONObject) getParser().parse(fileReader);
+        fileReader.close();
+        return jsonObject;
     }
 
     @Override
-    public void processDataAwsV2(List<JSONObject> jsonObjectList, Map<String, Long> words, AmazonS3 amazonS3Client,
-                                 String bucketName) {
-        jsonObjectList = createJsonObjectListV2(amazonS3Client, bucketName, jsonObjectList);
-        words = parseJsonObjectsV2(jsonObjectList);
-        removeSeveralStuffV2(words);
+    public List<Path> getResourceFolderFiles() throws IOException {
+        String relativePath = LOCAL_RESOURCE_FILE_LOCATION;
+        Path staticPath = Paths.get(relativePath);
+        return Files.list(staticPath).collect(Collectors.toList());
     }
-
-    @Override
-    public List<JSONObject> createJsonObjectListV2(AmazonS3 amazonS3Client, String bucketName, List<JSONObject> jsonObjectList) {
-        long start = System.currentTimeMillis();
-        Iterable<S3ObjectSummary> objectSummaries = S3Objects.inBucket(amazonS3Client, bucketName);
-        Stream<S3ObjectSummary> objectSummaryStream = StreamSupport.stream(objectSummaries.spliterator(), true);
-        jsonObjectList = objectSummaryStream.map(s3ObjectSummary -> awsRepository.downloadFileFromS3Bucket(s3ObjectSummary.getKey(), bucketName,
-                                                                                                           amazonS3Client))
-                                            .map(Either.liftWithValue(object -> IOUtils.toString(object.getObjectContent())))
-                                            .filter(option -> option.isRight())
-                                            .map(Either.liftWithValue(fileContent -> stringToJSONObject(fileContent.getRight().toString())))
-                                            .filter(option -> option.isRight())
-                                            .map(option -> (JSONObject) option.getRight())
-                                            .collect(Collectors.toList());
-
-        log.info("Time: {} seconds", (System.currentTimeMillis() - start) / 1000);
-
-        return jsonObjectList;
-    }
-
 }

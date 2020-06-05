@@ -1,10 +1,11 @@
 package com.example.demo.utils;
 
+import java.io.File;
 import java.io.IOException;
+import java.nio.file.Path;
 import java.util.List;
 import java.util.Map;
 
-import com.amazonaws.services.s3.AmazonS3;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.ParseException;
 
@@ -14,12 +15,11 @@ public interface FileHelper {
 
     Map<String, Long> parseJsonObjectsV2(List<JSONObject> jsonObjectList);
 
-    List<JSONObject> createJsonObjectListV2(AmazonS3 amazonS3Client, String bucketName, List<JSONObject> jsonObjectList) throws IOException
-            , ParseException;
+    List<JSONObject> createJsonObjectList(List<Path> listOfFiles, List<JSONObject> jsonObjectList) throws IOException, ParseException;
 
-    JSONObject stringToJSONObject(String content) throws ParseException;
+    JSONObject fileToJSONObject(File file) throws IOException, ParseException;
 
-    void processDataAwsV2(List<JSONObject> jsonObjectList, Map<String, Long> words, AmazonS3 amazonS3Client,
-                       String bucketName) throws IOException, ParseException;
+    List<Path> getResourceFolderFiles() throws IOException;
 
+    void processData(List<JSONObject> jsonObjectList, Map<String, Long> words, List<Path> listOfFiles) throws IOException, ParseException;
 }

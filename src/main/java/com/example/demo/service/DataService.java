@@ -7,7 +7,6 @@ import java.util.Map;
 import com.example.demo.utils.DataLoader;
 import lombok.AllArgsConstructor;
 import org.json.simple.parser.ParseException;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 @Service

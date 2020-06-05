@@ -4,43 +4,51 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.io.Reader;
+import java.net.URI;
+import java.net.URISyntaxException;
+import java.nio.file.FileSystem;
+import java.nio.file.FileSystems;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.stream.Collectors;
 
 import io.micrometer.core.annotation.Timed;
-import org.apache.commons.io.FileUtils;
+import lombok.AllArgsConstructor;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
-import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.core.io.DefaultResourceLoader;
 import org.springframework.core.io.Resource;
-import org.springframework.core.io.ResourceLoader;
 import org.springframework.core.io.support.ResourcePatternUtils;
+import org.springframework.stereotype.Service;
 
+@Service
+@AllArgsConstructor
 public class DataLoader {
 
-    @Autowired
-    private ResourceLoader resourceLoader;
+    private DefaultResourceLoader resourceLoader;
 
     private Resource[] loadResources(String pattern) throws IOException {
         return ResourcePatternUtils.getResourcePatternResolver(resourceLoader).getResources(pattern);
     }
 
-    @Timed(description = "Time to load files from jar")
-    public Map<String, Integer> loadDataFromFile() throws IOException, ParseException {
+    @Timed(description = "Time to load files from jar", value="dataloader.load")
+    public Map<String, Integer> loadDataFromFile() throws IOException, ParseException, URISyntaxException {
         List<JSONObject> jsonObjectList = new ArrayList<>();
         Map<String, Integer> words = new HashMap<String, Integer>();
-        InputStream[] listOfFiles = getResourceFolderFiles();
+        List<Path> listOfFiles = getResourceFolderFiles();
         JSONParser parser = new JSONParser();
-        for (int i = 0; i < listOfFiles.length; i++) {
-           Reader targetReader = new InputStreamReader(listOfFiles[i]);
-           JSONObject jsonObject = (JSONObject) parser.parse(new BufferedReader(targetReader));
-           targetReader.close();
+        for (int i = 0; i < listOfFiles.size(); i++) {
+           File targetReader = listOfFiles.get(i).toFile();
+           BufferedReader fileReader = new BufferedReader(new FileReader(targetReader));
+           JSONObject jsonObject = (JSONObject) parser.parse(fileReader);
+           fileReader.close();
            jsonObjectList.add(jsonObject);
         }
         for (JSONObject obj : jsonObjectList) {
@@ -86,13 +94,10 @@ public class DataLoader {
         }
     }
 
-    private InputStream[] getResourceFolderFiles() throws IOException {
-        Resource[] resources = loadResources("static/*.json");
-        InputStream[] streams = new InputStream[resources.length];
-        for (int i = 0; i < resources.length; i++) {
-            streams[i] = resources[i].getInputStream();
-        }
-        return streams;
+    private List<Path> getResourceFolderFiles() throws IOException {
+        String relativePath = "/opt/static";
+        Path staticPath = Paths.get(relativePath);
+        return Files.list(staticPath).collect(Collectors.toList());
     }
 
 }

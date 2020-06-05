@@ -15,7 +15,6 @@ public class DemoApplication {
     @Bean
     MeterRegistryCustomizer<MeterRegistry> metricsCommonTags() {
         return registry -> registry.config()
-                                   .commonTags("hikaricp", "first-iteration")
                                    .commonTags("instance", "first-iteration")
                                    .commonTags("application", "devTalks");
     }

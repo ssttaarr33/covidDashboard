@@ -22,7 +22,7 @@ import org.json.simple.parser.ParseException;
 public class FileHelperImpl implements FileHelper {
 
     JSONParser parser = new JSONParser();
-    private static final String LOCAL_RESOURCE_FILE_LOCATION = "${app.file.location}";
+    private static final String LOCAL_RESOURCE_FILE_LOCATION = "/opt/static";
     private static final String BODY_KEY = "body_text";
 
 

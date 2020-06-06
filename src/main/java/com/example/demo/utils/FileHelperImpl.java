@@ -14,7 +14,6 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 
 import com.example.demo.utils.local.data.Stopwords;
-import io.micrometer.core.annotation.Timed;
 import lombok.extern.slf4j.Slf4j;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
@@ -27,9 +26,9 @@ public class FileHelperImpl implements FileHelper {
     JSONParser parser = new JSONParser();
     private static final String LOCAL_RESOURCE_FILE_LOCATION = "/opt/static";
     private static final String BODY_KEY = "body_text";
+    private static final String TEXT_KEY = "text";
 
     @Override
-    @Timed(description = "Time to load files from jar", value = "dataloader.load")
     public Map<String, Long> processData(List<JSONObject> jsonObjectList, Map<String, Long> words, List<Path> listOfFiles) throws IOException, ParseException {
         jsonObjectList = createJsonObjectList(listOfFiles, jsonObjectList);
         words = parseJsonObjectsV2(jsonObjectList);
@@ -52,27 +51,23 @@ public class FileHelperImpl implements FileHelper {
 
         return jsonObjectList.parallelStream()
                              .map(jsonObject -> jsonObject.get(BODY_KEY))
-                             .map(array -> getDataFromArray((JSONArray) array))
-                             .flatMap(stringArray -> stringArray.stream())
+                             .map(array -> ((JSONArray) array).parallelStream()
+                                                              .map(object -> ((JSONObject) object).get(TEXT_KEY).toString())
+                                                              .collect(Collectors.toList()))
+                             .flatMap(stringArray -> ((List<String>) stringArray).stream())
                              .map(text -> text.split(Regex.SPACE.getRegex()))
                              .flatMap(stringArray -> Arrays.stream(stringArray))
                              .map(word -> word.replaceAll(Regex.PUNCTUATION.getRegex(), ""))
                              .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
     }
 
-    public List<String> getDataFromArray(JSONArray jsonArray) {
-        return (List<String>) jsonArray.parallelStream()
-                                       .map(object -> ((JSONObject) object).get("text").toString())
-                                       .collect(Collectors.toList());
-    }
-
     @Override
     public List<JSONObject> createJsonObjectList(List<Path> listOfFiles, List<JSONObject> jsonObjectList) throws IOException, ParseException {
         return listOfFiles.stream()
-                     .map(Either.liftWithValue(path -> fileToJSONObject(path.toFile())))
-                     .filter(option -> option.isRight())
-                     .map(option -> (JSONObject) option.getRight())
-                     .collect(Collectors.toList());
+                          .map(Either.liftWithValue(path -> fileToJSONObject(path.toFile())))
+                          .filter(option -> option.isRight())
+                          .map(option -> (JSONObject) option.getRight())
+                          .collect(Collectors.toList());
 
     }
 

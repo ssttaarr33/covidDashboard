@@ -5,7 +5,6 @@ import java.util.function.Function;
 
 import lombok.AllArgsConstructor;
 import lombok.Value;
-import org.apache.commons.lang3.tuple.Pair;
 
 @AllArgsConstructor
 @Value
@@ -55,7 +54,7 @@ public class Either<L, R> {
             try {
                 return Either.Right(function.apply(t));
             } catch (Exception ex) {
-                return Either.Left(Pair.of(ex, t));
+                return Either.Left(t);
             }
         };
     }

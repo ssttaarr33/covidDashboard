@@ -42,10 +42,10 @@ public class DataController {
             return RestResponse.ok(dataService.loadData());
         } catch (IOException e) {
             e.printStackTrace();
+            return RestResponse.fail(ERROR_INTERNAL_ERROR, "FAIL: " + e.getMessage(), new HashMap<>());
         } catch (ParseException e) {
             e.printStackTrace();
-        } finally {
-            return RestResponse.fail(ERROR_INTERNAL_ERROR, "FAIL", new HashMap<>());
+            return RestResponse.fail(ERROR_INTERNAL_ERROR, "FAIL: " + e.getMessage(), new HashMap<>());
         }
     }
 }

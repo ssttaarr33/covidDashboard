@@ -16,6 +16,7 @@ import java.util.stream.Collectors;
 import com.example.demo.utils.local.data.Stopwords;
 import io.micrometer.core.annotation.Timed;
 import lombok.extern.slf4j.Slf4j;
+import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
@@ -28,11 +29,12 @@ public class FileHelperImpl implements FileHelper {
     private static final String BODY_KEY = "body_text";
 
     @Override
-    @Timed(description = "Time to load files from jar", value="dataloader.load")
-    public void processData(List<JSONObject> jsonObjectList, Map<String, Long> words, List<Path> listOfFiles) throws IOException, ParseException {
+    @Timed(description = "Time to load files from jar", value = "dataloader.load")
+    public Map<String, Long> processData(List<JSONObject> jsonObjectList, Map<String, Long> words, List<Path> listOfFiles) throws IOException, ParseException {
         jsonObjectList = createJsonObjectList(listOfFiles, jsonObjectList);
         words = parseJsonObjectsV2(jsonObjectList);
         removeSeveralStuffV2(words);
+        return words;
     }
 
 
@@ -48,13 +50,20 @@ public class FileHelperImpl implements FileHelper {
     @Override
     public Map<String, Long> parseJsonObjectsV2(List<JSONObject> jsonObjectList) {
 
-        return jsonObjectList.stream()
+        return jsonObjectList.parallelStream()
                              .map(jsonObject -> jsonObject.get(BODY_KEY))
-                             .map(line -> ((JSONObject) line).get("text").toString().split(Regex.SPACE.getRegex()))
+                             .map(array -> getDataFromArray((JSONArray) array))
+                             .flatMap(stringArray -> stringArray.stream())
+                             .map(text -> text.split(Regex.SPACE.getRegex()))
                              .flatMap(stringArray -> Arrays.stream(stringArray))
                              .map(word -> word.replaceAll(Regex.PUNCTUATION.getRegex(), ""))
                              .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
+    }
 
+    public List<String> getDataFromArray(JSONArray jsonArray) {
+        return (List<String>) jsonArray.parallelStream()
+                                       .map(object -> ((JSONObject) object).get("text").toString())
+                                       .collect(Collectors.toList());
     }
 
     @Override
@@ -77,9 +86,11 @@ public class FileHelperImpl implements FileHelper {
 
     @Override
     public JSONObject fileToJSONObject(File file) throws IOException, ParseException {
-        BufferedReader fileReader = new BufferedReader(new FileReader(file));
-        JSONObject jsonObject = (JSONObject) getParser().parse(fileReader);
+        FileReader fileReader = new FileReader(file);
+        BufferedReader bufferedReader = new BufferedReader(fileReader);
+        JSONObject jsonObject = (JSONObject) getParser().parse(bufferedReader);
         fileReader.close();
+        bufferedReader.close();
         return jsonObject;
     }
 

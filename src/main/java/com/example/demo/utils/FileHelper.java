@@ -21,5 +21,5 @@ public interface FileHelper {
 
     List<Path> getResourceFolderFiles() throws IOException;
 
-    void processData(List<JSONObject> jsonObjectList, Map<String, Long> words, List<Path> listOfFiles) throws IOException, ParseException;
+    Map<String, Long> processData(List<JSONObject> jsonObjectList, Map<String, Long> words, List<Path> listOfFiles) throws IOException, ParseException;
 }

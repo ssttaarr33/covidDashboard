@@ -30,8 +30,8 @@ public class FileHelperImpl implements FileHelper {
 
     @Override
     public Map<String, Long> processData(List<JSONObject> jsonObjectList, Map<String, Long> words, List<Path> listOfFiles) throws IOException, ParseException {
-        jsonObjectList = createJsonObjectList(listOfFiles, jsonObjectList);
-        words = parseJsonObjectsV2(jsonObjectList);
+        words = createJsonObjectList(listOfFiles, jsonObjectList);
+        ;
         removeSeveralStuffV2(words);
         return words;
     }
@@ -39,40 +39,32 @@ public class FileHelperImpl implements FileHelper {
 
     @Override
     public void removeSeveralStuffV2(Map<String, Long> words) {
-        Arrays.stream(Regex.values()).forEach(regex -> words.keySet().removeIf(key -> key.matches(regex.getRegex())));
         // remove single occurrences
         words.values().removeIf(value -> value < 30);
-        // remove stopwords
-        removeStopWordsV2(words);
     }
 
     @Override
-    public Map<String, Long> parseJsonObjectsV2(List<JSONObject> jsonObjectList) {
-
-        return jsonObjectList.parallelStream()
-                             .map(jsonObject -> jsonObject.get(BODY_KEY))
-                             .map(array -> ((JSONArray) array).parallelStream()
-                                                              .map(object -> ((JSONObject) object).get(TEXT_KEY).toString())
-                                                              .collect(Collectors.toList()))
-                             .flatMap(stringArray -> ((List<String>) stringArray).stream())
-                             .map(text -> text.split(Regex.SPACE.getRegex()))
-                             .flatMap(stringArray -> Arrays.stream(stringArray))
-                             .map(word -> word.replaceAll(Regex.PUNCTUATION.getRegex(), ""))
-                             .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
-    }
-
-    @Override
-    public List<JSONObject> createJsonObjectList(List<Path> listOfFiles, List<JSONObject> jsonObjectList) throws IOException, ParseException {
+    public Map<String, Long> createJsonObjectList(List<Path> listOfFiles, List<JSONObject> jsonObjectList) {
         return listOfFiles.stream()
                           .map(Either.liftWithValue(path -> fileToJSONObject(path.toFile())))
                           .filter(option -> option.isRight())
                           .map(option -> (JSONObject) option.getRight())
-                          .collect(Collectors.toList());
-
-    }
-
-    private void removeStopWordsV2(Map<String, Long> words) {
-        Arrays.stream(Stopwords.stopWordsofwordnet).map(stopWord -> words.keySet().removeIf(key -> stopWord.contains(key)));
+                          .map(jsonObject -> jsonObject.get(BODY_KEY))
+                          .map(array -> ((JSONArray) array).parallelStream()
+                                                           .map(object -> ((JSONObject) object).get(TEXT_KEY).toString())
+                                                           .collect(Collectors.toList()))
+                          .flatMap(stringArray -> ((List<String>) stringArray).stream())
+                          .map(text -> text.split(Regex.SPACE.getRegex()))
+                          .flatMap(stringArray -> Arrays.stream(stringArray))
+                          .map(word -> word.replaceAll(Regex.PUNCTUATION.getRegex(), ""))
+                          .filter(word -> !word.matches(Regex.SINGLE_CHARACTER.getRegex())
+                                  || !word.matches(Regex.ALPHANUMERIC.getRegex())
+                                  || !word.matches(Regex.SINGLE_DIGIT.getRegex())
+                                  || !word.matches(Regex.DOUBLE_DIGIT.getRegex())
+                                  || !word.matches(Regex.TRIPLE_DIGIT.getRegex())
+                                  || !word.matches(Regex.QUADRUPLE_DIGIT.getRegex())
+                                  || !Arrays.asList(Stopwords.stopWordsofwordnet).contains(word))
+                          .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
     }
 
     private JSONParser getParser() {

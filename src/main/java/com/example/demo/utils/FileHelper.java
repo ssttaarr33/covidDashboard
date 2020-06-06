@@ -13,9 +13,7 @@ public interface FileHelper {
 
     void removeSeveralStuffV2(Map<String, Long> words);
 
-    Map<String, Long> parseJsonObjectsV2(List<JSONObject> jsonObjectList);
-
-    List<JSONObject> createJsonObjectList(List<Path> listOfFiles, List<JSONObject> jsonObjectList) throws IOException, ParseException;
+    Map<String, Long> createJsonObjectList(List<Path> listOfFiles, List<JSONObject> jsonObjectList) throws IOException, ParseException;
 
     JSONObject fileToJSONObject(File file) throws IOException, ParseException;
 

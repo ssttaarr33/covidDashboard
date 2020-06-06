@@ -20,8 +20,6 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 import org.springframework.core.io.DefaultResourceLoader;
-import org.springframework.core.io.Resource;
-import org.springframework.core.io.support.ResourcePatternUtils;
 import org.springframework.stereotype.Service;
 
 @Service
@@ -30,18 +28,25 @@ public class DataLoader {
 
     private DefaultResourceLoader resourceLoader;
 
-    @Timed(description = "Time to load files from jar", value="dataloader.load")
-    public Map<String, Integer> loadDataFromFile() throws IOException, ParseException, URISyntaxException {
+    @Timed(description = "Time to load files from jar", value = "dataloader.load")
+    public Map<String, Integer> loadDataFromFile() throws IOException, URISyntaxException {
         List<JSONObject> jsonObjectList = new ArrayList<>();
         Map<String, Integer> words = new HashMap<>();
         List<Path> listOfFiles = getResourceFolderFiles();
         JSONParser parser = new JSONParser();
         for (int i = 0; i < listOfFiles.size(); i++) {
-           File targetReader = listOfFiles.get(i).toFile();
-           BufferedReader fileReader = new BufferedReader(new FileReader(targetReader));
-           JSONObject jsonObject = (JSONObject) parser.parse(fileReader);
-           fileReader.close();
-           jsonObjectList.add(jsonObject);
+            File targetReader = listOfFiles.get(i).toFile();
+            BufferedReader fileReader = new BufferedReader(new FileReader(targetReader));
+            JSONObject jsonObject = null;
+            try {
+                jsonObject = (JSONObject) parser.parse(fileReader);
+            } catch (ParseException e) {
+            } finally {
+                fileReader.close();
+                if (jsonObject != null) {
+                    jsonObjectList.add(jsonObject);
+                }
+            }
         }
         for (JSONObject obj : jsonObjectList) {
             extractDataFromBody((List) obj.get("body_text"), words);
@@ -81,7 +86,7 @@ public class DataLoader {
         // remove single occurences
         words.values().removeIf(value -> value < 30);
         // remove stopwords
-        for(String stopWord : Stopwords.stopWordsofwordnet){
+        for (String stopWord : Stopwords.stopWordsofwordnet) {
             words.keySet().removeIf(key -> stopWord.contains(key));
         }
     }

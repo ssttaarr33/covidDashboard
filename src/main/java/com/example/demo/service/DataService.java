@@ -6,7 +6,6 @@ import java.util.Map;
 
 import com.example.demo.utils.DataLoader;
 import lombok.AllArgsConstructor;
-import org.json.simple.parser.ParseException;
 import org.springframework.stereotype.Service;
 
 @Service
@@ -19,8 +18,6 @@ public class DataService {
         try {
             return dataLoader.loadDataFromFile();
         } catch (IOException e) {
-            e.printStackTrace();
-        } catch (ParseException e) {
             e.printStackTrace();
         } catch (URISyntaxException e) {
             e.printStackTrace();

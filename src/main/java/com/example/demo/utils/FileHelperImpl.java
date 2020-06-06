@@ -27,7 +27,7 @@ public class FileHelperImpl implements FileHelper {
 
 
     @Override
-    @Timed(description = "Time to load files from jar", value="dataloader.load")
+    @Timed(description = "Time to load files from jar", value = "dataloader.load")
     public void processData(List<JSONObject> jsonObjectList, Map<String, Integer> words, List<Path> listOfFiles) throws IOException, ParseException {
         createJsonObjectList(listOfFiles, jsonObjectList);
         parseJsonObjects(jsonObjectList, words);
@@ -72,7 +72,9 @@ public class FileHelperImpl implements FileHelper {
     @Override
     public void parseJsonObjects(List<JSONObject> jsonObjectList, Map<String, Integer> words) {
         for (JSONObject obj : jsonObjectList) {
-            extractDataFromBody((List) obj.get(BODY_KEY), words);
+            if (obj != null) {
+                extractDataFromBody((List) obj.get(BODY_KEY), words);
+            }
         }
     }
 
@@ -93,10 +95,15 @@ public class FileHelperImpl implements FileHelper {
     }
 
     @Override
-    public JSONObject fileToJSONObject(File file) throws IOException, ParseException {
+    public JSONObject fileToJSONObject(File file) throws IOException {
         BufferedReader fileReader = new BufferedReader(new FileReader(file));
-        JSONObject jsonObject = (JSONObject) getParser().parse(fileReader);
-        fileReader.close();
+        JSONObject jsonObject = null;
+        try {
+            jsonObject = (JSONObject) getParser().parse(fileReader);
+        } catch (ParseException e) {
+        } finally {
+            fileReader.close();
+        }
         return jsonObject;
     }
 

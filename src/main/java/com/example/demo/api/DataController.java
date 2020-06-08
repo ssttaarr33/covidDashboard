@@ -32,7 +32,7 @@ public class DataController {
     @Autowired
     private final DataService dataService;
 
-    @CrossOrigin(origins = "http://localhost:4200")
+    @CrossOrigin(origins = "http://localhost")
     @GetMapping("${app.endpoint.get.data}")
     @ResponseStatus(HttpStatus.OK)
     @ApiOperation("Get data for dashboard")
@@ -42,10 +42,10 @@ public class DataController {
             return RestResponse.ok(dataService.loadData());
         } catch (IOException e) {
             e.printStackTrace();
+            return RestResponse.fail(ERROR_INTERNAL_ERROR, "FAIL: " + e.getMessage(), new HashMap<>());
         } catch (ParseException e) {
             e.printStackTrace();
-        } finally {
-            return RestResponse.fail(ERROR_INTERNAL_ERROR, "FAIL", new HashMap<>());
+            return RestResponse.fail(ERROR_INTERNAL_ERROR, "FAIL: " + e.getMessage(), new HashMap<>());
         }
     }
 }

@@ -65,6 +65,8 @@ public class FileHelperImpl implements FileHelper {
         words.keySet().removeIf(key -> key.matches(Regex.QUADRUPLE_DIGIT.getRegex()));
         // remove single occurrences
         words.values().removeIf(value -> value < 30);
+        words.keySet().removeIf(key -> key.length() < 4);
+        words.keySet().removeIf(key -> key.isEmpty());
         // remove stopwords
         removeStopWords(words);
     }

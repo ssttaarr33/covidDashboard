@@ -57,13 +57,16 @@ public class FileHelperImpl implements FileHelper {
                           .map(text -> text.split(Regex.SPACE.getRegex()))
                           .flatMap(stringArray -> Arrays.stream(stringArray))
                           .map(word -> word.replaceAll(Regex.PUNCTUATION.getRegex(), ""))
-                          .filter(word -> !word.matches(Regex.SINGLE_CHARACTER.getRegex())
-                                  || !word.matches(Regex.ALPHANUMERIC.getRegex())
-                                  || !word.matches(Regex.SINGLE_DIGIT.getRegex())
-                                  || !word.matches(Regex.DOUBLE_DIGIT.getRegex())
-                                  || !word.matches(Regex.TRIPLE_DIGIT.getRegex())
-                                  || !word.matches(Regex.QUADRUPLE_DIGIT.getRegex())
-                                  || !Arrays.asList(Stopwords.stopWordsofwordnet).contains(word))
+                          .filter(word -> !(word.isEmpty())
+                                  && !(word.length() < 4)
+                                  && !word.matches(Regex.SINGLE_CHARACTER.getRegex())
+                                  && !word.matches(Regex.ALPHANUMERIC.getRegex())
+                                  && !word.matches(Regex.SINGLE_DIGIT.getRegex())
+                                  && !word.matches(Regex.DOUBLE_DIGIT.getRegex())
+                                  && !word.matches(Regex.TRIPLE_DIGIT.getRegex())
+                                  && !word.matches(Regex.QUADRUPLE_DIGIT.getRegex())
+                                  && !Arrays.asList(Stopwords.stopWordsofwordnet).contains(word)
+                          )
                           .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
     }
 

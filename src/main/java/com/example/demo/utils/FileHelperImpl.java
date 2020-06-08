@@ -40,8 +40,9 @@ public class FileHelperImpl implements FileHelper {
     @Override
     public void removeSeveralStuffV2(Map<String, Long> words) {
         Arrays.stream(Regex.values()).forEach(regex -> words.keySet().removeIf(key -> key.matches(regex.getRegex())));
-        // remove single occurrences
         words.values().removeIf(value -> value < 30);
+        words.keySet().removeIf(key -> key.length() < 4);
+        words.keySet().removeIf(key -> key.isEmpty());
         // remove stopwords
         removeStopWordsV2(words);
     }

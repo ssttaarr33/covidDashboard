@@ -6,6 +6,7 @@ import java.nio.file.Path;
 import java.util.List;
 import java.util.Map;
 
+import com.fasterxml.jackson.databind.JsonNode;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.ParseException;
 
@@ -15,7 +16,7 @@ public interface FileHelper {
 
     Map<String, Long> createJsonObjectList(List<Path> listOfFiles, List<JSONObject> jsonObjectList) throws IOException, ParseException;
 
-    JSONObject fileToJSONObject(File file) throws IOException, ParseException;
+    JsonNode fileToJSONObject(File file) throws IOException, ParseException;
 
     List<Path> getResourceFolderFiles() throws IOException;
 

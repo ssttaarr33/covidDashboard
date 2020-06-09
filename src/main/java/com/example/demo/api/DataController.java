@@ -26,7 +26,7 @@ public class DataController {
     @Autowired
     DataService dataService;
 
-    @CrossOrigin(origins = "http://localhost:4200")
+    @CrossOrigin(origins = "http://localhost")
     @GetMapping(value = "/dashboard")
     @ResponseStatus(HttpStatus.OK)
     @ApiOperation("Get data for dashboard")

@@ -33,7 +33,6 @@ public class FileHelperImpl implements FileHelper {
     @Override
     public Map<String, Long> processData(List<JSONObject> jsonObjectList, Map<String, Long> words, List<Path> listOfFiles) throws IOException, ParseException {
         words = createJsonObjectList(listOfFiles, jsonObjectList);
-        ;
         removeSeveralStuffV2(words);
         return words;
     }
